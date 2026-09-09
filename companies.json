@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Ramp",
+    "slug": "ramp",
+    "source": "ashby",
+    "board_token": "ramp",
+    "category": "fintech"
+  },
+  {
+    "name": "Brex",
+    "slug": "brex",
+    "source": "greenhouse",
+    "board_token": "brex",
+    "category": "fintech"
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "source": "greenhouse",
+    "board_token": "stripe",
+    "category": "fintech"
+  },
+  {
+    "name": "Plaid",
+    "slug": "plaid",
+    "source": "ashby",
+    "board_token": "plaid",
+    "category": "fintech"
+  },
+  {
+    "name": "Block",
+    "slug": "block",
+    "source": "greenhouse",
+    "board_token": "block",
+    "category": "fintech"
+  },
+  {
+    "name": "Chime",
+    "slug": "chime",
+    "source": "greenhouse",
+    "board_token": "chime",
+    "category": "fintech"
+  },
+  {
+    "name": "Affirm",
+    "slug": "affirm",
+    "source": "greenhouse",
+    "board_token": "affirm",
+    "category": "fintech"
+  },
+  {
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "source": "greenhouse",
+    "board_token": "robinhood",
+    "category": "fintech"
+  },
+  {
+    "name": "SoFi",
+    "slug": "sofi",
+    "source": "greenhouse",
+    "board_token": "sofi",
+    "category": "fintech"
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "source": "greenhouse",
+    "board_token": "mercury",
+    "category": "fintech"
+  },
+  {
+    "name": "Deel",
+    "slug": "deel",
+    "source": "ashby",
+    "board_token": "deel",
+    "category": "fintech"
+  },
+  {
+    "name": "Gusto",
+    "slug": "gusto",
+    "source": "greenhouse",
+    "board_token": "gusto",
+    "category": "fintech"
+  },
+  {
+    "name": "BILL",
+    "slug": "bill",
+    "source": "greenhouse",
+    "board_token": "billcom",
+    "category": "fintech"
+  },
+  {
+    "name": "Carta",
+    "slug": "carta",
+    "source": "greenhouse",
+    "board_token": "carta",
+    "category": "fintech"
+  },
+  {
+    "name": "Navan",
+    "slug": "navan",
+    "source": "greenhouse",
+    "board_token": "tripactions",
+    "category": "fintech"
+  },
+  {
+    "name": "Toast",
+    "slug": "toast",
+    "source": "greenhouse",
+    "board_token": "toast",
+    "category": "fintech"
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "source": "greenhouse",
+    "board_token": "coinbase",
+    "category": "fintech"
+  },
+  {
+    "name": "Kraken",
+    "slug": "kraken",
+    "source": "lever",
+    "board_token": "kraken",
+    "category": "fintech"
+  },
+  {
+    "name": "Betterment",
+    "slug": "betterment",
+    "source": "greenhouse",
+    "board_token": "betterment",
+    "category": "fintech"
+  },
+  {
+    "name": "Adyen",
+    "slug": "adyen",
+    "source": "greenhouse",
+    "board_token": "adyen",
+    "category": "fintech"
+  },
+  {
+    "name": "Wealthfront",
+    "slug": "wealthfront",
+    "source": "lever",
+    "board_token": "wealthfront",
+    "category": "wealth"
+  },
+  {
+    "name": "Melio",
+    "slug": "melio",
+    "source": "greenhouse",
+    "board_token": "melio",
+    "category": "fintech"
+  },
+  {
+    "name": "Monzo",
+    "slug": "monzo",
+    "source": "greenhouse",
+    "board_token": "monzo",
+    "category": "fintech"
+  },
+  {
+    "name": "Checkr",
+    "slug": "checkr",
+    "source": "greenhouse",
+    "board_token": "checkr",
+    "category": "fintech"
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "source": "greenhouse",
+    "board_token": "figma",
+    "category": "tech"
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "source": "ashby",
+    "board_token": "notion",
+    "category": "tech"
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "source": "greenhouse",
+    "board_token": "airbnb",
+    "category": "tech"
+  },
+  {
+    "name": "DoorDash",
+    "slug": "doordash",
+    "source": "greenhouse",
+    "board_token": "doordashusa",
+    "category": "tech"
+  },
+  {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "source": "greenhouse",
+    "board_token": "pinterest",
+    "category": "tech"
+  },
+  {
+    "name": "Roblox",
+    "slug": "roblox",
+    "source": "greenhouse",
+    "board_token": "roblox",
+    "category": "tech"
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "source": "greenhouse",
+    "board_token": "discord",
+    "category": "tech"
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "source": "greenhouse",
+    "board_token": "databricks",
+    "category": "tech"
+  },
+  {
+    "name": "Anthropic",
+    "slug": "anthropic",
+    "source": "greenhouse",
+    "board_token": "anthropic",
+    "category": "tech"
+  },
+  {
+    "name": "OpenAI",
+    "slug": "openai",
+    "source": "ashby",
+    "board_token": "openai",
+    "category": "tech"
+  },
+  {
+    "name": "Scale AI",
+    "slug": "scale",
+    "source": "greenhouse",
+    "board_token": "scaleai",
+    "category": "tech"
+  },
+  {
+    "name": "xAI",
+    "slug": "xai",
+    "source": "greenhouse",
+    "board_token": "xai",
+    "category": "tech"
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "source": "greenhouse",
+    "board_token": "reddit",
+    "category": "tech"
+  },
+  {
+    "name": "Lyft",
+    "slug": "lyft",
+    "source": "greenhouse",
+    "board_token": "lyft",
+    "category": "tech"
+  },
+  {
+    "name": "Instacart",
+    "slug": "instacart",
+    "source": "greenhouse",
+    "board_token": "instacart",
+    "category": "tech"
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "source": "greenhouse",
+    "board_token": "duolingo",
+    "category": "tech"
+  },
+  {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "source": "greenhouse",
+    "board_token": "dropbox",
+    "category": "tech"
+  },
+  {
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "source": "greenhouse",
+    "board_token": "cloudflare",
+    "category": "tech"
+  },
+  {
+    "name": "Samsara",
+    "slug": "samsara",
+    "source": "greenhouse",
+    "board_token": "samsara",
+    "category": "tech"
+  },
+  {
+    "name": "Asana",
+    "slug": "asana",
+    "source": "greenhouse",
+    "board_token": "asana",
+    "category": "tech"
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "source": "greenhouse",
+    "board_token": "datadog",
+    "category": "tech"
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "source": "greenhouse",
+    "board_token": "vercel",
+    "category": "tech"
+  },
+  {
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "source": "greenhouse",
+    "board_token": "hubspotjobs",
+    "category": "tech"
+  },
+  {
+    "name": "Klaviyo",
+    "slug": "klaviyo",
+    "source": "greenhouse",
+    "board_token": "klaviyo",
+    "category": "tech"
+  },
+  {
+    "name": "Attentive",
+    "slug": "attentive",
+    "source": "greenhouse",
+    "board_token": "attentive",
+    "category": "tech"
+  },
+  {
+    "name": "Flexport",
+    "slug": "flexport",
+    "source": "greenhouse",
+    "board_token": "flexport",
+    "category": "tech"
+  },
+  {
+    "name": "Airtable",
+    "slug": "airtable",
+    "source": "greenhouse",
+    "board_token": "airtable",
+    "category": "tech"
+  },
+  {
+    "name": "Linear",
+    "slug": "linear",
+    "source": "ashby",
+    "board_token": "linear",
+    "category": "tech"
+  },
+  {
+    "name": "Perplexity",
+    "slug": "perplexity",
+    "source": "ashby",
+    "board_token": "perplexity",
+    "category": "tech"
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "source": "ashby",
+    "board_token": "cursor",
+    "category": "tech"
+  },
+  {
+    "name": "Spotify",
+    "slug": "spotify",
+    "source": "lever",
+    "board_token": "spotify",
+    "category": "media"
+  },
+  {
+    "name": "Twitch",
+    "slug": "twitch",
+    "source": "greenhouse",
+    "board_token": "twitch",
+    "category": "media"
+  },
+  {
+    "name": "Riot Games",
+    "slug": "riot-games",
+    "source": "greenhouse",
+    "board_token": "riotgames",
+    "category": "media"
+  },
+  {
+    "name": "Epic Games",
+    "slug": "epic-games",
+    "source": "greenhouse",
+    "board_token": "epicgames",
+    "category": "media"
+  },
+  {
+    "name": "Crunchyroll",
+    "slug": "crunchyroll",
+    "source": "greenhouse",
+    "board_token": "crunchyroll",
+    "category": "media"
+  },
+  {
+    "name": "Disney",
+    "slug": "disney",
+    "source": "workday",
+    "board_token": "disney.wd5.myworkdayjobs.com",
+    "category": "media",
+    "verified": false
+  },
+  {
+    "name": "Warner Bros. Discovery",
+    "slug": "warner-bros-discovery",
+    "source": "workday",
+    "board_token": "warnerbros.wd5.myworkdayjobs.com",
+    "category": "media",
+    "verified": false
+  },
+  {
+    "name": "Paramount",
+    "slug": "paramount",
+    "source": "workday",
+    "board_token": "paramount.wd1.myworkdayjobs.com",
+    "category": "media",
+    "verified": false
+  },
+  {
+    "name": "Sony Pictures",
+    "slug": "sony-pictures",
+    "source": "workday",
+    "board_token": "sonypictures.wd1.myworkdayjobs.com",
+    "category": "media",
+    "verified": false
+  },
+  {
+    "name": "Live Nation",
+    "slug": "live-nation",
+    "source": "workday",
+    "board_token": "livenation.wd1.myworkdayjobs.com",
+    "category": "media",
+    "verified": false
+  },
+  {
+    "name": "Activision",
+    "slug": "activision",
+    "source": "workday",
+    "board_token": "activision.wd1.myworkdayjobs.com",
+    "category": "media",
+    "verified": false
+  },
+  {
+    "name": "Fox",
+    "slug": "fox",
+    "source": "workday",
+    "board_token": "fox.wd1.myworkdayjobs.com/Domestic",
+    "category": "media",
+    "verified": true
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "greenhouse:coinbase:8173991": {
+    "id": "greenhouse:coinbase:8173991",
+    "company": "Coinbase",
+    "title": "Accounting Intern",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991",
+    "source": "greenhouse",
+    "first_seen": "2026-09-09",
+    "posted_at": "2026-09-08",
+    "active": true
+  },
+  "greenhouse:coinbase:8175438": {
+    "id": "greenhouse:coinbase:8175438",
+    "company": "Coinbase",
+    "title": "FP&A Intern",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
+    "source": "greenhouse",
+    "first_seen": "2026-09-09",
+    "posted_at": "2026-09-08",
+    "active": true
+  },
+  "greenhouse:coinbase:8175569": {
+    "id": "greenhouse:coinbase:8175569",
+    "company": "Coinbase",
+    "title": "Finance Operations Intern",
+    "location": "Hybrid - New York, NY",
+    "url": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
+    "source": "greenhouse",
+    "first_seen": "2026-09-09",
+    "posted_at": "2026-09-08",
+    "active": true
+  }
+}

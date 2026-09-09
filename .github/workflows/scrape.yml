@@ -1,0 +1,54 @@
+name: scrape
+
+on:
+  schedule:
+    # Every 6 hours, on the hour (UTC).
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      no_notify:
+        description: "Skip Discord alerts (use for the first seed run)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ "${{ github.event.inputs.no_notify }}" = "true" ]; then
+            python scrape.py --no-notify
+          else
+            python scrape.py
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "fintern-bot"
+          git config user.email "fintern-bot@users.noreply.github.com"
+          git add seen.json README.md
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "chore: update postings $(date -u '+%Y-%m-%d %H:%M')"
+          git push
