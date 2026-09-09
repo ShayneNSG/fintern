@@ -39,7 +39,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
-| Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | FP&A Intern | Hybrid - New York, NY | 2026-09-08 | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
+| Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 
-Last updated: 2026-09-09 23:19 UTC. 3 active postings.
+Last updated: 2026-09-09 23:28 UTC. 3 active postings.
