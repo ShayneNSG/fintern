@@ -12,7 +12,7 @@ Shayne, finance major at CSULB, currently an FP&A intern at NBCUniversal. Comfor
 
 ## Goals for v1
 
-1. Runs unattended on a GitHub Actions cron every 6 hours. Zero hosting cost.
+1. Runs unattended on a GitHub Actions cron every hour. Zero hosting cost.
 2. Pulls postings from Greenhouse, Lever, and Ashby public JSON endpoints for a curated list of companies.
 3. Filters to internships and finance roles by title keywords.
 4. Dedupes against previously seen postings.
@@ -132,7 +132,7 @@ Webhook URL comes from env var `DISCORD_WEBHOOK_URL`, stored as a GitHub Actions
 
 ## GitHub Actions (scrape.yml)
 
-Cron every 6 hours plus `workflow_dispatch` (with a `no_notify` checkbox for the seed run). Checkout, setup Python, install requests, run `python scrape.py`, commit and push `seen.json` and `README.md` if changed. Uses the built-in `GITHUB_TOKEN` with `permissions: contents: write`.
+Cron every hour plus `workflow_dispatch` (with a `no_notify` checkbox for the seed run). Checkout, setup Python, install requests, run `python scrape.py`, commit and push `seen.json` and `README.md` if changed. Uses the built-in `GITHUB_TOKEN` with `permissions: contents: write`.
 
 ## Conventions
 

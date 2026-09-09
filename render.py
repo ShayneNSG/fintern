@@ -18,7 +18,7 @@ A curated, auto-updated list of finance internship postings (FP&A, strategic
 finance, corp dev, treasury, bizops, and similar) at companies finance students
 actually want to work for. Not a firehose. The company list is hand-picked.
 
-Refreshes every 6 hours from company career pages. Newest postings on top.
+Refreshes every hour from company career pages. Newest postings on top.
 
 """
 
