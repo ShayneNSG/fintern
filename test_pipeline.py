@@ -152,11 +152,11 @@ def test_first_run_seeds_and_renders(repo: Path, monkeypatch: pytest.MonkeyPatch
     seen = json.loads((repo / "seen.json").read_text())
     assert set(seen) == {"greenhouse:acme:111", "lever:beta:abc-123", "ashby:gamma:uuid-1"}
     assert seen["ashby:gamma:uuid-1"]["location"] == "New York, NY (HQ); San Francisco, CA"
-    assert seen["greenhouse:acme:111"]["posted_at"] == "2026-08-30"
-    assert seen["lever:beta:abc-123"]["posted_at"] == "2026-09-02"
+    assert seen["greenhouse:acme:111"]["posted_at"] == "2026-08-30T09:00:00-04:00"
+    assert seen["lever:beta:abc-123"]["posted_at"] == "2026-09-02T08:00:00+00:00"
     readme = (repo / "README.md").read_text()
     assert render.MARKER in readme
-    assert "| Acme | Finance Intern, Summer 2027 | New York, NY | 2026-08-30 | [Apply](https://boards.greenhouse.io/acme/jobs/111) |" in readme
+    assert "| Acme | Finance Intern, Summer 2027 | New York, NY | 2026-08-30 6:00 AM PT | [Apply](https://boards.greenhouse.io/acme/jobs/111) |" in readme
     assert "3 active postings" in readme
     assert "Software Engineer Intern" not in readme
 

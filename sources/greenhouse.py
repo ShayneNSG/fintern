@@ -40,12 +40,5 @@ class GreenhouseSource(Source):
             location=location.strip(),
             url=job.get("absolute_url", ""),
             source=self.name,
-            posted_at=_date_only(posted),
+            posted_at=posted or None,
         )
-
-
-def _date_only(value: str | None) -> str | None:
-    """Greenhouse gives ISO datetimes with offsets. Keep just YYYY-MM-DD."""
-    if not value:
-        return None
-    return value[:10]

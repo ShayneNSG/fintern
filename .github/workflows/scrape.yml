@@ -2,8 +2,9 @@ name: scrape
 
 on:
   schedule:
-    # Every hour, on the hour (UTC).
-    - cron: "0 * * * *"
+    # Twice an hour at odd minutes. GitHub drops or delays scheduled runs
+    # that land on :00, and a dropped slot should not cost a whole hour.
+    - cron: "13,43 * * * *"
   workflow_dispatch:
     inputs:
       no_notify:

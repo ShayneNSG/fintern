@@ -43,14 +43,14 @@ class LeverSource(Source):
             location=location.strip(),
             url=job.get("hostedUrl") or job.get("applyUrl") or "",
             source=self.name,
-            posted_at=_ms_to_date(job.get("createdAt")),
+            posted_at=_ms_to_iso(job.get("createdAt")),
         )
 
 
-def _ms_to_date(value: Any) -> str | None:
+def _ms_to_iso(value: Any) -> str | None:
     if not value:
         return None
     try:
-        return datetime.fromtimestamp(int(value) / 1000, tz=timezone.utc).date().isoformat()
+        return datetime.fromtimestamp(int(value) / 1000, tz=timezone.utc).isoformat(timespec="seconds")
     except (TypeError, ValueError, OSError):
         return None

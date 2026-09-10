@@ -46,5 +46,5 @@ class AshbySource(Source):
             location=location.strip(),
             url=job.get("jobUrl") or job.get("applyUrl") or "",
             source=self.name,
-            posted_at=(job.get("publishedAt") or "")[:10] or None,
+            posted_at=job.get("publishedAt") or None,
         )

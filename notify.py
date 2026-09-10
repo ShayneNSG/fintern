@@ -14,6 +14,7 @@ import time
 
 import requests
 
+from render import format_posted
 from sources.base import USER_AGENT, Posting
 
 log = logging.getLogger(__name__)
@@ -35,12 +36,16 @@ def require_webhook() -> str:
 
 def format_single(p: Posting) -> str:
     location = p.location or "Location not listed"
-    return f"**New: {p.company}**\n{p.title}\n{location}\n<{p.url}>"
+    posted = f"Posted {format_posted(p.posted_at)}" if p.posted_at else "Posted date not listed"
+    return f"**New: {p.company}**\n{p.title}\n{location}\n{posted}\n<{p.url}>"
 
 
 def format_batch(postings: list[Posting]) -> list[str]:
     """Split a batch into as few messages as fit under Discord's 2000-char cap."""
-    lines = [f"- **{p.company}**: {p.title} ({p.location or 'n/a'}) <{p.url}>" for p in postings]
+    lines = [
+        f"- **{p.company}**: {p.title} ({p.location or 'n/a'}, posted {format_posted(p.posted_at) or 'n/a'}) <{p.url}>"
+        for p in postings
+    ]
     header = f"**{len(postings)} new finance internship postings**\n"
     messages: list[str] = []
     current = header

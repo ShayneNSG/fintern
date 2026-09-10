@@ -12,7 +12,7 @@ Shayne, finance major at CSULB, currently an FP&A intern at NBCUniversal. Comfor
 
 ## Goals for v1
 
-1. Runs unattended on a GitHub Actions cron every hour. Zero hosting cost.
+1. Runs unattended on a GitHub Actions cron twice an hour. Zero hosting cost.
 2. Pulls postings from Greenhouse, Lever, Ashby, and Workday JSON endpoints for a curated list of companies.
 3. Filters to internships and finance roles by title keywords.
 4. Dedupes against previously seen postings.
@@ -75,7 +75,7 @@ fintern/
 * `url` (str): direct apply link
 * `source` (str): greenhouse | lever | ashby | workday
 * `first_seen` (ISO date string, set by us on first sight)
-* `posted_at` (ISO date string or null, from the ATS if available)
+* `posted_at` (ISO datetime with offset from Greenhouse, Lever, and Ashby; date-only from Workday; null if unknown). render.format_posted shows it in Pacific time.
 * `active` (bool): false once the posting disappears from the board
 
 `companies.json` entry:
@@ -135,7 +135,7 @@ Webhook URL comes from env var `DISCORD_WEBHOOK_URL`, stored as a GitHub Actions
 
 ## GitHub Actions (scrape.yml)
 
-Cron every hour plus `workflow_dispatch` (with a `no_notify` checkbox for the seed run). Checkout, setup Python, install requests, run `python scrape.py`, commit and push `seen.json` and `README.md` if changed. Uses the built-in `GITHUB_TOKEN` with `permissions: contents: write`.
+Cron at :13 and :43 every hour (GitHub drops or delays scheduled runs that land on :00, so never schedule on the hour) plus `workflow_dispatch` (with a `no_notify` checkbox for the seed run). Checkout, setup Python, install requests, run `python scrape.py`, commit and push `seen.json` and `README.md` if changed. Uses the built-in `GITHUB_TOKEN` with `permissions: contents: write`.
 
 ## Conventions
 

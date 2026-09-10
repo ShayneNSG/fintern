@@ -18,7 +18,7 @@ A curated, auto-updated list of finance internship postings (FP&A, strategic
 finance, corp dev, treasury, bizops, and similar) at companies finance students
 actually want to work for. Not a firehose. The company list is hand-picked.
 
-Refreshes every hour from company career pages. Newest postings on top.
+Refreshes twice an hour from company career pages. Newest postings on top.
 
 """
 
@@ -27,8 +27,23 @@ def escape_cell(text: str) -> str:
     return (text or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
+def format_posted(value: str | None) -> str:
+    """ISO datetime -> "2026-09-08 11:15 AM PT". Date-only strings pass through."""
+    if not value:
+        return ""
+    if len(value) <= 10:
+        return value
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return value[:10]
+    if parsed.tzinfo is None:
+        return value[:10]
+    return format_pacific(parsed)
+
+
 def row(entry: dict[str, Any]) -> str:
-    posted = entry.get("posted_at") or entry.get("first_seen") or ""
+    posted = format_posted(entry.get("posted_at") or entry.get("first_seen"))
     link = f"[Apply]({entry['url']})" if entry.get("url") else ""
     return "| {} | {} | {} | {} | {} |\n".format(
         escape_cell(entry.get("company", "")),
