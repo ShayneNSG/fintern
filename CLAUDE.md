@@ -113,13 +113,13 @@ A posting passes if ALL of these are true:
 2. Title contains at least one finance keyword (case insensitive): see `FINANCE_KEYWORDS`.
 3. Title does NOT contain an exclude keyword: see `EXCLUDE_KEYWORDS`.
 
-Companies in `RELAXED_CATEGORIES` (`bank`, `pe`, `consulting`, `wealth`) skip check 2. At those firms every summer analyst is a finance hire and the title rarely says so. The exclude list still applies, and it carries `technology`, `quantitative`, `marketing`, `legal`, `human resources`, and `communications` mainly for this case.
+Companies in `RELAXED_CATEGORIES` (`bank`, `pe`, `wealth`) skip check 2. At those firms every summer analyst is a finance hire and the title rarely says so. The exclude list still applies, and it carries `technology`, `quantitative`, `marketing`, `legal`, `human resources`, `communications`, and `actuarial` mainly for this case. Consulting is not relaxed: Accenture and PwC post hundreds of non-finance internships, so those titles must say finance, consulting, or similar.
 
 Keywords match at the start of a word, so `intern` catches `Internship` but `tax` does not catch `Syntax`. `Internal` and `International` are explicitly excluded from the intern signal.
 
 Include and exclude lists are module-level constants. Filtered-out titles log at debug level (`python scrape.py -v`) so we can tune.
 
-Location: v1 does not filter by location. Include everything, show location in the table.
+Location: `US_ONLY = True` in filters.py. A posting is dropped only when its location names somewhere outside the US (`NON_US_SIGNALS`) and nothing in it points to the US (`US_SIGNALS`, a two-letter state code). Blank, "Remote", and unrecognized locations are kept, since dropping what we cannot read would lose real US roles. Location strings are messy ("WI-Milwaukee", "Toronto - 18 York Street", "Berkeley Square House London"), so the lists are long on purpose.
 
 ## Dedupe
 
@@ -127,7 +127,7 @@ Location: v1 does not filter by location. Include everything, show location in t
 
 ## README rendering (render.py)
 
-README has a hand-written header above `<!-- TABLE_START -->`. Everything below the marker is regenerated on every run. Sorted by `first_seen` descending. Only active postings. Columns: Company | Role | Location | Posted | Apply. Last-updated timestamp and total count at the bottom.
+README has a hand-written header above `<!-- TABLE_START -->`. Everything below the marker is regenerated on every run. Sorted by `first_seen` descending. Only active postings. Columns: Company | Role | Location | Posted | Apply. Last-updated timestamp (Pacific time) and total count at the bottom.
 
 ## Discord (notify.py)
 

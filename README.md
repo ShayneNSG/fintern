@@ -30,9 +30,10 @@ About 90 companies across fintech, tech, media, banks, private equity, and
 consulting. Fintech and tech boards come from Greenhouse, Lever, and Ashby.
 Banks, PE, and consulting mostly run on Workday, which has no official API,
 so those go through the same JSON feed the Workday careers pages use
-themselves. For bank, PE, consulting, and wealth firms the title only has to
-look like an internship or summer analyst role, since "2027 Summer Analyst"
-at Blackstone is the finance job.
+themselves. For bank, PE, and wealth firms the title only has to look like an
+internship or summer analyst role, since "2027 Summer Analyst" at Blackstone
+is the finance job. US locations only; roles that name a city or country
+outside the US are dropped.
 
 ## Companies not covered yet
 
@@ -43,7 +44,6 @@ Uber, Snap, Netflix, NBCUniversal, Paramount, Activision, Rippling, Marqeta,
 Canva, and Snowflake.
 
 Want a company added? Open a PR against `companies.json`.
-
 
 <!-- TABLE_START -->
 

@@ -76,7 +76,7 @@ ASHBY = {
 }
 
 WORKDAY_PAGE = {
-    "total": 3,
+    "total": 4,
     "jobPostings": [
         {
             "title": "2027 Summer Analyst Program",
@@ -91,6 +91,13 @@ WORKDAY_PAGE = {
             "locationsText": "New York",
             "postedOn": "Posted Today",
             "bulletFields": ["40002"],
+        },
+        {
+            "title": "2027 Summer Analyst Program (London)",
+            "externalPath": "/job/London/XMLNAME-2027-Summer-Analyst-Program--London-_40004",
+            "locationsText": "London",
+            "postedOn": "Posted Today",
+            "bulletFields": ["40004"],
         },
         {
             "title": "Vice President, Private Equity",
@@ -216,7 +223,7 @@ def test_workday_relaxed_filter(repo: Path, monkeypatch: pytest.MonkeyPatch) -> 
     patch_sources(monkeypatch, {"omega": WORKDAY_PAGE})
     scrape.main(["--no-notify"])
     seen = json.loads((repo / "seen.json").read_text())
-    assert set(seen) == {"workday:omega:40001"}
+    assert set(seen) == {"workday:omega:40001"}  # London one is dropped by the US filter
     entry = seen["workday:omega:40001"]
     assert entry["url"] == "https://omega.wd1.myworkdayjobs.com/Campus/job/New-York/XMLNAME-2027-Summer-Analyst-Program_40001"
     assert entry["posted_at"] is not None

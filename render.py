@@ -53,9 +53,20 @@ def build_table(seen: dict[str, dict[str, Any]], now: datetime) -> str:
     body = "".join(row(e) for e in entries)
     if not entries:
         body = "| No active postings right now. Check back soon. | | | | |\n"
-    stamp = now.strftime("%Y-%m-%d %H:%M UTC")
+    stamp = format_pacific(now)
     footer = f"\nLast updated: {stamp}. {len(entries)} active posting{'s' if len(entries) != 1 else ''}.\n"
     return HEADER + body + footer
+
+
+def format_pacific(now: datetime) -> str:
+    """Render a UTC datetime as Pacific time, falling back to UTC if tz data is missing."""
+    try:
+        from zoneinfo import ZoneInfo
+
+        local = now.astimezone(ZoneInfo("America/Los_Angeles"))
+        return local.strftime("%Y-%m-%d %I:%M %p PT").replace(" 0", " ")
+    except Exception:
+        return now.strftime("%Y-%m-%d %H:%M UTC")
 
 
 def write_readme(seen: dict[str, dict[str, Any]], path: Path, now: datetime) -> None:

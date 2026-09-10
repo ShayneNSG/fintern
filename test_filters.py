@@ -2,13 +2,19 @@
 
 from __future__ import annotations
 
-from filters import passes
+from filters import is_us_location, passes
 
 RELAXED_SHOULD_PASS = [
     "2027 Summer Analyst Program",
     "2027 Investment Banking Summer Analyst",
     "Summer Intern, Corporate Banking",
 ]
+
+US_LOCATIONS = ["New York, NY", "Hybrid - New York, NY", "WI-Milwaukee", "", "Remote",
+                "Paris, TX", "Dublin, OH", "Washington, DC", "Multiple Locations",
+                "Toronto - 18 York Street; New York, NY"]
+NON_US_LOCATIONS = ["London", "Toronto - 18 York Street", "Berkeley Square House London",
+                    "Frankfurt Omniturm", "Singapore", "Paris", "Bangalore", "Mexico City"]
 
 RELAXED_SHOULD_FAIL = [
     "2027 Technology Summer Analyst",
@@ -59,6 +65,13 @@ def test_fail() -> None:
         assert not passes(title), title
 
 
+def test_locations() -> None:
+    for loc in US_LOCATIONS:
+        assert is_us_location(loc), loc
+    for loc in NON_US_LOCATIONS:
+        assert not is_us_location(loc), loc
+
+
 def test_relaxed() -> None:
     for title in RELAXED_SHOULD_PASS:
         assert passes(title, relaxed=True), title
@@ -70,4 +83,5 @@ if __name__ == "__main__":
     test_pass()
     test_fail()
     test_relaxed()
+    test_locations()
     print("filters ok")
