@@ -184,7 +184,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": null,
-    "active": false
+    "active": true
   },
   "workday:accenture:R00328773": {
     "id": "workday:accenture:R00328773",
@@ -195,7 +195,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": null,
-    "active": false
+    "active": true
   },
   "workday:accenture:R00330079": {
     "id": "workday:accenture:R00330079",
@@ -239,7 +239,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": null,
-    "active": false
+    "active": true
   },
   "workday:accenture:R00337862": {
     "id": "workday:accenture:R00337862",
@@ -285,6 +285,17 @@
     "posted_at": "2026-08-27",
     "active": false
   },
+  "workday:accenture:R00348064": {
+    "id": "workday:accenture:R00348064",
+    "company": "Accenture",
+    "title": "Junior SAP Finance Analyst - Internship",
+    "location": "",
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Finance-Analyst_R00348064-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
+    "active": true
+  },
   "workday:accenture:R00350274": {
     "id": "workday:accenture:R00350274",
     "company": "Accenture",
@@ -294,7 +305,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-08-11",
-    "active": false
+    "active": true
   },
   "workday:accenture:R00351141": {
     "id": "workday:accenture:R00351141",
@@ -315,8 +326,8 @@
     "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Finance---AI-Intern-ML13_R00353272",
     "source": "workday",
     "first_seen": "2026-09-10",
-    "posted_at": "2026-09-01",
-    "active": false
+    "posted_at": "2026-08-31",
+    "active": true
   },
   "workday:accenture:R00354373": {
     "id": "workday:accenture:R00354373",
@@ -382,6 +393,28 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": null,
+    "active": true
+  },
+  "workday:baird:R20261000": {
+    "id": "workday:baird:R20261000",
+    "company": "Baird",
+    "title": "Internship – Business Coordinator (Year-Round)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Business-Coordinator--Year-Round-_R20261000-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
+    "active": true
+  },
+  "workday:baird:R20261003": {
+    "id": "workday:baird:R20261003",
+    "company": "Baird",
+    "title": "Internship – Public Relations (Year-Round)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Public-Relations--Year-Round-_R20261003-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
     "active": true
   },
   "workday:baird:R2026883": {
@@ -525,6 +558,17 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-09",
+    "active": true
+  },
+  "workday:baird:R2026998": {
+    "id": "workday:baird:R2026998",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Akron, OH Summer 2027)",
+    "location": "OH-Akron",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
     "active": true
   },
   "workday:blackstone:40628": {
@@ -1135,12 +1179,12 @@
   "workday:bmo:R260025898": {
     "id": "workday:bmo:R260025898",
     "company": "BMO",
-    "title": "Credit Analyst Internship - Wausau, WI (Summer 2027)",
+    "title": "Credit Analyst Internship - Wausau/Eau Claire, WI (Summer 2027)",
     "location": "Wausau, WI, USA",
     "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Wausau-WI-USA/Credit-Analyst-Internship---Wausau--WI--Summer-2027-_R260025898-1",
     "source": "workday",
     "first_seen": "2026-09-10",
-    "posted_at": "2026-09-02",
+    "posted_at": "2026-09-10",
     "active": true
   },
   "workday:bmo:R260025994": {
@@ -3291,12 +3335,12 @@
   "workday:rbc:R-0000187334": {
     "id": "workday:rbc:R-0000187334",
     "company": "RBC",
-    "title": "2027 Capital Markets, Operations Summer Analyst",
+    "title": "2027 Capital Markets, COO Operations Summer Analyst",
     "location": "Chicago, Illinois, United States of America",
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Chicago-Illinois-United-States-of-America/XMLNAME-2027-Capital-Markets--Operations-Summer-Analyst_R-0000187334",
     "source": "workday",
     "first_seen": "2026-09-10",
-    "posted_at": "2026-09-09",
+    "posted_at": "2026-09-10",
     "active": true
   },
   "workday:rbc:R-0000187346": {
@@ -3726,7 +3770,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-01",
-    "active": true
+    "active": false
   },
   "workday:td-bank:R_1508875": {
     "id": "workday:td-bank:R_1508875",
@@ -3891,6 +3935,17 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-09",
+    "active": true
+  },
+  "workday:td-bank:R_1510260": {
+    "id": "workday:td-bank:R_1510260",
+    "company": "TD Bank",
+    "title": "2027 Summer Internship Program - Commercial Banking",
+    "location": "New York, New York",
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1510260",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
     "active": true
   },
   "workday:wells-fargo:R-555489": {
