@@ -54,12 +54,13 @@ Want a company added? Open a PR against `companies.json`.
 | Wells Fargo | 2026 Corporate & Investment Banking COO Internship Program – Early Careers​ | 2 Locations | 2026-09-10 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2026-Corporate---Investment-Banking-COO-Internship-Program---Early-Careers-_R-574177) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking | New York, New York | 2026-09-10 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1510260) |
 | RBC | 2027 Capital Markets, COO Operations Summer Analyst | Chicago, Illinois, United States of America | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Chicago-Illinois-United-States-of-America/XMLNAME-2027-Capital-Markets--Operations-Summer-Analyst_R-0000187334) |
+| RBC | 2027 Winter Change Management Intern (4 months) | 2 Locations | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Change-Management-Intern--4-months-_R-0000186549-1) |
 | Baird | Internship – Business Coordinator (Year-Round) | WI-Milwaukee | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Business-Coordinator--Year-Round-_R20261000-1) |
 | Baird | Internship – Public Relations (Year-Round) | WI-Milwaukee | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Public-Relations--Year-Round-_R20261003-1) |
-| Baird | Internship – Private Wealth Management (Akron, OH Summer 2027) | OH-Akron | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1) |
-| Baird | Internship – Compliance (Year-Round) | WI-Milwaukee | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2) |
 | Baird | Internship – Graphic Design (Year-Round) | WI-Milwaukee | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Graphic-Design--Year-Round-_R20261004-1) |
+| Baird | Internship – Compliance (Year-Round) | WI-Milwaukee | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2) |
 | Baird | Internship – Conference Services (Year-Round) | WI-Milwaukee | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Conference-Services--Year-Round-_R20261006-1) |
+| Baird | Internship – Private Wealth Management (Akron, OH Summer 2027) | OH-Akron | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1) |
 | BMO | Credit Analyst Internship - Wausau/Eau Claire, WI (Summer 2027) | Wausau, WI, USA | 2026-09-10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Wausau-WI-USA/Credit-Analyst-Internship---Wausau--WI--Summer-2027-_R260025898-1) |
 | Accenture | Junior SAP Finance Analyst - Internship | Not listed | 2026-09-10 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Finance-Analyst_R00348064-1) |
 | Wells Fargo | 2027 Finance Summer Internship – Early Careers​ | 2 Locations | 2026-09-09 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/Bengaluru-India/XMLNAME-2027-Finance-Summer-Internship---Early-Careers-_R-570926) |
@@ -173,4 +174,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-10 12:20 PM PT. 123 active postings.
+Last updated: 2026-09-10 2:56 PM PT. 124 active postings.

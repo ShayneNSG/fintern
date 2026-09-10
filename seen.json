@@ -3288,6 +3288,17 @@
     "posted_at": "2026-09-01",
     "active": false
   },
+  "workday:rbc:R-0000186549": {
+    "id": "workday:rbc:R-0000186549",
+    "company": "RBC",
+    "title": "2027 Winter Change Management Intern (4 months)",
+    "location": "2 Locations",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Change-Management-Intern--4-months-_R-0000186549-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
+    "active": true
+  },
   "workday:rbc:R-0000186573": {
     "id": "workday:rbc:R-0000186573",
     "company": "RBC",
