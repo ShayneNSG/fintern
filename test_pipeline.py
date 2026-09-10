@@ -75,12 +75,39 @@ ASHBY = {
     ]
 }
 
+WORKDAY_PAGE = {
+    "total": 3,
+    "jobPostings": [
+        {
+            "title": "2027 Summer Analyst Program",
+            "externalPath": "/job/New-York/XMLNAME-2027-Summer-Analyst-Program_40001",
+            "locationsText": "New York",
+            "postedOn": "Posted 3 Days Ago",
+            "bulletFields": ["40001"],
+        },
+        {
+            "title": "2027 Data Science Summer Analyst",
+            "externalPath": "/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_40002",
+            "locationsText": "New York",
+            "postedOn": "Posted Today",
+            "bulletFields": ["40002"],
+        },
+        {
+            "title": "Vice President, Private Equity",
+            "externalPath": "/job/New-York/VP_40003",
+            "locationsText": "New York",
+            "postedOn": "Posted 30+ Days Ago",
+            "bulletFields": ["40003"],
+        },
+    ],
+}
+
 COMPANIES = [
     {"name": "Acme", "slug": "acme", "source": "greenhouse", "board_token": "acme", "category": "fintech"},
     {"name": "Beta", "slug": "beta", "source": "lever", "board_token": "beta", "category": "tech"},
     {"name": "Gamma", "slug": "gamma", "source": "ashby", "board_token": "gamma", "category": "tech"},
     {"name": "Delta", "slug": "delta", "source": "greenhouse", "board_token": "delta", "category": "media"},
-    {"name": "Omega", "slug": "omega", "source": "workday", "board_token": "omega.wd1", "category": "media"},
+    {"name": "Omega", "slug": "omega", "source": "workday", "board_token": "omega.wd1.myworkdayjobs.com/Campus", "category": "pe"},
 ]
 
 
@@ -109,6 +136,7 @@ def patch_sources(monkeypatch: pytest.MonkeyPatch, responses: dict[str, Any]) ->
     getter = fake_get_json(responses)
     for module in ("sources.greenhouse", "sources.lever", "sources.ashby"):
         monkeypatch.setattr(f"{module}.get_json", getter)
+    monkeypatch.setattr("sources.workday.post_json", lambda url, body: getter(url))
 
 
 def test_first_run_seeds_and_renders(repo: Path, monkeypatch: pytest.MonkeyPatch) -> None:
@@ -184,8 +212,15 @@ def test_bad_companies_json_fails_loud(repo: Path) -> None:
         scrape.main(["--no-notify"])
 
 
-def test_workday_is_registered_but_skipped() -> None:
-    assert SOURCES["workday"].implemented is False
+def test_workday_relaxed_filter(repo: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    patch_sources(monkeypatch, {"omega": WORKDAY_PAGE})
+    scrape.main(["--no-notify"])
+    seen = json.loads((repo / "seen.json").read_text())
+    assert set(seen) == {"workday:omega:40001"}
+    entry = seen["workday:omega:40001"]
+    assert entry["url"] == "https://omega.wd1.myworkdayjobs.com/Campus/job/New-York/XMLNAME-2027-Summer-Analyst-Program_40001"
+    assert entry["posted_at"] is not None
+    assert SOURCES["workday"].implemented is True
 
 
 def test_render_empty() -> None:

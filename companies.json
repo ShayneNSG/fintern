@@ -416,56 +416,224 @@
     "name": "Disney",
     "slug": "disney",
     "source": "workday",
-    "board_token": "disney.wd5.myworkdayjobs.com",
-    "category": "media",
-    "verified": false
+    "board_token": "disney.wd5.myworkdayjobs.com/disneycareer",
+    "category": "media"
   },
   {
     "name": "Warner Bros. Discovery",
     "slug": "warner-bros-discovery",
     "source": "workday",
-    "board_token": "warnerbros.wd5.myworkdayjobs.com",
-    "category": "media",
-    "verified": false
-  },
-  {
-    "name": "Paramount",
-    "slug": "paramount",
-    "source": "workday",
-    "board_token": "paramount.wd1.myworkdayjobs.com",
-    "category": "media",
-    "verified": false
+    "board_token": "warnerbros.wd5.myworkdayjobs.com/global",
+    "category": "media"
   },
   {
     "name": "Sony Pictures",
     "slug": "sony-pictures",
     "source": "workday",
-    "board_token": "sonypictures.wd1.myworkdayjobs.com",
-    "category": "media",
-    "verified": false
+    "board_token": "spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment",
+    "category": "media"
   },
   {
     "name": "Live Nation",
     "slug": "live-nation",
     "source": "workday",
-    "board_token": "livenation.wd1.myworkdayjobs.com",
-    "category": "media",
-    "verified": false
-  },
-  {
-    "name": "Activision",
-    "slug": "activision",
-    "source": "workday",
-    "board_token": "activision.wd1.myworkdayjobs.com",
-    "category": "media",
-    "verified": false
+    "board_token": "livenation.wd1.myworkdayjobs.com/LNExternalSite",
+    "category": "media"
   },
   {
     "name": "Fox",
     "slug": "fox",
     "source": "workday",
     "board_token": "fox.wd1.myworkdayjobs.com/Domestic",
-    "category": "media",
-    "verified": true
+    "category": "media"
+  },
+  {
+    "name": "Wells Fargo",
+    "slug": "wells-fargo",
+    "source": "workday",
+    "board_token": "wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs",
+    "category": "bank"
+  },
+  {
+    "name": "Capital One",
+    "slug": "capital-one",
+    "source": "workday",
+    "board_token": "capitalone.wd12.myworkdayjobs.com/Capital_One",
+    "category": "bank"
+  },
+  {
+    "name": "TD Bank",
+    "slug": "td-bank",
+    "source": "workday",
+    "board_token": "td.wd3.myworkdayjobs.com/TD_Bank_Careers",
+    "category": "bank"
+  },
+  {
+    "name": "RBC",
+    "slug": "rbc",
+    "source": "workday",
+    "board_token": "rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1",
+    "category": "bank"
+  },
+  {
+    "name": "BMO",
+    "slug": "bmo",
+    "source": "workday",
+    "board_token": "bmo.wd3.myworkdayjobs.com/Campus",
+    "category": "bank"
+  },
+  {
+    "name": "Santander",
+    "slug": "santander",
+    "source": "workday",
+    "board_token": "santander.wd3.myworkdayjobs.com/SantanderCareers",
+    "category": "bank"
+  },
+  {
+    "name": "Mizuho Americas",
+    "slug": "mizuho",
+    "source": "workday",
+    "board_token": "mizuho.wd1.myworkdayjobs.com/mizuhoamericas",
+    "category": "bank"
+  },
+  {
+    "name": "Houlihan Lokey",
+    "slug": "houlihan-lokey",
+    "source": "workday",
+    "board_token": "hl.wd1.myworkdayjobs.com/Campus",
+    "category": "bank"
+  },
+  {
+    "name": "PJT Partners",
+    "slug": "pjt-partners",
+    "source": "workday",
+    "board_token": "pjtpartners.wd1.myworkdayjobs.com/Students",
+    "category": "bank"
+  },
+  {
+    "name": "Guggenheim",
+    "slug": "guggenheim",
+    "source": "workday",
+    "board_token": "guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers_Campus",
+    "category": "bank"
+  },
+  {
+    "name": "Moelis",
+    "slug": "moelis",
+    "source": "workday",
+    "board_token": "moelis.wd1.myworkdayjobs.com/Experienced-Hires",
+    "category": "bank"
+  },
+  {
+    "name": "Rothschild & Co",
+    "slug": "rothschild",
+    "source": "workday",
+    "board_token": "rothschildandco.wd3.myworkdayjobs.com/Rothschildandco_Lateral",
+    "category": "bank"
+  },
+  {
+    "name": "Piper Sandler",
+    "slug": "piper-sandler",
+    "source": "workday",
+    "board_token": "pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
+    "category": "bank"
+  },
+  {
+    "name": "Raymond James",
+    "slug": "raymond-james",
+    "source": "workday",
+    "board_token": "raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers",
+    "category": "bank"
+  },
+  {
+    "name": "Baird",
+    "slug": "baird",
+    "source": "workday",
+    "board_token": "baird.wd1.myworkdayjobs.com/Careers",
+    "category": "bank"
+  },
+  {
+    "name": "Stout",
+    "slug": "stout",
+    "source": "workday",
+    "board_token": "stout.wd5.myworkdayjobs.com/Stout-Careers-URL",
+    "category": "bank"
+  },
+  {
+    "name": "Blackstone",
+    "slug": "blackstone",
+    "source": "workday",
+    "board_token": "blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers",
+    "category": "pe"
+  },
+  {
+    "name": "Apollo",
+    "slug": "apollo",
+    "source": "workday",
+    "board_token": "athene.wd5.myworkdayjobs.com/Apollo_Careers",
+    "category": "pe"
+  },
+  {
+    "name": "Carlyle",
+    "slug": "carlyle",
+    "source": "workday",
+    "board_token": "carlyle.wd1.myworkdayjobs.com/Carlyle",
+    "category": "pe"
+  },
+  {
+    "name": "Ares",
+    "slug": "ares",
+    "source": "workday",
+    "board_token": "aresmgmt.wd1.myworkdayjobs.com/External",
+    "category": "pe"
+  },
+  {
+    "name": "Bain Capital",
+    "slug": "bain-capital",
+    "source": "workday",
+    "board_token": "baincapital.wd1.myworkdayjobs.com/External_Public",
+    "category": "pe"
+  },
+  {
+    "name": "PwC",
+    "slug": "pwc",
+    "source": "workday",
+    "board_token": "pwc.wd3.myworkdayjobs.com/Global_Campus_Careers",
+    "category": "consulting"
+  },
+  {
+    "name": "Accenture",
+    "slug": "accenture",
+    "source": "workday",
+    "board_token": "accenture.wd103.myworkdayjobs.com/AccentureCareers",
+    "category": "consulting"
+  },
+  {
+    "name": "Oliver Wyman (Marsh McLennan)",
+    "slug": "oliver-wyman",
+    "source": "workday",
+    "board_token": "mmc.wd1.myworkdayjobs.com/MMC",
+    "category": "consulting"
+  },
+  {
+    "name": "FTI Consulting",
+    "slug": "fti-consulting",
+    "source": "workday",
+    "board_token": "fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers",
+    "category": "consulting"
+  },
+  {
+    "name": "Alvarez & Marsal",
+    "slug": "alvarez-marsal",
+    "source": "workday",
+    "board_token": "alvarezandmarsal.wd1.myworkdayjobs.com/alvarezandmarsalp",
+    "category": "consulting"
+  },
+  {
+    "name": "Guidehouse",
+    "slug": "guidehouse",
+    "source": "workday",
+    "board_token": "guidehouse.wd1.myworkdayjobs.com/External",
+    "category": "consulting"
   }
 ]

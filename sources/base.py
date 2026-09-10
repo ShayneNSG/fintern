@@ -64,12 +64,28 @@ class SourceError(Exception):
 
 def get_json(url: str, params: dict[str, Any] | None = None) -> Any:
     """GET a JSON endpoint politely: UA header, delay, backoff on 429 and 5xx."""
+    return request_json("GET", url, params=params)
+
+
+def post_json(url: str, body: dict[str, Any]) -> Any:
+    """POST a JSON body and parse the JSON reply, same politeness as get_json."""
+    return request_json("POST", url, body=body)
+
+
+def request_json(
+    method: str,
+    url: str,
+    params: dict[str, Any] | None = None,
+    body: dict[str, Any] | None = None,
+) -> Any:
     headers = {"User-Agent": USER_AGENT, "Accept": "application/json"}
     last_error: Exception | None = None
     for attempt in range(1, MAX_RETRIES + 1):
         time.sleep(REQUEST_DELAY_SECONDS)
         try:
-            resp = requests.get(url, params=params, headers=headers, timeout=TIMEOUT_SECONDS)
+            resp = requests.request(
+                method, url, params=params, json=body, headers=headers, timeout=TIMEOUT_SECONDS
+            )
         except requests.RequestException as exc:
             last_error = exc
             log.warning("request failed (%s/%s) %s: %s", attempt, MAX_RETRIES, url, exc)

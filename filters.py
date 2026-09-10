@@ -49,6 +49,18 @@ FINANCE_KEYWORDS: list[str] = [
     "business operations",
     "revenue operations",
     "accounting",
+    "corporate banking",
+    "commercial banking",
+    "capital markets",
+    "sales & trading",
+    "sales and trading",
+    "global markets",
+    "restructuring",
+    "m&a",
+    "mergers",
+    "private credit",
+    "consulting",
+    "consultant",
 ]
 
 EXCLUDE_KEYWORDS: list[str] = [
@@ -57,6 +69,13 @@ EXCLUDE_KEYWORDS: list[str] = [
     "engineering",
     "data science",
     "machine learning",
+    "technology",
+    "quantitative",
+    "quant ",
+    "marketing",
+    "legal",
+    "human resources",
+    "communications",
     "tax",
     "audit",
     "assurance",
@@ -65,6 +84,11 @@ EXCLUDE_KEYWORDS: list[str] = [
     "accounts receivable",
     "bookkeep",
 ]
+
+# Companies in these categories hire interns almost entirely into finance
+# roles, and their titles rarely say "finance" ("2027 Summer Analyst"). For
+# them the finance keyword check is skipped; the exclude list still applies.
+RELAXED_CATEGORIES: set[str] = {"bank", "pe", "consulting", "wealth"}
 
 
 def _compile(keywords: list[str]) -> re.Pattern[str]:
@@ -99,12 +123,15 @@ def is_excluded(title: str) -> bool:
     return bool(_EXCLUDE_RE.search(title))
 
 
-def passes(title: str) -> bool:
-    """True when the title is an internship, is finance, and hits no exclude word."""
+def passes(title: str, relaxed: bool = False) -> bool:
+    """True when the title is an internship, is finance, and hits no exclude word.
+
+    relaxed=True skips the finance check (see RELAXED_CATEGORIES).
+    """
     if not is_internship(title):
         log.debug("filtered (not internship): %s", title)
         return False
-    if not is_finance(title):
+    if not relaxed and not is_finance(title):
         log.debug("filtered (not finance): %s", title)
         return False
     if is_excluded(title):
@@ -113,7 +140,9 @@ def passes(title: str) -> bool:
     return True
 
 
-def apply(postings: list[Posting]) -> list[Posting]:
-    kept = [p for p in postings if passes(p.title)]
+def apply(postings: list[Posting], relaxed_companies: set[str] | None = None) -> list[Posting]:
+    """Filter postings. relaxed_companies holds company names in RELAXED_CATEGORIES."""
+    relaxed = relaxed_companies or set()
+    kept = [p for p in postings if passes(p.title, p.company in relaxed)]
     log.info("filter: %d of %d postings passed", len(kept), len(postings))
     return kept

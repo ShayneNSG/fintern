@@ -13,7 +13,7 @@ Shayne, finance major at CSULB, currently an FP&A intern at NBCUniversal. Comfor
 ## Goals for v1
 
 1. Runs unattended on a GitHub Actions cron every hour. Zero hosting cost.
-2. Pulls postings from Greenhouse, Lever, and Ashby public JSON endpoints for a curated list of companies.
+2. Pulls postings from Greenhouse, Lever, Ashby, and Workday JSON endpoints for a curated list of companies.
 3. Filters to internships and finance roles by title keywords.
 4. Dedupes against previously seen postings.
 5. Regenerates a README.md table (Company, Role, Location, Date Posted, Apply link) and commits it.
@@ -24,7 +24,7 @@ Done means: I open the repo and see current finance internships, and my phone bu
 ## Non-goals for v1
 
 * No LinkedIn, Handshake, Glassdoor, or Indeed scraping. They block, break, or require login. Do not attempt.
-* No Workday. It has no public API and every tenant is different. Stub the interface so it can be added in v2, but do not build it now.
+* Workday was originally a v2 item. It was pulled forward on 2026-09-09 because banks, PE, and consulting are almost entirely Workday. It uses the unofficial cxs endpoint, so it is the one source that could break without warning.
 * No web UI, no database, no auth, no hosting. JSON files in the repo are the database.
 * No AI classification of roles. Keyword matching is enough for v1.
 * No applying, no tracking applications, no user accounts.
@@ -53,7 +53,7 @@ fintern/
     greenhouse.py
     lever.py
     ashby.py
-    workday.py              stub only, raises NotImplementedError
+    workday.py              unofficial cxs JSON endpoint, targeted searches
   scrape.py                 main entry: load companies, run sources, filter, dedupe, write outputs
   render.py                 builds README table from seen.json
   notify.py                 Discord webhook
@@ -90,17 +90,18 @@ fintern/
 }
 ```
 
-`category` is one of: `fintech`, `tech`, `media`, `bank`, `wealth`, `other`. Used for README grouping later.
+`category` is one of: `fintech`, `tech`, `media`, `bank`, `pe`, `consulting`, `wealth`, `other`. Used for README grouping later and by the relaxed filter (see below).
 
-Workday entries carry `"verified": false` until someone confirms the tenant URL. Extra keys are ignored by the loader.
+Workday `board_token` is the careers URL minus the scheme: `blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers` or `wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs`. Verify by opening it in a browser before adding. Extra keys are ignored by the loader.
 
 ## ATS endpoints
 
 * Greenhouse: `https://boards-api.greenhouse.io/v1/boards/{board_token}/jobs`
 * Lever: `https://api.lever.co/v0/postings/{company}?mode=json`
 * Ashby: `https://api.ashbyhq.com/posting-api/job-board/{board_name}`
+* Workday: `POST https://{host}/wday/cxs/{tenant}/{site}/jobs` with `{"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": "intern"}`. Unofficial. Big tenants have thousands of jobs, so workday.py runs a couple of targeted searches (`intern`, `summer analyst`) capped at 15 pages each instead of paging the whole board.
 
-All three return JSON with no auth. Each source module handles its own response shape and returns a list of `Posting`. If a company's endpoint 404s or errors, log it and continue. One bad company must never kill the run.
+All four return JSON with no auth. Each source module handles its own response shape and returns a list of `Posting`. If a company's endpoint 404s or errors, log it and continue. One bad company must never kill the run.
 
 Be polite. Small delay between requests, a real User-Agent string, and retries with backoff on 429 or 5xx. All of that lives in `sources/base.py::get_json`.
 
@@ -111,6 +112,8 @@ A posting passes if ALL of these are true:
 1. Title contains an internship signal: `intern`, `internship`, `co-op`, `summer analyst`, `summer {this year}`, `summer {next year}`.
 2. Title contains at least one finance keyword (case insensitive): see `FINANCE_KEYWORDS`.
 3. Title does NOT contain an exclude keyword: see `EXCLUDE_KEYWORDS`.
+
+Companies in `RELAXED_CATEGORIES` (`bank`, `pe`, `consulting`, `wealth`) skip check 2. At those firms every summer analyst is a finance hire and the title rarely says so. The exclude list still applies, and it carries `technology`, `quantitative`, `marketing`, `legal`, `human resources`, and `communications` mainly for this case.
 
 Keywords match at the start of a word, so `intern` catches `Internship` but `tax` does not catch `Syntax`. `Internal` and `International` are explicitly excluded from the intern signal.
 
@@ -146,13 +149,12 @@ Cron every hour plus `workflow_dispatch` (with a `no_notify` checkbox for the se
 
 ## Build status
 
-v1 steps 1 through 8 are built. `companies.json` has 66 entries: 48 Greenhouse, 8 Ashby, 3 Lever, 7 Workday (skipped until v2). Every non-Workday board token was checked live against its ATS endpoint on 2026-09-09.
+v1 steps 1 through 8 are built and live at github.com/ShayneNSG/fintern, running hourly. Workday support was added the same day. `companies.json` has 91 entries: 48 Greenhouse, 8 Ashby, 3 Lever, 32 Workday. Every non-Workday board token was checked live against its ATS endpoint on 2026-09-09. Every Workday tenant/site was confirmed to resolve the same day, but the JSON endpoint itself could not be exercised from the build environment, so the first hourly run is the real test. Check the Actions log for "fetch failed" lines.
 
-Not trackable yet because they run a custom or unsupported ATS: Uber, Snap, Netflix, NBCUniversal, Rippling, Marqeta, Canva, Snowflake, Whatnot, Patreon.
+Not trackable because they run a custom or unsupported ATS: Goldman Sachs, JPMorgan (Oracle), Morgan Stanley, Bank of America, Citi, Barclays, Deutsche Bank, UBS, Evercore, Lazard, Jefferies, Centerview, KKR, McKinsey, BCG, Bain, Deloitte, EY, KPMG, Kearney, Uber, Snap, Netflix (Eightfold), NBCUniversal (SmartRecruiters), Paramount, Activision, Rippling, Marqeta, Canva, Snowflake.
 
 ## v2 ideas (do not build yet)
 
-* Workday support.
 * SmartRecruiters support (NBCUniversal) and Eightfold (Netflix).
 * Category tabs or grouping in README.
 * Off-season (fall, spring) view.

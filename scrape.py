@@ -29,7 +29,7 @@ COMPANIES_PATH = ROOT / "companies.json"
 SEEN_PATH = ROOT / "seen.json"
 README_PATH = ROOT / "README.md"
 
-VALID_CATEGORIES = {"fintech", "tech", "media", "bank", "wealth", "other"}
+VALID_CATEGORIES = {"fintech", "tech", "media", "bank", "pe", "consulting", "wealth", "other"}
 REQUIRED_COMPANY_KEYS = {"name", "slug", "source", "board_token", "category"}
 
 
@@ -159,7 +159,8 @@ def main(argv: list[str] | None = None) -> int:
 
     seen = load_seen(SEEN_PATH)
     raw, reached = fetch_all(companies)
-    matched = filters.apply(raw)
+    relaxed = {c["name"] for c in companies if c["category"] in filters.RELAXED_CATEGORIES}
+    matched = filters.apply(raw, relaxed)
     today = date.today().isoformat()
     new = merge(seen, matched, reached, today)
     log.info("%d matched, %d new, %d total seen", len(matched), len(new), len(seen))
