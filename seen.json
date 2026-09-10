@@ -13,7 +13,7 @@
   "greenhouse:coinbase:8175438": {
     "id": "greenhouse:coinbase:8175438",
     "company": "Coinbase",
-    "title": "FP&A Intern",
+    "title": "Strategic Finance Intern",
     "location": "Hybrid - New York, NY",
     "url": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
     "source": "greenhouse",
@@ -412,6 +412,39 @@
     "title": "Internship – Public Relations (Year-Round)",
     "location": "WI-Milwaukee",
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Public-Relations--Year-Round-_R20261003-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
+    "active": true
+  },
+  "workday:baird:R20261004": {
+    "id": "workday:baird:R20261004",
+    "company": "Baird",
+    "title": "Internship – Graphic Design (Year-Round)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Graphic-Design--Year-Round-_R20261004-1",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
+    "active": true
+  },
+  "workday:baird:R20261005": {
+    "id": "workday:baird:R20261005",
+    "company": "Baird",
+    "title": "Internship – Compliance (Year-Round)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Compliance--Year-Round-_R20261005-2",
+    "source": "workday",
+    "first_seen": "2026-09-10",
+    "posted_at": "2026-09-10",
+    "active": true
+  },
+  "workday:baird:R20261006": {
+    "id": "workday:baird:R20261006",
+    "company": "Baird",
+    "title": "Internship – Conference Services (Year-Round)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Conference-Services--Year-Round-_R20261006-1",
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-10",
