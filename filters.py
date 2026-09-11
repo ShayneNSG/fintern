@@ -59,6 +59,14 @@ FINANCE_KEYWORDS: list[str] = [
     "m&a",
     "mergers",
     "private credit",
+    "investment",
+    "banking",
+    "credit",
+    "trading",
+    "markets",
+    "private wealth",
+    "wealth",
+    "leveraged finance",
     "consulting",
     "consultant",
 ]
@@ -84,14 +92,44 @@ EXCLUDE_KEYWORDS: list[str] = [
     "accounts receivable",
     "bookkeep",
     "actuarial",
+    "compliance",
+    "risk",
+    "design",
+    "graphic",
+    "conference",
+    "event",
+    "change management",
+    "project management",
+    "product",
+    "cyber",
+    "information security",
+    "infrastructure",
+    "analytics",
+    "data ",
+    "recruit",
+    "talent",
+    "people",
+    "facilities",
+    "customer",
+    "client service",
+    "content",
+    "creative",
+    "editorial",
+    "journalism",
+    "brand",
+    "sales development",
+    "account development",
 ]
 
-# Banks, PE, and wealth firms hire interns almost entirely into finance roles,
-# and their titles rarely say "finance" ("2027 Summer Analyst"). For them the
-# finance keyword check is skipped; the exclude list still applies. Consulting
-# is deliberately not here: Accenture and PwC post hundreds of non-finance
-# internships, so those must say finance, consulting, or similar in the title.
+# Banks, PE, and wealth firms name their finance programs "Summer Analyst"
+# ("2027 Summer Analyst Program") with no finance word in the title. For
+# companies in these categories, "summer analyst" or "summer associate" counts
+# as the finance signal. Everything else still needs a finance keyword, so
+# "Internship - Compliance" at a bank does not get through. Consulting is
+# deliberately not here: Accenture and PwC post hundreds of non-finance
+# internships, so those must say finance, consulting, or similar.
 RELAXED_CATEGORIES: set[str] = {"bank", "pe", "wealth"}
+PROGRAM_KEYWORDS: list[str] = ["summer analyst", "summer associate"]
 
 # Location filter. A posting is dropped only when its location names somewhere
 # outside the US and nothing in it points to the US. Blank or unrecognizable
@@ -155,6 +193,7 @@ def _compile(keywords: list[str]) -> re.Pattern[str]:
 _INTERN_RE = _compile(INTERN_KEYWORDS)
 _FINANCE_RE = _compile(FINANCE_KEYWORDS)
 _EXCLUDE_RE = _compile(EXCLUDE_KEYWORDS)
+_PROGRAM_RE = _compile(PROGRAM_KEYWORDS)
 _US_RE = _compile(US_SIGNALS)
 _NON_US_RE = re.compile(
     r"(?<![a-z])(?:" + "|".join(re.escape(k) for k in NON_US_SIGNALS) + r")(?![a-z])",
@@ -178,8 +217,10 @@ def is_internship(title: str) -> bool:
     return False
 
 
-def is_finance(title: str) -> bool:
-    return bool(_FINANCE_RE.search(title))
+def is_finance(title: str, relaxed: bool = False) -> bool:
+    if _FINANCE_RE.search(title):
+        return True
+    return relaxed and bool(_PROGRAM_RE.search(title))
 
 
 def is_excluded(title: str) -> bool:
@@ -189,18 +230,26 @@ def is_excluded(title: str) -> bool:
 def passes(title: str, relaxed: bool = False) -> bool:
     """True when the title is an internship, is finance, and hits no exclude word.
 
-    relaxed=True skips the finance check (see RELAXED_CATEGORIES).
+    relaxed=True lets "summer analyst" satisfy the finance check (see RELAXED_CATEGORIES).
     """
     if not is_internship(title):
         log.debug("filtered (not internship): %s", title)
         return False
-    if not relaxed and not is_finance(title):
+    if not is_finance(title, relaxed):
         log.debug("filtered (not finance): %s", title)
         return False
     if is_excluded(title):
         log.debug("filtered (excluded keyword): %s", title)
         return False
     return True
+
+
+_MULTI_LOCATION_RE = re.compile(r"^\s*\d+\s+locations?\s*$", re.IGNORECASE)
+
+
+def needs_location_lookup(location: str) -> bool:
+    """Workday collapses multi-site postings into "2 Locations". Ask the source for detail."""
+    return bool(_MULTI_LOCATION_RE.match(location or ""))
 
 
 def is_us_location(location: str) -> bool:
@@ -219,16 +268,28 @@ def is_us_location(location: str) -> bool:
     return True
 
 
-def apply(postings: list[Posting], relaxed_companies: set[str] | None = None) -> list[Posting]:
-    """Filter postings. relaxed_companies holds company names in RELAXED_CATEGORIES."""
+def apply_titles(postings: list[Posting], relaxed_companies: set[str] | None = None) -> list[Posting]:
+    """Title filter only. relaxed_companies holds company names in RELAXED_CATEGORIES."""
     relaxed = relaxed_companies or set()
+    kept = [p for p in postings if passes(p.title, p.company in relaxed)]
+    log.info("title filter: %d of %d postings passed", len(kept), len(postings))
+    return kept
+
+
+def apply_locations(postings: list[Posting]) -> list[Posting]:
+    """Location filter only. No-op when US_ONLY is False."""
+    if not US_ONLY:
+        return postings
     kept: list[Posting] = []
     for p in postings:
-        if not passes(p.title, p.company in relaxed):
-            continue
-        if US_ONLY and not is_us_location(p.location):
+        if is_us_location(p.location):
+            kept.append(p)
+        else:
             log.debug("filtered (non-US location %r): %s", p.location, p.title)
-            continue
-        kept.append(p)
-    log.info("filter: %d of %d postings passed", len(kept), len(postings))
+    log.info("location filter: %d of %d postings passed", len(kept), len(postings))
     return kept
+
+
+def apply(postings: list[Posting], relaxed_companies: set[str] | None = None) -> list[Posting]:
+    """Both filters in one call, for callers that do not need location lookups."""
+    return apply_locations(apply_titles(postings, relaxed_companies))

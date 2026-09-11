@@ -24,13 +24,19 @@ from dataclasses import dataclass
 from datetime import date, timedelta
 from typing import Any
 
-from sources.base import Posting, Source, SourceError, make_id, post_json
+from sources.base import Posting, Source, SourceError, get_json, make_id, post_json
 
 log = logging.getLogger(__name__)
 
 SEARCH_TERMS = ["intern", "summer analyst"]
 PAGE_SIZE = 20
 MAX_PAGES_PER_SEARCH = 15
+
+# Workday's country facet ids are the same across every tenant. This one is the
+# United States. Tenants that do not expose the facet just ignore it, and the
+# location filter in filters.py still runs afterwards.
+US_COUNTRY_ID = "bc33aa3152ec42d4995f4791a106ed09"
+SEARCH_FACETS = {"locationCountry": [US_COUNTRY_ID]}
 
 
 class WorkdaySource(Source):
@@ -50,7 +56,12 @@ class WorkdaySource(Source):
     def _search(self, endpoint: str, term: str) -> list[dict[str, Any]]:
         jobs: list[dict[str, Any]] = []
         for page in range(MAX_PAGES_PER_SEARCH):
-            body = {"appliedFacets": {}, "limit": PAGE_SIZE, "offset": page * PAGE_SIZE, "searchText": term}
+            body = {
+                "appliedFacets": SEARCH_FACETS,
+                "limit": PAGE_SIZE,
+                "offset": page * PAGE_SIZE,
+                "searchText": term,
+            }
             data = post_json(endpoint, body)
             if not isinstance(data, dict) or "jobPostings" not in data:
                 raise SourceError(f"unexpected Workday response shape from {endpoint}")
@@ -60,6 +71,33 @@ class WorkdaySource(Source):
             if len(batch) < PAGE_SIZE or (page + 1) * PAGE_SIZE >= total:
                 break
         return jobs
+
+    def resolve_location(self, posting: Posting) -> str:
+        """Fetch the posting detail to expand "2 Locations" into real place names.
+
+        Detail endpoint: GET https://{host}/wday/cxs/{tenant}/{site}{externalPath}
+        reply {"jobPostingInfo": {"location", "additionalLocations": [...],
+               "country": {"descriptor"}}}
+        """
+        try:
+            board = parse_board_token({"name": posting.company, "board_token": _token_from_url(posting.url)})
+        except SourceError as exc:
+            log.warning("cannot derive workday board from %s: %s", posting.url, exc)
+            return posting.location
+        path = posting.url.split(board.base_path, 1)[1]
+        detail_url = f"https://{board.host}/wday/cxs/{board.tenant}/{board.site}{path}"
+        try:
+            data = get_json(detail_url)
+        except SourceError as exc:
+            log.warning("location lookup failed for %s: %s", posting.title, exc)
+            return posting.location
+        info = (data or {}).get("jobPostingInfo") or {}
+        parts = [info.get("location") or ""] + list(info.get("additionalLocations") or [])
+        country = (info.get("country") or {}).get("descriptor") or ""
+        parts = [p for p in parts if p]
+        if country:
+            parts.append(country)
+        return "; ".join(parts) or posting.location
 
     def _to_posting(self, company: dict[str, Any], board: Board, job: dict[str, Any]) -> Posting:
         path = job.get("externalPath") or ""
@@ -100,6 +138,16 @@ def parse_board_token(company: dict[str, Any]) -> Board:
     if host.endswith("myworkdaysite.com") and len(parts) == 3 and parts[0] == "recruiting":
         return Board(host, parts[1], parts[2], f"/recruiting/{parts[1]}/{parts[2]}")
     raise SourceError(f"{name}: unrecognized workday board_token {token!r}")
+
+
+def _token_from_url(url: str) -> str:
+    """Recover "host/site" (or "host/recruiting/tenant/site") from a posting URL."""
+    bare = url.split("://", 1)[-1]
+    host, _, rest = bare.partition("/")
+    parts = rest.split("/")
+    if host.endswith("myworkdaysite.com") and len(parts) >= 3:
+        return "/".join([host, *parts[:3]])
+    return f"{host}/{parts[0]}" if parts else host
 
 
 def _job_id(job: dict[str, Any], path: str) -> str:

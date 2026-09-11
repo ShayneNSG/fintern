@@ -113,13 +113,13 @@ A posting passes if ALL of these are true:
 2. Title contains at least one finance keyword (case insensitive): see `FINANCE_KEYWORDS`.
 3. Title does NOT contain an exclude keyword: see `EXCLUDE_KEYWORDS`.
 
-Companies in `RELAXED_CATEGORIES` (`bank`, `pe`, `wealth`) skip check 2. At those firms every summer analyst is a finance hire and the title rarely says so. The exclude list still applies, and it carries `technology`, `quantitative`, `marketing`, `legal`, `human resources`, `communications`, and `actuarial` mainly for this case. Consulting is not relaxed: Accenture and PwC post hundreds of non-finance internships, so those titles must say finance, consulting, or similar.
+Companies in `RELAXED_CATEGORIES` (`bank`, `pe`, `wealth`) get one extra way to satisfy check 2: a title containing `summer analyst` or `summer associate` (`PROGRAM_KEYWORDS`) counts as finance, because that is what banks call their finance programs ("2027 Summer Analyst Program"). Anything else at a bank still needs a finance keyword, so "Internship - Compliance" does not pass. The exclude list is long on purpose (technology, risk, compliance, design, product, analytics, HR, and so on) because bank and consulting boards post every kind of internship. Consulting is not relaxed at all.
 
 Keywords match at the start of a word, so `intern` catches `Internship` but `tax` does not catch `Syntax`. `Internal` and `International` are explicitly excluded from the intern signal.
 
 Include and exclude lists are module-level constants. Filtered-out titles log at debug level (`python scrape.py -v`) so we can tune.
 
-Location: `US_ONLY = True` in filters.py. A posting is dropped only when its location names somewhere outside the US (`NON_US_SIGNALS`) and nothing in it points to the US (`US_SIGNALS`, a two-letter state code). Blank, "Remote", and unrecognized locations are kept, since dropping what we cannot read would lose real US roles. Location strings are messy ("WI-Milwaukee", "Toronto - 18 York Street", "Berkeley Square House London"), so the lists are long on purpose.
+Location: `US_ONLY = True` in filters.py. Workday collapses multi-site postings to "2 Locations"; `scrape.resolve_locations` asks the source (`WorkdaySource.resolve_location`, a GET on the posting detail) to expand those into real place names plus country before the location filter runs. This happens after the title filter so it costs one request per matched posting, not per board. The Workday search also sends `appliedFacets.locationCountry = [US id]`, which is the same GUID on every tenant; tenants that lack the facet ignore it. A posting is dropped only when its location names somewhere outside the US (`NON_US_SIGNALS`) and nothing in it points to the US (`US_SIGNALS`, a two-letter state code). Blank, "Remote", and unrecognized locations are kept, since dropping what we cannot read would lose real US roles. Location strings are messy ("WI-Milwaukee", "Toronto - 18 York Street", "Berkeley Square House London"), so the lists are long on purpose.
 
 ## Dedupe
 

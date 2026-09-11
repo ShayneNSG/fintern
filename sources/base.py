@@ -57,6 +57,10 @@ class Source(ABC):
     def fetch(self, company: dict[str, Any]) -> list[Posting]:
         """Return every posting on the company's board, unfiltered."""
 
+    def resolve_location(self, posting: Posting) -> str:
+        """Expand a vague location ("2 Locations") into a real one. Default: no-op."""
+        return posting.location
+
 
 class SourceError(Exception):
     """Raised when a company's board cannot be fetched. Caller logs and moves on."""

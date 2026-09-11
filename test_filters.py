@@ -21,6 +21,11 @@ RELAXED_SHOULD_FAIL = [
     "Software Engineer Summer Analyst",
     "Marketing Intern",
     "Investment Banking Analyst",
+    "Internship - Compliance (Year-Round)",
+    "Internship - Graphic Design (Year-Round)",
+    "Internship - Conference Services (Year-Round)",
+    "2027 Winter Change Management Intern (4 months)",
+    "2027 Risk Summer Analyst",
 ]
 
 SHOULD_PASS = [

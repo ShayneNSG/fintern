@@ -133,6 +133,20 @@ def merge(
     return new
 
 
+def resolve_locations(postings: list[Posting]) -> None:
+    """Expand vague locations like "2 Locations" by asking the source for detail.
+
+    Runs after the title filter so we only spend requests on postings we care about.
+    """
+    for posting in postings:
+        if not filters.needs_location_lookup(posting.location):
+            continue
+        resolved = SOURCES[posting.source].resolve_location(posting)
+        if resolved != posting.location:
+            log.debug("location resolved: %r -> %r (%s)", posting.location, resolved, posting.title)
+            posting.location = resolved
+
+
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Scrape finance internship postings.")
     parser.add_argument("--no-notify", action="store_true", help="skip Discord alerts")
@@ -160,7 +174,9 @@ def main(argv: list[str] | None = None) -> int:
     seen = load_seen(SEEN_PATH)
     raw, reached = fetch_all(companies)
     relaxed = {c["name"] for c in companies if c["category"] in filters.RELAXED_CATEGORIES}
-    matched = filters.apply(raw, relaxed)
+    matched = filters.apply_titles(raw, relaxed)
+    resolve_locations(matched)
+    matched = filters.apply_locations(matched)
     today = date.today().isoformat()
     new = merge(seen, matched, reached, today)
     log.info("%d matched, %d new, %d total seen", len(matched), len(new), len(seen))

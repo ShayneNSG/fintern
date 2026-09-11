@@ -76,7 +76,7 @@ ASHBY = {
 }
 
 WORKDAY_PAGE = {
-    "total": 4,
+    "total": 6,
     "jobPostings": [
         {
             "title": "2027 Summer Analyst Program",
@@ -98,6 +98,20 @@ WORKDAY_PAGE = {
             "locationsText": "London",
             "postedOn": "Posted Today",
             "bulletFields": ["40004"],
+        },
+        {
+            "title": "2027 Summer Analyst Program (Multi)",
+            "externalPath": "/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Summer-Analyst-Program--Multi-_40005",
+            "locationsText": "2 Locations",
+            "postedOn": "Posted Today",
+            "bulletFields": ["40005"],
+        },
+        {
+            "title": "2027 Summer Analyst Program (Multi US)",
+            "externalPath": "/job/New-York/XMLNAME-2027-Summer-Analyst-Program--Multi-US-_40006",
+            "locationsText": "3 Locations",
+            "postedOn": "Posted Today",
+            "bulletFields": ["40006"],
         },
         {
             "title": "Vice President, Private Equity",
@@ -144,6 +158,7 @@ def patch_sources(monkeypatch: pytest.MonkeyPatch, responses: dict[str, Any]) ->
     for module in ("sources.greenhouse", "sources.lever", "sources.ashby"):
         monkeypatch.setattr(f"{module}.get_json", getter)
     monkeypatch.setattr("sources.workday.post_json", lambda url, body: getter(url))
+    monkeypatch.setattr("sources.workday.get_json", getter)
 
 
 def test_first_run_seeds_and_renders(repo: Path, monkeypatch: pytest.MonkeyPatch) -> None:
@@ -219,11 +234,22 @@ def test_bad_companies_json_fails_loud(repo: Path) -> None:
         scrape.main(["--no-notify"])
 
 
+WORKDAY_DETAIL_CA = {"jobPostingInfo": {"location": "Montreal, Quebec", "additionalLocations": ["Toronto, Ontario"], "country": {"descriptor": "Canada"}}}
+WORKDAY_DETAIL_US = {"jobPostingInfo": {"location": "New York, NY", "additionalLocations": ["Chicago, IL", "London"], "country": {"descriptor": "United States of America"}}}
+
+
 def test_workday_relaxed_filter(repo: Path, monkeypatch: pytest.MonkeyPatch) -> None:
-    patch_sources(monkeypatch, {"omega": WORKDAY_PAGE})
+    patch_sources(monkeypatch, {
+        "_40005": WORKDAY_DETAIL_CA,
+        "_40006": WORKDAY_DETAIL_US,
+        "omega": WORKDAY_PAGE,
+    })
     scrape.main(["--no-notify"])
     seen = json.loads((repo / "seen.json").read_text())
-    assert set(seen) == {"workday:omega:40001"}  # London one is dropped by the US filter
+    # London dropped by the US filter; "2 Locations" resolved to Canada and dropped;
+    # "3 Locations" resolved to NY/Chicago/London and kept.
+    assert set(seen) == {"workday:omega:40001", "workday:omega:40006"}
+    assert seen["workday:omega:40006"]["location"] == "New York, NY; Chicago, IL; London; United States of America"
     entry = seen["workday:omega:40001"]
     assert entry["url"] == "https://omega.wd1.myworkdayjobs.com/Campus/job/New-York/XMLNAME-2027-Summer-Analyst-Program_40001"
     assert entry["posted_at"] is not None
