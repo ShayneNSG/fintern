@@ -256,6 +256,25 @@ def test_workday_relaxed_filter(repo: Path, monkeypatch: pytest.MonkeyPatch) -> 
     assert SOURCES["workday"].implemented is True
 
 
+def test_workday_falls_back_when_facet_rejected(repo: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    calls: list[dict[str, Any]] = []
+
+    def fake_post(url: str, body: dict[str, Any]) -> Any:
+        calls.append(body)
+        if body["appliedFacets"]:
+            raise base.SourceError(f"HTTP 400 from {url}")
+        return WORKDAY_PAGE
+
+    patch_sources(monkeypatch, {"_40005": WORKDAY_DETAIL_CA, "_40006": WORKDAY_DETAIL_US})
+    monkeypatch.setattr("sources.workday.post_json", fake_post)
+    scrape.main(["--no-notify"])
+    seen = json.loads((repo / "seen.json").read_text())
+    assert "workday:omega:40001" in seen
+    assert calls[0]["appliedFacets"] and not calls[1]["appliedFacets"]
+    # later pages and the second search term skip the facet without retrying
+    assert all(not c["appliedFacets"] for c in calls[1:])
+
+
 def test_render_empty() -> None:
     table = render.build_table({}, datetime(2026, 9, 9, tzinfo=timezone.utc))
     assert "No active postings" in table

@@ -53,16 +53,15 @@ class WorkdaySource(Source):
                 seen.setdefault(posting.id, posting)
         return list(seen.values())
 
+    def __init__(self) -> None:
+        # Endpoints that rejected the country facet with HTTP 400. Not every
+        # tenant exposes it; those get an unfiltered search instead.
+        self._no_facets: set[str] = set()
+
     def _search(self, endpoint: str, term: str) -> list[dict[str, Any]]:
         jobs: list[dict[str, Any]] = []
         for page in range(MAX_PAGES_PER_SEARCH):
-            body = {
-                "appliedFacets": SEARCH_FACETS,
-                "limit": PAGE_SIZE,
-                "offset": page * PAGE_SIZE,
-                "searchText": term,
-            }
-            data = post_json(endpoint, body)
+            data = self._page(endpoint, term, page)
             if not isinstance(data, dict) or "jobPostings" not in data:
                 raise SourceError(f"unexpected Workday response shape from {endpoint}")
             batch = data.get("jobPostings") or []
@@ -71,6 +70,20 @@ class WorkdaySource(Source):
             if len(batch) < PAGE_SIZE or (page + 1) * PAGE_SIZE >= total:
                 break
         return jobs
+
+    def _page(self, endpoint: str, term: str, page: int) -> Any:
+        """One page of search results. Falls back to no facets on HTTP 400."""
+        facets = {} if endpoint in self._no_facets else SEARCH_FACETS
+        body = {"appliedFacets": facets, "limit": PAGE_SIZE, "offset": page * PAGE_SIZE, "searchText": term}
+        try:
+            return post_json(endpoint, body)
+        except SourceError as exc:
+            if facets and "HTTP 400" in str(exc):
+                log.info("%s rejected the country facet, retrying without it", endpoint)
+                self._no_facets.add(endpoint)
+                body["appliedFacets"] = {}
+                return post_json(endpoint, body)
+            raise
 
     def resolve_location(self, posting: Posting) -> str:
         """Fetch the posting detail to expand "2 Locations" into real place names.
