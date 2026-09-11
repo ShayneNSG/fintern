@@ -4231,8 +4231,8 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Equity-Research-Associate--Small---Mid-Cap-Consumer-Internet_R-571211-1",
     "source": "workday",
     "first_seen": "2026-09-10",
-    "posted_at": "2026-09-05",
-    "active": false
+    "posted_at": "2026-09-11",
+    "active": true
   },
   "workday:wells-fargo:R-571603": {
     "id": "workday:wells-fargo:R-571603",
