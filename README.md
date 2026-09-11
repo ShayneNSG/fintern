@@ -4,6 +4,8 @@ A curated, auto-updated list of finance internship postings (FP&A, strategic
 finance, corp dev, treasury, bizops, and similar) at companies finance students
 actually want to work for. Not a firehose. The company list is hand-picked.
 
+**Browse it with search and filters at [shaynensg.github.io/fintern](https://shaynensg.github.io/fintern/).**
+
 Refreshes twice an hour straight from company career pages (Greenhouse, Lever,
 Ashby, and Workday boards). Newest postings on top. New postings also fire a Discord alert.
 

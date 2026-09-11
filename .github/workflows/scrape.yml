@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "fintern-bot"
           git config user.email "fintern-bot@users.noreply.github.com"
-          git add seen.json README.md
+          git add seen.json README.md status.json
           if git diff --cached --quiet; then
             echo "no changes"
             exit 0

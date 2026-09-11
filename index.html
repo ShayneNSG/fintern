@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FinTern</title>
+<meta name="description" content="Finance internships at tech, fintech, banks, PE, and consulting. Auto-updated from company career pages.">
+<style>
+  /* ------------------------------------------------------------------
+     Theme. Change these and the whole page follows.
+     ------------------------------------------------------------------ */
+  :root {
+    --bg: #ffffff;
+    --surface: #f7f7f5;
+    --border: #e4e4e0;
+    --text: #1a1a1a;
+    --muted: #6b6b66;
+    --accent: #0f6b3a;          /* buttons, active chips, links */
+    --accent-soft: #e6f3ec;     /* "New" badge background */
+    --radius: 8px;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111110;
+      --surface: #1b1b19;
+      --border: #2c2c29;
+      --text: #ececea;
+      --muted: #9a9a94;
+      --accent: #5dc487;
+      --accent-soft: #163d27;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--font); }
+  body { font-size: 15px; line-height: 1.45; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 32px 20px 64px; }
+
+  /* Header ----------------------------------------------------------- */
+  header { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px 16px; margin-bottom: 6px; }
+  header h1 { font-size: 26px; margin: 0; letter-spacing: -0.02em; }
+  header h1 span { color: var(--accent); }
+  .tagline { color: var(--muted); margin: 0 0 20px; max-width: 640px; }
+  .status { color: var(--muted); font-size: 13px; font-family: var(--mono); }
+
+  /* Controls --------------------------------------------------------- */
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 18px 0 14px; }
+  .controls input[type="search"], .controls select {
+    font: inherit; color: var(--text); background: var(--surface);
+    border: 1px solid var(--border); border-radius: var(--radius); padding: 9px 12px;
+  }
+  .controls input[type="search"] { flex: 1 1 260px; min-width: 200px; }
+  .controls select { flex: 0 0 auto; }
+  .controls input:focus, .controls select:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .chip {
+    font: inherit; font-size: 13px; cursor: pointer; user-select: none;
+    background: var(--surface); color: var(--text); border: 1px solid var(--border);
+    border-radius: 999px; padding: 5px 12px;
+  }
+  .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chip .n { color: var(--muted); margin-left: 4px; }
+  .chip[aria-pressed="true"] .n { color: rgba(255,255,255,0.8); }
+
+  .meta { display: flex; justify-content: space-between; align-items: center; gap: 12px; color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+  .meta button { font: inherit; font-size: 13px; background: none; border: none; color: var(--accent); cursor: pointer; padding: 0; }
+
+  /* Table ------------------------------------------------------------ */
+  .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: var(--radius); }
+  table { width: 100%; border-collapse: collapse; min-width: 720px; }
+  th, td { text-align: left; padding: 11px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); background: var(--surface); font-weight: 600; white-space: nowrap; }
+  tr:last-child td { border-bottom: none; }
+  tbody tr:hover td { background: var(--surface); }
+  td.company { font-weight: 600; white-space: nowrap; }
+  td.role { min-width: 260px; }
+  td.loc { color: var(--muted); max-width: 260px; }
+  td.date { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--muted); }
+  td.apply { white-space: nowrap; text-align: right; }
+  .cat { display: block; font-size: 11px; color: var(--muted); font-weight: 400; text-transform: capitalize; }
+  .badge { display: inline-block; font-size: 11px; font-weight: 600; background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 1px 6px; margin-left: 6px; vertical-align: 1px; }
+  .btn { display: inline-block; background: var(--accent); color: #fff; border-radius: 6px; padding: 6px 12px; font-size: 13px; font-weight: 600; }
+  .btn:hover { text-decoration: none; filter: brightness(1.08); }
+
+  .empty { padding: 40px 16px; text-align: center; color: var(--muted); }
+  footer { margin-top: 28px; color: var(--muted); font-size: 13px; }
+
+  @media (max-width: 640px) {
+    .wrap { padding: 20px 14px 48px; }
+    header h1 { font-size: 22px; }
+    /* Stack each row as a card instead of a wide table. */
+    .table-wrap { border: none; overflow: visible; }
+    table, tbody, tr, td { display: block; min-width: 0; }
+    thead { display: none; }
+    tr { border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; margin-bottom: 10px; background: var(--bg); }
+    td { border: none; padding: 2px 0; }
+    tbody tr:hover td { background: transparent; }
+    td.company { display: flex; gap: 8px; align-items: baseline; }
+    td.company .cat { display: inline; }
+    td.role { font-size: 16px; padding-bottom: 4px; }
+    td.loc { max-width: none; font-size: 13px; }
+    td.date { font-size: 13px; }
+    td.apply { text-align: left; padding-top: 10px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Fin<span>Tern</span></h1>
+    <div class="status" id="status">loading</div>
+  </header>
+  <p class="tagline">
+    Finance internships at tech, fintech, banks, PE, and consulting. Pulled straight from
+    company career pages, US only, refreshed automatically.
+  </p>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search company or role" autocomplete="off">
+    <select id="loc" aria-label="Location">
+      <option value="">All locations</option>
+    </select>
+    <select id="sort" aria-label="Sort">
+      <option value="seen">Newest first</option>
+      <option value="posted">Posted date</option>
+      <option value="company">Company A to Z</option>
+    </select>
+  </div>
+  <div class="chips" id="chips"></div>
+
+  <div class="meta">
+    <span id="count"></span>
+    <button id="reset" type="button">Reset filters</button>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr><th>Company</th><th>Role</th><th>Location</th><th>Posted</th><th></th></tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+
+  <footer>
+    Built by a finance student who got tired of scrolling Handshake.
+    Source and company list on <a href="https://github.com/ShayneNSG/fintern">GitHub</a>.
+    Want a company added? Open a PR against <code>companies.json</code>.
+  </footer>
+</div>
+
+<script>
+(() => {
+  // ----------------------------------------------------------------
+  // Config
+  // ----------------------------------------------------------------
+  const NEW_DAYS = 7;
+  const CATEGORY_LABELS = {
+    fintech: "Fintech", tech: "Tech", media: "Media", bank: "Banks",
+    pe: "Private equity", consulting: "Consulting", wealth: "Wealth", other: "Other",
+  };
+  const CATEGORY_ORDER = ["fintech", "tech", "bank", "pe", "consulting", "media", "wealth", "other"];
+
+  // Location buckets. First match wins per segment; a posting can be in several.
+  const STATE_NAMES = {
+    NY: "New York", CA: "California", IL: "Illinois", TX: "Texas", MA: "Massachusetts",
+    WA: "Washington", DC: "DC area", VA: "DC area", MD: "DC area", FL: "Florida",
+    GA: "Georgia", NC: "North Carolina", PA: "Pennsylvania", NJ: "New Jersey",
+    CT: "Connecticut", CO: "Colorado", AZ: "Arizona", MN: "Minnesota", OH: "Ohio",
+    MI: "Michigan", WI: "Wisconsin", KY: "Kentucky", TN: "Tennessee", MO: "Missouri",
+    OR: "Oregon", UT: "Utah", NV: "Nevada",
+  };
+  const STATE_FULL_NAMES = {
+    "new york": "NY", california: "CA", illinois: "IL", texas: "TX", massachusetts: "MA",
+    washington: "WA", "district of columbia": "DC", virginia: "VA", maryland: "MD", florida: "FL",
+    georgia: "GA", "north carolina": "NC", pennsylvania: "PA", "new jersey": "NJ", connecticut: "CT",
+    colorado: "CO", arizona: "AZ", minnesota: "MN", ohio: "OH", michigan: "MI", wisconsin: "WI",
+    kentucky: "KY", tennessee: "TN", missouri: "MO", oregon: "OR", utah: "UT", nevada: "NV",
+  };
+  const CITY_TO_STATE = [
+    [/new york|nyc|manhattan|brooklyn/i, "NY"],
+    [/san francisco|los angeles|menlo park|palo alto|mountain view|san jose|sunnyvale|irvine|santa monica|culver city|burbank|universal city|san diego|oakland|redwood|santa clara/i, "CA"],
+    [/chicago/i, "IL"], [/austin|dallas|houston|plano/i, "TX"], [/boston|cambridge/i, "MA"],
+    [/seattle|bellevue/i, "WA"], [/washington|mclean|arlington|reston|bethesda/i, "DC"],
+    [/miami|tampa|orlando|jacksonville/i, "FL"], [/atlanta/i, "GA"], [/charlotte|raleigh/i, "NC"],
+    [/philadelphia|pittsburgh/i, "PA"], [/jersey city|newark|mount laurel|hoboken/i, "NJ"],
+    [/stamford|hartford/i, "CT"], [/denver/i, "CO"], [/phoenix|scottsdale/i, "AZ"],
+    [/minneapolis/i, "MN"], [/columbus|cleveland|cincinnati/i, "OH"], [/detroit/i, "MI"],
+    [/milwaukee/i, "WI"], [/louisville/i, "KY"], [/nashville/i, "TN"], [/st\.? louis|kansas city/i, "MO"],
+    [/portland/i, "OR"], [/salt lake/i, "UT"], [/las vegas/i, "NV"],
+  ];
+
+  // ----------------------------------------------------------------
+  // State
+  // ----------------------------------------------------------------
+  const state = { q: "", cat: "", loc: "", sort: "seen" };
+  let postings = [];
+  let categoryOf = {};
+
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  // ----------------------------------------------------------------
+  // Data
+  // ----------------------------------------------------------------
+  async function load() {
+    const bust = `?t=${Math.floor(Date.now() / 60000)}`;
+    const [seenRes, compRes, statusRes] = await Promise.all([
+      fetch(`seen.json${bust}`), fetch(`companies.json${bust}`), fetch(`status.json${bust}`).catch(() => null),
+    ]);
+    const seen = await seenRes.json();
+    const companies = await compRes.json();
+    categoryOf = Object.fromEntries(companies.map((c) => [c.name, c.category]));
+    postings = Object.values(seen)
+      .filter((p) => p.active !== false)
+      .map((p) => ({ ...p, category: categoryOf[p.company] || "other", regions: regionsFor(p.location) }));
+    let status = null;
+    if (statusRes && statusRes.ok) { try { status = await statusRes.json(); } catch (_) { /* optional */ } }
+    renderStatus(status);
+    buildChips();
+    buildLocations();
+    render();
+  }
+
+  function regionsFor(location) {
+    const found = new Set();
+    const text = location || "";
+    if (/remote/i.test(text)) found.add("Remote");
+    for (const seg of text.split(/[;|]/)) {
+      let hit = null;
+      const code = seg.match(/(?<![A-Za-z])([A-Z]{2})(?![A-Za-z])/g);
+      if (code) for (const c of code) if (STATE_NAMES[c]) { hit = STATE_NAMES[c]; break; }
+      if (!hit) for (const [re, st] of CITY_TO_STATE) if (re.test(seg)) { hit = STATE_NAMES[st]; break; }
+      if (!hit) { const low = seg.toLowerCase(); for (const name in STATE_FULL_NAMES) if (low.includes(name)) { hit = STATE_NAMES[STATE_FULL_NAMES[name]]; break; } }
+      if (hit) found.add(hit);
+    }
+    if (found.size === 0) found.add(text.trim() ? "Other" : "Not listed");
+    return [...found];
+  }
+
+  // ----------------------------------------------------------------
+  // Rendering
+  // ----------------------------------------------------------------
+  function renderStatus(status) {
+    const el = $("status");
+    if (status && status.last_run) {
+      el.textContent = `checked ${fmtDateTime(status.last_run)}`;
+    } else {
+      const latest = postings.map((p) => p.first_seen).sort().pop();
+      el.textContent = latest ? `latest posting ${latest}` : "";
+    }
+  }
+
+  function buildChips() {
+    const counts = {};
+    for (const p of postings) counts[p.category] = (counts[p.category] || 0) + 1;
+    const cats = CATEGORY_ORDER.filter((c) => counts[c]);
+    const html = [`<button class="chip" type="button" data-cat="" aria-pressed="${state.cat === ""}">All <span class="n">${postings.length}</span></button>`];
+    for (const c of cats) {
+      html.push(`<button class="chip" type="button" data-cat="${c}" aria-pressed="${state.cat === c}">${CATEGORY_LABELS[c] || c} <span class="n">${counts[c]}</span></button>`);
+    }
+    $("chips").innerHTML = html.join("");
+  }
+
+  function buildLocations() {
+    const counts = {};
+    for (const p of postings) for (const r of p.regions) counts[r] = (counts[r] || 0) + 1;
+    const names = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b));
+    const sel = $("loc");
+    sel.innerHTML = `<option value="">All locations</option>` + names.map((n) => `<option value="${esc(n)}">${esc(n)} (${counts[n]})</option>`).join("");
+    sel.value = state.loc;
+  }
+
+  function visible() {
+    const q = state.q.trim().toLowerCase();
+    let rows = postings.filter((p) =>
+      (!state.cat || p.category === state.cat) &&
+      (!state.loc || p.regions.includes(state.loc)) &&
+      (!q || p.company.toLowerCase().includes(q) || p.title.toLowerCase().includes(q))
+    );
+    const key = {
+      seen: (p) => `${p.first_seen || ""}|${p.posted_at || ""}`,
+      posted: (p) => p.posted_at || p.first_seen || "",
+      company: (p) => p.company.toLowerCase(),
+    }[state.sort];
+    rows.sort((a, b) => (key(a) < key(b) ? 1 : key(a) > key(b) ? -1 : 0));
+    if (state.sort === "company") rows.reverse();
+    return rows;
+  }
+
+  function render() {
+    const rows = visible();
+    const cutoff = new Date(Date.now() - NEW_DAYS * 86400000).toISOString().slice(0, 10);
+    $("count").textContent = `${rows.length} of ${postings.length} postings`;
+    if (!rows.length) {
+      $("rows").innerHTML = `<tr><td colspan="5" class="empty">Nothing matches. Try clearing a filter.</td></tr>`;
+      return;
+    }
+    $("rows").innerHTML = rows.map((p) => `
+      <tr>
+        <td class="company">${esc(p.company)}<span class="cat">${esc(CATEGORY_LABELS[p.category] || p.category)}</span></td>
+        <td class="role">${esc(p.title)}${p.first_seen >= cutoff ? '<span class="badge">New</span>' : ""}</td>
+        <td class="loc">${esc(p.location) || "Not listed"}</td>
+        <td class="date" title="First seen ${esc(p.first_seen)}">${fmtPosted(p.posted_at || p.first_seen)}</td>
+        <td class="apply"><a class="btn" href="${esc(p.url)}" target="_blank" rel="noopener">Apply</a></td>
+      </tr>`).join("");
+  }
+
+  function fmtPosted(value) {
+    if (!value) return "";
+    if (value.length <= 10) return value;
+    const d = new Date(value);
+    if (isNaN(d)) return value.slice(0, 10);
+    return d.toLocaleString("en-US", { timeZone: "America/Los_Angeles", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+  }
+  function fmtDateTime(value) {
+    const d = new Date(value);
+    if (isNaN(d)) return value;
+    return d.toLocaleString("en-US", { timeZone: "America/Los_Angeles", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }) + " PT";
+  }
+
+  // ----------------------------------------------------------------
+  // Events
+  // ----------------------------------------------------------------
+  $("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
+  $("loc").addEventListener("change", (e) => { state.loc = e.target.value; render(); });
+  $("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
+  $("chips").addEventListener("click", (e) => {
+    const chip = e.target.closest(".chip");
+    if (!chip) return;
+    state.cat = chip.dataset.cat;
+    buildChips();
+    render();
+  });
+  $("reset").addEventListener("click", () => {
+    Object.assign(state, { q: "", cat: "", loc: "", sort: "seen" });
+    $("q").value = ""; $("loc").value = ""; $("sort").value = "seen";
+    buildChips(); render();
+  });
+
+  load().catch((err) => {
+    $("status").textContent = "could not load data";
+    $("rows").innerHTML = `<tr><td colspan="5" class="empty">Could not load seen.json. ${esc(err.message)}</td></tr>`;
+  });
+})();
+</script>
+</body>
+</html>

@@ -25,7 +25,7 @@ Done means: I open the repo and see current finance internships, and my phone bu
 
 * No LinkedIn, Handshake, Glassdoor, or Indeed scraping. They block, break, or require login. Do not attempt.
 * Workday was originally a v2 item. It was pulled forward on 2026-09-09 because banks, PE, and consulting are almost entirely Workday. It uses the unofficial cxs endpoint, so it is the one source that could break without warning.
-* No web UI, no database, no auth, no hosting. JSON files in the repo are the database.
+* No database, no auth, no hosting. JSON files in the repo are the database. The only "UI" is index.html on GitHub Pages, a static page that reads those JSON files in the browser.
 * No AI classification of roles. Keyword matching is enough for v1.
 * No applying, no tracking applications, no user accounts.
 
@@ -44,6 +44,8 @@ Done means: I open the repo and see current finance internships, and my phone bu
 fintern/
   CLAUDE.md                 this file
   README.md                 auto-generated below the marker, hand edit above it
+  index.html                the website (GitHub Pages), reads seen.json + companies.json + status.json client side
+  status.json               written each run: last_run, active count, company count
   companies.json            the curated company list (the moat)
   seen.json                 dedupe store, keyed by posting id
   filters.py                keyword include/exclude logic
@@ -129,6 +131,10 @@ Location: `US_ONLY = True` in filters.py. Workday collapses multi-site postings 
 
 README has a hand-written header above `<!-- TABLE_START -->`. Everything below the marker is regenerated on every run. Sorted by `first_seen` descending. Only active postings. Columns: Company | Role | Location | Posted | Apply. Last-updated timestamp (Pacific time) and total count at the bottom.
 
+## Website (index.html)
+
+One self-contained HTML file at the repo root, served by GitHub Pages (Settings, Pages, deploy from branch main, root). It fetches `seen.json`, `companies.json`, and `status.json` relative to itself, so every scraper commit updates the site with no build step. Search, category chips, a location dropdown (postings are bucketed into states by state code, city name, or full state name), sort, and a "New" badge for anything first seen in the last 7 days. Colors and fonts are CSS variables at the top of the file; the location and category maps are constants at the top of the script. Mobile stacks rows as cards. No framework, no dependencies.
+
 ## Discord (notify.py)
 
 Webhook URL comes from env var `DISCORD_WEBHOOK_URL`, stored as a GitHub Actions secret. One message per new posting: company, title, location, link. More than 10 new postings in one run get batched into as few messages as fit under Discord's 2000-char limit. `--no-notify` skips Discord entirely; use it for the seed run.
@@ -158,6 +164,5 @@ Not trackable because they run a custom or unsupported ATS: Goldman Sachs, JPMor
 * SmartRecruiters support (NBCUniversal) and Eightfold (Netflix).
 * Category tabs or grouping in README.
 * Off-season (fall, spring) view.
-* Simple GitHub Pages site with filters.
 * Location filter (CA, NY, remote).
 * Accept community PRs to companies.json.

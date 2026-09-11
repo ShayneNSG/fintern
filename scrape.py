@@ -28,6 +28,7 @@ ROOT = Path(__file__).resolve().parent
 COMPANIES_PATH = ROOT / "companies.json"
 SEEN_PATH = ROOT / "seen.json"
 README_PATH = ROOT / "README.md"
+STATUS_PATH = ROOT / "status.json"
 
 VALID_CATEGORIES = {"fintech", "tech", "media", "bank", "pe", "consulting", "wealth", "other"}
 REQUIRED_COMPANY_KEYS = {"name", "slug", "source", "board_token", "category"}
@@ -133,6 +134,20 @@ def merge(
     return new
 
 
+def write_status(
+    seen: dict[str, dict[str, Any]], companies: list[dict[str, Any]], now: datetime, path: Path
+) -> None:
+    """Small file the website reads for "last checked" and counts."""
+    active = sum(1 for e in seen.values() if e.get("active", True))
+    payload = {
+        "last_run": now.isoformat(timespec="seconds"),
+        "active": active,
+        "total_seen": len(seen),
+        "companies": len(companies),
+    }
+    path.write_text(json.dumps(payload, indent=2) + "\n")
+
+
 def resolve_locations(postings: list[Posting]) -> None:
     """Expand vague locations like "2 Locations" by asking the source for detail.
 
@@ -187,7 +202,9 @@ def main(argv: list[str] | None = None) -> int:
         log.info("dry run, nothing written")
         return 0
     save_seen(seen, SEEN_PATH)
-    render.write_readme(seen, README_PATH, datetime.now(timezone.utc))
+    now = datetime.now(timezone.utc)
+    render.write_readme(seen, README_PATH, now)
+    write_status(seen, companies, now, STATUS_PATH)
     if new and not args.no_notify:
         notify.send(new)
     return 0

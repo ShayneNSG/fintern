@@ -138,6 +138,7 @@ def repo(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> Path:
     monkeypatch.setattr(scrape, "COMPANIES_PATH", tmp_path / "companies.json")
     monkeypatch.setattr(scrape, "SEEN_PATH", tmp_path / "seen.json")
     monkeypatch.setattr(scrape, "README_PATH", tmp_path / "README.md")
+    monkeypatch.setattr(scrape, "STATUS_PATH", tmp_path / "status.json")
     monkeypatch.setattr(base, "REQUEST_DELAY_SECONDS", 0)
     return tmp_path
 
@@ -174,6 +175,8 @@ def test_first_run_seeds_and_renders(repo: Path, monkeypatch: pytest.MonkeyPatch
     assert "| Acme | Finance Intern, Summer 2027 | New York, NY | 2026-08-30 6:00 AM PT | [Apply](https://boards.greenhouse.io/acme/jobs/111) |" in readme
     assert "3 active postings" in readme
     assert "Software Engineer Intern" not in readme
+    status = json.loads((repo / "status.json").read_text())
+    assert status["active"] == 3 and status["companies"] == 5 and status["last_run"]
 
 
 def test_second_run_marks_inactive_but_keeps_failed_company(repo: Path, monkeypatch: pytest.MonkeyPatch) -> None:
