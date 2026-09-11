@@ -1427,7 +1427,7 @@
     "source": "workday",
     "first_seen": "2026-09-11",
     "posted_at": "2026-08-20",
-    "active": true
+    "active": false
   },
   "workday:fti-consulting:JR260363": {
     "id": "workday:fti-consulting:JR260363",
