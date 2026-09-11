@@ -54,6 +54,7 @@ Want a company added? Open a PR against `companies.json`.
 | TD Bank | 2027 Summer Internship Graduate Leadership Program- Treasury & Finance | New York, New York; Mount Laurel, New Jersey; Charlotte, North Carolina; United States of America | 2026-09-01 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Treasury---Finance_R_1508609) |
 | TD Bank | 2027 Summer Internship Graduate Leadership Program- Commercial Banking | New York, New York; Mount Laurel, New Jersey; United States of America | 2026-09-01 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612) |
 | TD Bank | Equity Research Associate - Internet & New Media | New York, New York | 2026-09-11 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Equity-Research-Associate---Internet---New-Media_R_1499648-1) |
+| Blackstone | 2027 Blackstone LaunchPad Summer Analyst | New York | 2026-09-11 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-LaunchPad-Summer-Analyst_45456) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking | New York, New York | 2026-09-10 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1510260) |
 | RBC | 2027 Capital Markets, COO Operations Summer Analyst | Chicago, Illinois, United States of America | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Chicago-Illinois-United-States-of-America/XMLNAME-2027-Capital-Markets--Operations-Summer-Analyst_R-0000187334) |
 | Baird | Internship – Private Wealth Management (Akron, OH Summer 2027) | OH-Akron | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1) |
@@ -126,4 +127,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-11 12:46 PM PT. 74 active postings.
+Last updated: 2026-09-11 1:07 PM PT. 75 active postings.

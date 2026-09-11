@@ -857,6 +857,17 @@
     "posted_at": null,
     "active": false
   },
+  "workday:blackstone:45456": {
+    "id": "workday:blackstone:45456",
+    "company": "Blackstone",
+    "title": "2027 Blackstone LaunchPad Summer Analyst",
+    "location": "New York",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-LaunchPad-Summer-Analyst_45456",
+    "source": "workday",
+    "first_seen": "2026-09-11",
+    "posted_at": null,
+    "active": true
+  },
   "workday:bmo:R260024330": {
     "id": "workday:bmo:R260024330",
     "company": "BMO",
