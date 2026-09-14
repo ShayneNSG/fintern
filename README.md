@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Robinhood | Accounting Intern (Summer 2027) | New York, NY | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
+| Robinhood | Investment Analyst Intern (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Minneapolis, MN - HQ | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Leawood, KS | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Leawood-KS/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100708) |
 | TD Bank | 2027 Summer Internship Graduate Leadership Program- Treasury & Finance | New York, New York; Mount Laurel, New Jersey; Charlotte, North Carolina; United States of America | 2026-09-01 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Treasury---Finance_R_1508609) |
@@ -126,4 +128,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-14 4:36 AM PT. 74 active postings.
+Last updated: 2026-09-14 5:07 AM PT. 76 active postings.

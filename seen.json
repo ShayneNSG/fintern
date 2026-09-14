@@ -32,6 +32,28 @@
     "posted_at": "2026-09-08T18:42:35-04:00",
     "active": true
   },
+  "greenhouse:robinhood:8198153": {
+    "id": "greenhouse:robinhood:8198153",
+    "company": "Robinhood",
+    "title": "Accounting Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+    "source": "greenhouse",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14T08:00:08-04:00",
+    "active": true
+  },
+  "greenhouse:robinhood:8198187": {
+    "id": "greenhouse:robinhood:8198187",
+    "company": "Robinhood",
+    "title": "Investment Analyst Intern (Summer 2027)",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
+    "source": "greenhouse",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14T08:00:08-04:00",
+    "active": true
+  },
   "workday:accenture:13727121": {
     "id": "workday:accenture:13727121",
     "company": "Accenture",
