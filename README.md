@@ -55,6 +55,7 @@ Want a company added? Open a PR against `companies.json`.
 | Robinhood | Investment Analyst Intern (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Minneapolis, MN - HQ | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Leawood, KS | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Leawood-KS/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100708) |
+| Oliver Wyman (Marsh McLennan) | Health Consulting Financial Summer Intern - West Market - College Program 2027 | San Francisco - Embarcadero; Los Angeles - West 5th; Denver - Lawrence; Irvine - Von Karman; United States of America | 2026-09-14 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/San-Francisco---Embarcadero/Health-Consulting-Financial-Summer-Intern---West-Market---College-Program-2027_R_362076) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations | Atlanta, GA, USA; San Francisco, CA, USA; United States of America | 2026-09-14 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915) |
 | Baird | Internship - Private Wealth Management (Milwaukee, WI Summer 2027) | WI-Milwaukee | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Private-Wealth-Management--Milwaukee--WI-Summer-2027-_R20261018-1) |
 | Baird | Internship – Private Wealth Management (Pittsburgh-South Hills, PA Summer 2027) | PA-Canonsburg | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1) |
@@ -139,4 +140,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-14 1:36 PM PT. 87 active postings.
+Last updated: 2026-09-14 2:07 PM PT. 88 active postings.
