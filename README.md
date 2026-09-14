@@ -123,9 +123,8 @@ Want a company added? Open a PR against `companies.json`.
 | Wells Fargo | 2027 Wealth & Investment Management Summer Internship - Early Careers | CHARLOTTE, NC; SAINT LOUIS, MO; United States of America | 2026-09-10 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Wealth---Investment-Management-Summer-Internship---Early-Careers_R-556103) |
 | Houlihan Lokey | Corporate Development Intern (Summer 2027) | Los Angeles, CA, USA; New York, NY, USA; United States of America | 2026-09-10 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Los-Angeles-CA-USA/Corporate-Development-Intern--Summer-2027-_R3354) |
 | Blackstone | 2027 Blackstone BXPE Summer Analyst | New York | 2026-09-10 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-BXPE-Summer-Analyst_44550) |
-| Blackstone | 2027 Blackstone Finance - BXCI Finance Summer Analyst | New York | 2026-09-10 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-Finance---BXCI-Finance-Summer-Analyst_44866) |
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-14 5:07 AM PT. 76 active postings.
+Last updated: 2026-09-14 5:36 AM PT. 75 active postings.
