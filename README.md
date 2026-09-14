@@ -60,6 +60,7 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Private Wealth Management (Milwaukee, WI Summer 2027) | WI-Milwaukee | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Private-Wealth-Management--Milwaukee--WI-Summer-2027-_R20261018-1) |
 | Baird | Internship – Private Wealth Management (Pittsburgh-South Hills, PA Summer 2027) | PA-Canonsburg | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1) |
 | Baird | Internship – Baird Trust Equity Research Analyst (Summer 2027) | KY-Louisville | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Baird-Trust-Equity-Research-Analyst--Summer-2027-_R2026951-2) |
+| Baird | Internship – Private Wealth Management (Bloomington, IN Summer 2027) | IN-Bloomington | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Bloomington/Internship---Private-Wealth-Management--Bloomington--IN-Summer-2027-_R20261025-1) |
 | BMO | Commercial Banking Credit Analyst Internship - Burnaby, Summer 2027 (Co-op/Internship) - 4 months | Burnaby, BC, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Burnaby-BC-CAN/Commercial-Banking-Credit-Analyst-Internship---Burnaby--Summer-2027--Co-op-Internship----4-months_R260026721-1) |
 | BMO | Commercial Banking Credit Analyst Internship - Mississauga, Summer 2027 (Co-op/Internship) - 4 months | Mississauga, ON, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Mississauga-ON-CAN/Commercial-Banking-Credit-Analyst-Internship---Mississauga--Summer-2027--Co-op-Internship----4-months_R260026727-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months | Victoriaville, QC, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1) |
@@ -140,4 +141,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-14 2:37 PM PT. 88 active postings.
+Last updated: 2026-09-14 2:52 PM PT. 89 active postings.
