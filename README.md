@@ -55,6 +55,7 @@ Want a company added? Open a PR against `companies.json`.
 | Robinhood | Investment Analyst Intern (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Minneapolis, MN - HQ | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Leawood, KS | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Leawood-KS/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100708) |
+| Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations | Atlanta, GA, USA; San Francisco, CA, USA; United States of America | 2026-09-14 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915) |
 | Baird | Internship - Private Wealth Management (Milwaukee, WI Summer 2027) | WI-Milwaukee | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Private-Wealth-Management--Milwaukee--WI-Summer-2027-_R20261018-1) |
 | Baird | Internship – Private Wealth Management (Pittsburgh-South Hills, PA Summer 2027) | PA-Canonsburg | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1) |
 | Baird | Internship – Baird Trust Equity Research Analyst (Summer 2027) | KY-Louisville | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Baird-Trust-Equity-Research-Analyst--Summer-2027-_R2026951-2) |
@@ -134,4 +135,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-14 10:36 AM PT. 82 active postings.
+Last updated: 2026-09-14 11:07 AM PT. 83 active postings.
