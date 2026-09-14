@@ -954,7 +954,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-07",
-    "active": true
+    "active": false
   },
   "workday:bmo:R260024635": {
     "id": "workday:bmo:R260024635",
@@ -1395,6 +1395,50 @@
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-10",
     "active": false
+  },
+  "workday:bmo:R260026721": {
+    "id": "workday:bmo:R260026721",
+    "company": "BMO",
+    "title": "Commercial Banking Credit Analyst Internship - Burnaby, Summer 2027 (Co-op/Internship) - 4 months",
+    "location": "Burnaby, BC, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Burnaby-BC-CAN/Commercial-Banking-Credit-Analyst-Internship---Burnaby--Summer-2027--Co-op-Internship----4-months_R260026721-1",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14",
+    "active": true
+  },
+  "workday:bmo:R260026727": {
+    "id": "workday:bmo:R260026727",
+    "company": "BMO",
+    "title": "Commercial Banking Credit Analyst Internship - Mississauga, Summer 2027 (Co-op/Internship) - 4 months",
+    "location": "Mississauga, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Mississauga-ON-CAN/Commercial-Banking-Credit-Analyst-Internship---Mississauga--Summer-2027--Co-op-Internship----4-months_R260026727-1",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14",
+    "active": true
+  },
+  "workday:bmo:R260026738": {
+    "id": "workday:bmo:R260026738",
+    "company": "BMO",
+    "title": "Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months",
+    "location": "Victoriaville, QC, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14",
+    "active": true
+  },
+  "workday:bmo:R260026741": {
+    "id": "workday:bmo:R260026741",
+    "company": "BMO",
+    "title": "Personal Banking Associate, Winter 2027 (Co-op/Internship), Saint-Georges-de-Beauce - 4 months",
+    "location": "St-Georges, QC, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741-1",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14",
+    "active": true
   },
   "workday:capital-one:R243855": {
     "id": "workday:capital-one:R243855",
