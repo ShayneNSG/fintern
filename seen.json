@@ -472,6 +472,17 @@
     "posted_at": "2026-09-11",
     "active": false
   },
+  "workday:baird:R20261018": {
+    "id": "workday:baird:R20261018",
+    "company": "Baird",
+    "title": "Internship - Private Wealth Management (Milwaukee, WI Summer 2027)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Private-Wealth-Management--Milwaukee--WI-Summer-2027-_R20261018-1",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14",
+    "active": true
+  },
   "workday:baird:R2026883": {
     "id": "workday:baird:R2026883",
     "company": "Baird",
@@ -525,6 +536,17 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-02",
+    "active": true
+  },
+  "workday:baird:R2026951": {
+    "id": "workday:baird:R2026951",
+    "company": "Baird",
+    "title": "Internship – Baird Trust Equity Research Analyst (Summer 2027)",
+    "location": "KY-Louisville",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Baird-Trust-Equity-Research-Analyst--Summer-2027-_R2026951-2",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": "2026-09-14",
     "active": true
   },
   "workday:baird:R2026954": {
@@ -2188,6 +2210,17 @@
     "posted_at": "2026-09-14",
     "active": true
   },
+  "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529": {
+    "id": "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529",
+    "company": "PJT Partners",
+    "title": "2027 Summer Analyst - PJT Camberview (Activism)",
+    "location": "San Francisco; New York; United States of America",
+    "url": "https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529",
+    "source": "workday",
+    "first_seen": "2026-09-14",
+    "posted_at": null,
+    "active": true
+  },
   "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528": {
     "id": "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528",
     "company": "PJT Partners",
@@ -3016,9 +3049,9 @@
   "workday:raymond-james:Saint Petersburg, Florida - United States": {
     "id": "workday:raymond-james:Saint Petersburg, Florida - United States",
     "company": "Raymond James",
-    "title": "2027 Summer Internship – Equity Research – Multiple Locations",
+    "title": "2027 Summer Internship Program - Accounting Intern (St. Petersburg, FL)",
     "location": "",
-    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship---Equity-Research---Multiple-Locations_R-0012914",
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Accounting-Intern--St-Petersburg--FL-_R-0012935",
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-14",
