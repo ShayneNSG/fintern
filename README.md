@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Disney | ABC News Digital Media Business Operations Intern, Spring 2027 | New York, NY, USA | 2026-09-17 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Digital-Media-Business-Operations-Intern--Spring-2027_10158495-2) |
 | Baird | Internship – Public Finance (Louisville, KY Summer 2027) | KY-Louisville | 2026-09-16 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Public-Finance--Louisville--KY-Summer-2027-_R20261030-1) |
 | Baird | Internship – Private Wealth Management (Lexington, KY Summer 2027) | KY-Lexington | 2026-09-16 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1) |
 | Robinhood | Finance and Strategy Intern (Summer 2027) | Menlo Park, CA | 2026-09-15 11:24 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) |
@@ -143,4 +144,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-16 9:36 PM PT. 91 active postings.
+Last updated: 2026-09-16 10:06 PM PT. 92 active postings.
