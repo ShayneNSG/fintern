@@ -538,6 +538,17 @@
     "posted_at": "2026-09-15",
     "active": true
   },
+  "workday:baird:R20261039": {
+    "id": "workday:baird:R20261039",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Dayton, OH Summer 2027)",
+    "location": "OH-Miamisburg",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Miamisburg/Internship---Private-Wealth-Management--Dayton--OH-Summer-2027-_R20261039",
+    "source": "workday",
+    "first_seen": "2026-09-17",
+    "posted_at": "2026-09-17",
+    "active": true
+  },
   "workday:baird:R2026883": {
     "id": "workday:baird:R2026883",
     "company": "Baird",
@@ -1681,6 +1692,17 @@
     "first_seen": "2026-09-10",
     "posted_at": "2026-08-26",
     "active": false
+  },
+  "workday:houlihan-lokey:R2912": {
+    "id": "workday:houlihan-lokey:R2912",
+    "company": "Houlihan Lokey",
+    "title": "Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Multiple Locations",
+    "location": "Dallas, TX, USA; Atlanta, GA, USA; New York, NY, USA; United States of America",
+    "url": "https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Multiple-Locations_R2912",
+    "source": "workday",
+    "first_seen": "2026-09-17",
+    "posted_at": "2026-09-17",
+    "active": true
   },
   "workday:houlihan-lokey:R2915": {
     "id": "workday:houlihan-lokey:R2915",
