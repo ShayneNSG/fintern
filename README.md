@@ -71,7 +71,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Baird Trust Equity Research Analyst (Summer 2027) | KY-Louisville | 2026-09-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Baird-Trust-Equity-Research-Analyst--Summer-2027-_R2026951-2) |
 | BMO | Commercial Banking Credit Analyst Internship - Burnaby, Summer 2027 (Co-op/Internship) - 4 months | Burnaby, BC, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Burnaby-BC-CAN/Commercial-Banking-Credit-Analyst-Internship---Burnaby--Summer-2027--Co-op-Internship----4-months_R260026721-1) |
 | BMO | Commercial Banking Credit Analyst Internship - Mississauga, Summer 2027 (Co-op/Internship) - 4 months | Mississauga, ON, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Mississauga-ON-CAN/Commercial-Banking-Credit-Analyst-Internship---Mississauga--Summer-2027--Co-op-Internship----4-months_R260026727-1) |
-| BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months | Victoriaville, QC, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Saint-Georges-de-Beauce - 4 months | St-Georges, QC, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Magog - 4 months | Magog, QC, CAN | 2026-09-14 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Magog-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Magog---4-months_R260026751-1) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Activism) | San Francisco; New York; United States of America | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529) |
@@ -148,4 +147,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-17 8:37 AM PT. 96 active postings.
+Last updated: 2026-09-17 9:06 AM PT. 95 active postings.
