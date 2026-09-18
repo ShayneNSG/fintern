@@ -61,6 +61,7 @@ Want a company added? Open a PR against `companies.json`.
 | Robinhood | Finance and Strategy Intern (Summer 2027) | Menlo Park, CA | 2026-09-15 11:24 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) |
 | Baird | Internship – Public Finance (Louisville, KY Summer 2027) | KY-Louisville | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Public-Finance--Louisville--KY-Summer-2027-_R20261030-1) |
 | Baird | Internship – Private Wealth Management (Lexington, KY Summer 2027) | KY-Lexington | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1) |
+| BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months | Victoriaville, QC, CAN | 2026-09-18 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1) |
 | Robinhood | Accounting Intern (Summer 2027) | New York, NY | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
 | Robinhood | Investment Analyst Intern (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Minneapolis, MN - HQ | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705) |
@@ -150,4 +151,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-18 11:07 AM PT. 98 active postings.
+Last updated: 2026-09-18 11:28 AM PT. 99 active postings.
