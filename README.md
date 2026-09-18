@@ -82,7 +82,6 @@ Want a company added? Open a PR against `companies.json`.
 | Oliver Wyman (Marsh McLennan) | Government Health Consulting Informatics Summer Intern - College Program 2027 | Phoenix - E. Camelback; Minneapolis - South Seventh; United States of America | 2026-09-17 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking | New York, New York | 2026-09-15 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508866-1) |
 | Raymond James | 2027 Summer Internship Program - Accounting Intern (St. Petersburg, FL) | Not listed | 2026-09-15 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Accounting-Intern--St-Petersburg--FL-_R-0012935) |
-| Wells Fargo | Equity Research Associate, Small & Mid Cap Consumer Internet | NEW YORK, NY | 2026-09-12 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Equity-Research-Associate--Small---Mid-Cap-Consumer-Internet_R-571211-1) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking | New York, New York | 2026-09-11 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1510260) |
 | RBC | 2027 Capital Markets, COO Operations Summer Analyst | Chicago, Illinois, United States of America | 2026-09-11 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Chicago-Illinois-United-States-of-America/XMLNAME-2027-Capital-Markets--Operations-Summer-Analyst_R-0000187334) |
 | Baird | Internship – Private Wealth Management (Akron, OH Summer 2027) | OH-Akron | 2026-09-11 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1) |
@@ -147,4 +146,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-17 8:37 PM PT. 95 active postings.
+Last updated: 2026-09-17 9:06 PM PT. 94 active postings.
