@@ -1627,6 +1627,17 @@
     "posted_at": "2026-09-01",
     "active": true
   },
+  "workday:fti-consulting:JR260336": {
+    "id": "workday:fti-consulting:JR260336",
+    "company": "FTI Consulting",
+    "title": "2027 Intern- Corporate Finance",
+    "location": "United States",
+    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern--Corporate-Finance_JR260336",
+    "source": "workday",
+    "first_seen": "2026-09-18",
+    "posted_at": "2026-09-18",
+    "active": true
+  },
   "workday:fti-consulting:JR260337": {
     "id": "workday:fti-consulting:JR260337",
     "company": "FTI Consulting",
@@ -1635,8 +1646,19 @@
     "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Forensic---Litigation-Consulting_JR260337",
     "source": "workday",
     "first_seen": "2026-09-11",
-    "posted_at": "2026-08-20",
-    "active": false
+    "posted_at": "2026-09-18",
+    "active": true
+  },
+  "workday:fti-consulting:JR260359": {
+    "id": "workday:fti-consulting:JR260359",
+    "company": "FTI Consulting",
+    "title": "2027 Intern - Economic Consulting",
+    "location": "United States",
+    "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Economic-Consulting_JR260359",
+    "source": "workday",
+    "first_seen": "2026-09-18",
+    "posted_at": "2026-09-18",
+    "active": true
   },
   "workday:fti-consulting:JR260363": {
     "id": "workday:fti-consulting:JR260363",
