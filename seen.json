@@ -1000,6 +1000,17 @@
     "posted_at": null,
     "active": true
   },
+  "workday:blackstone:45577": {
+    "id": "workday:blackstone:45577",
+    "company": "Blackstone",
+    "title": "2027 Blackstone Government Relations Summer Analyst",
+    "location": "DC",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577",
+    "source": "workday",
+    "first_seen": "2026-09-21",
+    "posted_at": null,
+    "active": true
+  },
   "workday:bmo:R260024330": {
     "id": "workday:bmo:R260024330",
     "company": "BMO",
