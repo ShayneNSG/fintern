@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| RBC | 2027 Winter, Personal Banking- Client Advisor Student Intern (4 Months) | RICHMOND, British Columbia, Canada | 2026-09-11 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RICHMOND-British-Columbia-Canada/XMLNAME-2027-Winter--Personal-Banking--Client-Advisor-Student-Intern--4-Months-_R-0000187476) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Multiple Locations | Dallas, TX, USA; Atlanta, GA, USA; New York, NY, USA; United States of America | 2026-09-18 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Multiple-Locations_R2912) |
 | Disney | ABC News Digital Media Business Operations Intern, Spring 2027 | New York, NY, USA | 2026-09-18 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Digital-Media-Business-Operations-Intern--Spring-2027_10158495-2) |
 | Baird | Internship – Private Wealth Management (Dayton, OH Summer 2027) | OH-Miamisburg | 2026-09-18 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Miamisburg/Internship---Private-Wealth-Management--Dayton--OH-Summer-2027-_R20261039) |
@@ -93,7 +94,6 @@ Want a company added? Open a PR against `companies.json`.
 | RBC | 2027 Capital Markets, Global Markets Program Summer Analyst (4 Months) | MONTRÉAL, Quebec, Canada | 2026-09-09 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Capital-Markets--Global-Markets-Program-Summer-Analyst--4-Months-_R-0000182092-1) |
 | Capital One | MBA, Investment Banking Summer Associate - Summer 2027 | McLean, VA | 2026-09-09 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA--Investment-Banking-Summer-Associate---Summer-2027_R246679-1) |
 | Baird | Internship – Private Wealth Management (Denver, CO Summer 2027) | CO-Denver | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1) |
-| BMO | Private Wealth Administrative Assistant - Vaughn, Winter 2027 (Co-op/Internship) - 4 months | Vaughan, ON, CAN | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Vaughan-ON-CAN/Private-Wealth-Administrative-Assistant---Vaughn--Winter-2027--Co-op-Internship----4-months_R260026141-1) |
 | BMO | Wealth Management Internship, Summer 2027- Chicago, IL (10 Weeks) | Chicago, IL, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Wealth-Management-Internship--Summer-2027--Chicago--IL--10-Weeks-_R260026202-1) |
 | BMO | Wealth Management Internship, Summer 2027 -New York (10 Weeks) | New York, NY, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/New-York-NY-USA/Wealth-Management-Internship--Summer-2027--New-York--10-Weeks-_R260026205-1) |
 | BMO | Wealth Management Internship, Summer 2027- San Francisco (10 Weeks) | San Francisco, CA, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/San-Francisco-CA-USA/Wealth-Management-Internship--Summer-2027--San-Francisco--10-Weeks-_R260026207-1) |
@@ -148,4 +148,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-20 8:36 PM PT. 96 active postings.
+Last updated: 2026-09-20 9:06 PM PT. 96 active postings.

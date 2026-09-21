@@ -1394,7 +1394,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-09",
-    "active": true
+    "active": false
   },
   "workday:bmo:R260026142": {
     "id": "workday:bmo:R260026142",
@@ -3715,6 +3715,17 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-10",
+    "active": true
+  },
+  "workday:rbc:R-0000187476": {
+    "id": "workday:rbc:R-0000187476",
+    "company": "RBC",
+    "title": "2027 Winter, Personal Banking- Client Advisor Student Intern (4 Months)",
+    "location": "RICHMOND, British Columbia, Canada",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RICHMOND-British-Columbia-Canada/XMLNAME-2027-Winter--Personal-Banking--Client-Advisor-Student-Intern--4-Months-_R-0000187476",
+    "source": "workday",
+    "first_seen": "2026-09-21",
+    "posted_at": "2026-09-11",
     "active": true
   },
   "workday:rothschild:JR016376": {
