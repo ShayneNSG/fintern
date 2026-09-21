@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
 | RBC | 2027 Winter, Personal Banking- Client Advisor Student Intern (4 Months) | RICHMOND, British Columbia, Canada | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RICHMOND-British-Columbia-Canada/XMLNAME-2027-Winter--Personal-Banking--Client-Advisor-Student-Intern--4-Months-_R-0000187476) |
 | Blackstone | 2027 Blackstone Government Relations Summer Analyst | DC | 2026-09-21 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Multiple Locations | Dallas, TX, USA; Atlanta, GA, USA; New York, NY, USA; United States of America | 2026-09-17 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Multiple-Locations_R2912) |
@@ -149,4 +150,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-21 10:37 AM PT. 97 active postings.
+Last updated: 2026-09-21 11:07 AM PT. 98 active postings.
