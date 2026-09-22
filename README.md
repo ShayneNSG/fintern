@@ -97,7 +97,6 @@ Want a company added? Open a PR against `companies.json`.
 | Capital One | MBA, Investment Banking Summer Associate - Summer 2027 | McLean, VA | 2026-09-09 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA--Investment-Banking-Summer-Associate---Summer-2027_R246679-1) |
 | Baird | Internship – Private Wealth Management (Denver, CO Summer 2027) | CO-Denver | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1) |
 | BMO | Wealth Management Internship, Summer 2027- Chicago, IL (10 Weeks) | Chicago, IL, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Wealth-Management-Internship--Summer-2027--Chicago--IL--10-Weeks-_R260026202-1) |
-| BMO | Wealth Management Internship, Summer 2027 -New York (10 Weeks) | New York, NY, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/New-York-NY-USA/Wealth-Management-Internship--Summer-2027--New-York--10-Weeks-_R260026205-1) |
 | BMO | Wealth Management Internship, Summer 2027- San Francisco (10 Weeks) | San Francisco, CA, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/San-Francisco-CA-USA/Wealth-Management-Internship--Summer-2027--San-Francisco--10-Weeks-_R260026207-1) |
 | BMO | Wealth Management Internship, Summer 2027- Milwaukee, WI (10 Weeks) | Milwaukee, WI, USA | 2026-09-09 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Milwaukee-WI-USA/Wealth-Management-Internship--Summer-2027--Milwaukee--WI--10-Weeks-_R260026239-2) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking (ICRE) | Charlotte, North Carolina; New York, New York; United States of America | 2026-09-04 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking--ICRE-_R_1509280) |
@@ -150,4 +149,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-21 8:37 PM PT. 98 active postings.
+Last updated: 2026-09-21 9:06 PM PT. 97 active postings.
