@@ -52,6 +52,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | RBC | Summer 2027 US Wealth Management Internship | Minneapolis, Minnesota, United States of America | 2026-09-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1) |
+| RBC | Summer 2027 Wealth Management Operations Internship | Minneapolis, Minnesota, United States of America | 2026-09-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1) |
 | Baird | Internship - Fixed Income Asset Management, Baird Advisors (Summer 2027) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Fixed-Income-Asset-Management--Baird-Advisors--Summer-2027-_R2026988-1) |
 | Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
 | RBC | 2027 Winter, Personal Banking- Client Advisor Student Intern (4 Months) | RICHMOND, British Columbia, Canada | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RICHMOND-British-Columbia-Canada/XMLNAME-2027-Winter--Personal-Banking--Client-Advisor-Student-Intern--4-Months-_R-0000187476) |
@@ -147,4 +148,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-22 9:37 AM PT. 95 active postings.
+Last updated: 2026-09-22 10:07 AM PT. 96 active postings.
