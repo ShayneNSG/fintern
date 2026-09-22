@@ -65,7 +65,7 @@ Want a company added? Open a PR against `companies.json`.
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Portfolio Valuation and Fund Advisory Services - Multiple Locations | Atlanta, GA, USA; San Francisco, CA, USA; New York, NY, USA; United States of America | 2026-09-18 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Atlanta-GA-USA/Summer-2027-Financial-Analyst--Class-of-2028---Portfolio-Valuation-and-Fund-Advisory-Services---Multiple-Locations_R2915) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months | Victoriaville, QC, CAN | 2026-09-18 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1) |
 | Robinhood | Accounting Intern (Summer 2027) | New York, NY | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
-| Robinhood | Investment Analyst Intern (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
+| Robinhood | Investment Analyst Intern, Robinhood Ventures (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Minneapolis, MN - HQ | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Leawood, KS | 2026-09-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Leawood-KS/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100708) |
 | Oliver Wyman (Marsh McLennan) | Health Consulting Financial Summer Intern - West Market - College Program 2027 | San Francisco - Embarcadero; Los Angeles - West 5th; Denver - Lawrence; Irvine - Von Karman; United States of America | 2026-09-14 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/San-Francisco---Embarcadero/Health-Consulting-Financial-Summer-Intern---West-Market---College-Program-2027_R_362076) |
@@ -146,4 +146,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-22 7:07 AM PT. 94 active postings.
+Last updated: 2026-09-22 7:37 AM PT. 94 active postings.
