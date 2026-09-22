@@ -55,6 +55,8 @@ Want a company added? Open a PR against `companies.json`.
 | RBC | Summer 2027 US Wealth Management Internship | Minneapolis, Minnesota, United States of America | 2026-09-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1) |
 | Baird | Internship – Private Wealth Management (Madison, WI Summer 2027) | WI-Madison West | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059) |
 | Baird | Internship - Fixed Income Asset Management, Baird Advisors (Summer 2027) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Fixed-Income-Asset-Management--Baird-Advisors--Summer-2027-_R2026988-1) |
+| Baird | Internship – Wealth Planning (Year-Round) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2) |
+| Blackstone | 2027 Strategic Partners Spend Management Team (SMT) Summer Analyst | Tennessee | 2026-09-22 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tennessee/XMLNAME-2027-Strategic-Partners-Spend-Management-Team--SMT--Summer-Analyst_45615) |
 | Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
 | RBC | 2027 Winter, Personal Banking- Client Advisor Student Intern (4 Months) | RICHMOND, British Columbia, Canada | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RICHMOND-British-Columbia-Canada/XMLNAME-2027-Winter--Personal-Banking--Client-Advisor-Student-Intern--4-Months-_R-0000187476) |
 | Blackstone | 2027 Blackstone Government Relations Summer Analyst | DC | 2026-09-21 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577) |
@@ -149,4 +151,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-22 12:37 PM PT. 97 active postings.
+Last updated: 2026-09-22 1:07 PM PT. 99 active postings.

@@ -516,6 +516,17 @@
     "posted_at": "2026-09-14",
     "active": true
   },
+  "workday:baird:R20261027": {
+    "id": "workday:baird:R20261027",
+    "company": "Baird",
+    "title": "Internship – Wealth Planning (Year-Round)",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2",
+    "source": "workday",
+    "first_seen": "2026-09-22",
+    "posted_at": "2026-09-22",
+    "active": true
+  },
   "workday:baird:R20261030": {
     "id": "workday:baird:R20261030",
     "company": "Baird",
@@ -1041,6 +1052,17 @@
     "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577",
     "source": "workday",
     "first_seen": "2026-09-21",
+    "posted_at": null,
+    "active": true
+  },
+  "workday:blackstone:45615": {
+    "id": "workday:blackstone:45615",
+    "company": "Blackstone",
+    "title": "2027 Strategic Partners Spend Management Team (SMT) Summer Analyst",
+    "location": "Tennessee",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tennessee/XMLNAME-2027-Strategic-Partners-Spend-Management-Team--SMT--Summer-Analyst_45615",
+    "source": "workday",
+    "first_seen": "2026-09-22",
     "posted_at": null,
     "active": true
   },
