@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| RBC | Summer 2027 US Wealth Management Internship | Minneapolis, Minnesota, United States of America | 2026-09-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1) |
+| Baird | Internship - Fixed Income Asset Management, Baird Advisors (Summer 2027) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Fixed-Income-Asset-Management--Baird-Advisors--Summer-2027-_R2026988-1) |
 | Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
 | RBC | 2027 Winter, Personal Banking- Client Advisor Student Intern (4 Months) | RICHMOND, British Columbia, Canada | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RICHMOND-British-Columbia-Canada/XMLNAME-2027-Winter--Personal-Banking--Client-Advisor-Student-Intern--4-Months-_R-0000187476) |
 | Blackstone | 2027 Blackstone Government Relations Summer Analyst | DC | 2026-09-21 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577) |
@@ -143,7 +145,6 @@ Want a company added? Open a PR against `companies.json`.
 | Houlihan Lokey | Corporate Development Intern (Summer 2027) | Los Angeles, CA, USA; New York, NY, USA; United States of America | 2026-09-10 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Los-Angeles-CA-USA/Corporate-Development-Intern--Summer-2027-_R3354) |
 | Blackstone | 2027 Blackstone BXPE Summer Analyst | New York | 2026-09-10 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-BXPE-Summer-Analyst_44550) |
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
-| Coinbase | Finance Operations Intern | Hybrid - New York, NY | 2026-09-08 3:42 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-22 8:36 AM PT. 94 active postings.
+Last updated: 2026-09-22 9:08 AM PT. 95 active postings.
