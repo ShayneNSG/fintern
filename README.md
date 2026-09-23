@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| RBC | 2027 Global Markets Summer Analyst, Origination - Delaware | Wilmington, Delaware, United States of America | 2026-09-23 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Origination---Delaware_R-0000188791) |
+| RBC | 2027 Global Markets Summer Analyst, Securitization Financing Portfolio Managment- Delaware | Wilmington, Delaware, United States of America | 2026-09-23 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801) |
 | RBC | Summer 2027 Wealth Management Operations Internship | Minneapolis, Minnesota, United States of America | 2026-09-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Operations-Internship_R-0000187994-1) |
 | RBC | Summer 2027 US Wealth Management Internship | Minneapolis, Minnesota, United States of America | 2026-09-22 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1) |
 | Baird | Internship – Wealth Planning (Year-Round) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2) |
@@ -150,4 +152,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-23 1:07 PM PT. 98 active postings.
+Last updated: 2026-09-23 1:37 PM PT. 100 active postings.
