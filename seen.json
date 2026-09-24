@@ -1616,6 +1616,17 @@
     "posted_at": "2026-09-24",
     "active": true
   },
+  "workday:bmo:R260027648": {
+    "id": "workday:bmo:R260027648",
+    "company": "BMO",
+    "title": "Private Wealth Administrative Assistant, Winter 2027 (Co-op/Internship) - 4 months",
+    "location": "Waterloo, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant--Winter-2027--Co-op-Internship----4-months_R260027648-1",
+    "source": "workday",
+    "first_seen": "2026-09-24",
+    "posted_at": "2026-09-24",
+    "active": true
+  },
   "workday:capital-one:R243855": {
     "id": "workday:capital-one:R243855",
     "company": "Capital One",
@@ -2956,7 +2967,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-08-27",
-    "active": true
+    "active": false
   },
   "workday:pwc:753782WD": {
     "id": "workday:pwc:753782WD",
