@@ -987,7 +987,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:blackstone:44866": {
     "id": "workday:blackstone:44866",
@@ -1527,6 +1527,17 @@
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-09",
     "active": false
+  },
+  "workday:bmo:R260026240": {
+    "id": "workday:bmo:R260026240",
+    "company": "BMO",
+    "title": "Wealth Management Internship, Summer 2027- Newport Beach, CA (10 Weeks)",
+    "location": "Newport Beach, CA, USA",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Newport-Beach-CA-USA/Wealth-Management-Internship--Summer-2027--Newport-Beach--CA--10-Weeks-_R260026240-1",
+    "source": "workday",
+    "first_seen": "2026-09-24",
+    "posted_at": "2026-09-24",
+    "active": true
   },
   "workday:bmo:R260026279": {
     "id": "workday:bmo:R260026279",
