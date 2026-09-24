@@ -1680,7 +1680,7 @@
     "source": "workday",
     "first_seen": "2026-09-17",
     "posted_at": "2026-09-18",
-    "active": true
+    "active": false
   },
   "workday:disney:10158819": {
     "id": "workday:disney:10158819",
