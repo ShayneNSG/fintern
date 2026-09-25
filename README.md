@@ -91,7 +91,6 @@ Want a company added? Open a PR against `companies.json`.
 | TD Bank | 2027 Summer Internship Graduate Leadership Program- Treasury & Finance | New York, New York; Mount Laurel, New Jersey; Charlotte, North Carolina; United States of America | 2026-09-02 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Treasury---Finance_R_1508609) |
 | Blackstone | 2027 Blackstone LaunchPad Summer Analyst | New York | 2026-09-11 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Blackstone-LaunchPad-Summer-Analyst_45456) |
 | Oliver Wyman (Marsh McLennan) | Government Health Consulting Financial Summer Intern - College Program 2027 | Minneapolis - South Seventh; Phoenix - E. Camelback; United States of America | 2026-09-22 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/Minneapolis---South-Seventh/Government-Health-Consulting-Financial-Summer-Intern---College-Program-2027_R_362071) |
-| Wells Fargo | Equity Research Associate, Small & Mid Cap Consumer Internet | NEW YORK, NY | 2026-09-19 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Equity-Research-Associate--Small---Mid-Cap-Consumer-Internet_R-571211-1) |
 | Oliver Wyman (Marsh McLennan) | Government Health Consulting Informatics Summer Intern - College Program 2027 | Phoenix - E. Camelback; Minneapolis - South Seventh; United States of America | 2026-09-17 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2027_R_362073) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking | New York, New York | 2026-09-15 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508866-1) |
 | Raymond James | 2027 Summer Internship Program - Accounting Intern (St. Petersburg, FL) | Not listed | 2026-09-15 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Accounting-Intern--St-Petersburg--FL-_R-0012935) |
@@ -151,4 +150,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-24 8:36 PM PT. 99 active postings.
+Last updated: 2026-09-24 9:06 PM PT. 98 active postings.
