@@ -1845,7 +1845,7 @@
     "source": "workday",
     "first_seen": "2026-09-17",
     "posted_at": "2026-09-17",
-    "active": true
+    "active": false
   },
   "workday:houlihan-lokey:R2915": {
     "id": "workday:houlihan-lokey:R2915",

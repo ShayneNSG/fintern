@@ -64,7 +64,6 @@ Want a company added? Open a PR against `companies.json`.
 | Blackstone | 2027 Strategic Partners Spend Management Team (SMT) Summer Analyst | Tennessee | 2026-09-22 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tennessee/XMLNAME-2027-Strategic-Partners-Spend-Management-Team--SMT--Summer-Analyst_45615) |
 | Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
 | Blackstone | 2027 Blackstone Government Relations Summer Analyst | DC | 2026-09-21 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/DC/XMLNAME-2027-Blackstone-Government-Relations-Summer-Analyst_45577) |
-| Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Multiple Locations | Dallas, TX, USA; Atlanta, GA, USA; New York, NY, USA; United States of America | 2026-09-17 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Multiple-Locations_R2912) |
 | Baird | Internship – Private Wealth Management (Dayton, OH Summer 2027) | OH-Miamisburg | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Miamisburg/Internship---Private-Wealth-Management--Dayton--OH-Summer-2027-_R20261039) |
 | Baird | Internship – Private Wealth Management (Edina, MN Summer 2027) | MN-Edina | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Edina/Internship---Private-Wealth-Management--Edina--MN-Summer-2027-_R20261040-2) |
 | Baird | Internship – Private Wealth Management (Minnetonka, MN Summer 2027) | MN-Minnetonka | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Minnetonka/Internship---Private-Wealth-Management--Minnetonka--MN-Summer-2027-_R20261041-1) |
@@ -150,4 +149,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-25 11:08 AM PT. 98 active postings.
+Last updated: 2026-09-25 11:37 AM PT. 97 active postings.
