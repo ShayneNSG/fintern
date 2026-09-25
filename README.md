@@ -139,6 +139,7 @@ Want a company added? Open a PR against `companies.json`.
 | TD Bank | 2027 Summer Internship Program - TD Auto Finance | Southfield, Michigan | 2026-09-01 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Southfield-Michigan/XMLNAME-2027-Summer-Internship-Program---TD-Auto-Finance_R_1508218) |
 | TD Bank | 2027 Summer Internship Program - Finance | Charlotte, North Carolina | 2026-09-01 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Summer-Internship-Program---Finance_R_1508362) |
 | RBC | Finance Intern, US Regulatory Reporting and Financial Control | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA | 2026-08-29 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Finance-Intern--US-Regulatory-Reporting-and-Financial-Control_R-0000158719-1) |
+| PwC | May 2027 - Deals Corporate Finance Non-CPA - Summer Intern - Quebec City | Québec City | 2026-08-28 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Qubec-City/May-2027---Deals-Corporate-Finance-Non-CPA---Summer-Intern---Quebec-City_753715WD) |
 | Baird | Internship - Accounting/Finance (Year-Round) | WI-Milwaukee | 2026-08-25 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Accounting-Finance--Year-Round-_R2026924-1) |
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Wells Fargo | 2027 Commercial Banking Summer Internship – Early Careers | CHARLOTTE, NC; CHANDLER, AZ; ATLANTA, GA; BOSTON, MA; IRVING, TX; MINNEAPOLIS, MN; HOUSTON, TX; CHICAGO, IL; United States of America | 2026-09-10 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Summer-Internship--Early-Careers---Commercial-Banking_R-555720) |
@@ -151,4 +152,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-24 5:08 PM PT. 99 active postings.
+Last updated: 2026-09-24 5:36 PM PT. 100 active postings.
