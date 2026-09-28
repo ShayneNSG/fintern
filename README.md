@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Piper Sandler | 2027 Summer Internship Program - Equity Sales & Trading | Greenwich, CT | 2026-09-28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702) |
 | BMO | Wealth Management Internship, Summer 2027- Newport Beach, CA (10 Weeks) | Newport Beach, CA, USA | 2026-09-25 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Newport-Beach-CA-USA/Wealth-Management-Internship--Summer-2027--Newport-Beach--CA--10-Weeks-_R260026240-1) |
 | BMO | Private Wealth Administrative Assistant - Peterborough, Winter 2027 (Co-op/Internship) - 4 months | Peterborough, ON, CAN | 2026-09-25 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Peterborough-ON-CAN/Private-Wealth-Administrative-Assistant---Peterborough--Winter-2027--Co-op-Internship----4-months_R260027343) |
 | BMO | Private Wealth Administrative Assistant, Winter 2027 (Co-op/Internship) - 4 months | Waterloo, ON, CAN | 2026-09-25 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant--Winter-2027--Co-op-Internship----4-months_R260027648-1) |
@@ -98,7 +99,6 @@ Want a company added? Open a PR against `companies.json`.
 | BMO | Credit Analyst Internship - Wausau/Eau Claire, WI (Summer 2027) | Wausau, WI, USA | 2026-09-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Wausau-WI-USA/Credit-Analyst-Internship---Wausau--WI--Summer-2027-_R260025898-1) |
 | RBC | 2027 Capital Markets, COO Operations Summer Analyst | Jersey City, New Jersey, United States of America; New York, New York, United States of America; United States of America | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Capital-Markets--COO-Operations-Summer-Analyst_R-0000187346) |
 | Baird | Internship – Private Wealth Management (La Crosse, WI Summer 2027) | WI-Onalaska | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1) |
-| RBC | 2027 Capital Markets, Global Markets Program Summer Analyst (4 Months) | MONTRÉAL, Quebec, Canada | 2026-09-09 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Capital-Markets--Global-Markets-Program-Summer-Analyst--4-Months-_R-0000182092-1) |
 | Capital One | MBA, Investment Banking Summer Associate - Summer 2027 | McLean, VA | 2026-09-09 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA--Investment-Banking-Summer-Associate---Summer-2027_R246679-1) |
 | Baird | Internship – Private Wealth Management (Denver, CO Summer 2027) | CO-Denver | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking (ICRE) | Charlotte, North Carolina; New York, New York; United States of America | 2026-09-04 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking--ICRE-_R_1509280) |
@@ -148,4 +148,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-27 8:36 PM PT. 96 active postings.
+Last updated: 2026-09-27 9:07 PM PT. 96 active postings.

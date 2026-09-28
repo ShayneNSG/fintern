@@ -2496,6 +2496,17 @@
     "posted_at": "2026-09-09",
     "active": false
   },
+  "workday:piper-sandler:R-100702": {
+    "id": "workday:piper-sandler:R-100702",
+    "company": "Piper Sandler",
+    "title": "2027 Summer Internship Program - Equity Sales & Trading",
+    "location": "Greenwich, CT",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702",
+    "source": "workday",
+    "first_seen": "2026-09-28",
+    "posted_at": "2026-09-28",
+    "active": true
+  },
   "workday:piper-sandler:R-100705": {
     "id": "workday:piper-sandler:R-100705",
     "company": "Piper Sandler",
@@ -3396,7 +3407,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-09",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000184620": {
     "id": "workday:rbc:R-0000184620",
