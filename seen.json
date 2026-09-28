@@ -2142,7 +2142,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-22",
-    "active": true
+    "active": false
   },
   "workday:oliver-wyman:R_362073": {
     "id": "workday:oliver-wyman:R_362073",
