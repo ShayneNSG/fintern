@@ -52,6 +52,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Piper Sandler | 2027 Summer Internship Program - Equity Sales & Trading | Greenwich, CT | 2026-09-28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702) |
+| Baird | Internship – Private Wealth Management (Paducah, KY Summer 2027) | KY-Paducah | 2026-09-28 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Paducah/Internship---Private-Wealth-Management--Paducah--KY-Summer-2027-_R20261083-1) |
 | BMO | Wealth Management Internship, Summer 2027- Newport Beach, CA (10 Weeks) | Newport Beach, CA, USA | 2026-09-24 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Newport-Beach-CA-USA/Wealth-Management-Internship--Summer-2027--Newport-Beach--CA--10-Weeks-_R260026240-1) |
 | BMO | Private Wealth Administrative Assistant - Peterborough, Winter 2027 (Co-op/Internship) - 4 months | Peterborough, ON, CAN | 2026-09-24 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Peterborough-ON-CAN/Private-Wealth-Administrative-Assistant---Peterborough--Winter-2027--Co-op-Internship----4-months_R260027343) |
 | BMO | Private Wealth Administrative Assistant, Winter 2027 (Co-op/Internship) - 4 months | Waterloo, ON, CAN | 2026-09-24 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant--Winter-2027--Co-op-Internship----4-months_R260027648-1) |
@@ -149,4 +150,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-28 2:28 PM PT. 97 active postings.
+Last updated: 2026-09-28 2:37 PM PT. 98 active postings.
