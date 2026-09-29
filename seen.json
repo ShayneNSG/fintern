@@ -1064,7 +1064,7 @@
     "source": "workday",
     "first_seen": "2026-09-21",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:blackstone:45615": {
     "id": "workday:blackstone:45615",
@@ -4287,7 +4287,7 @@
     "source": "workday",
     "first_seen": "2026-09-11",
     "posted_at": "2026-09-01",
-    "active": true
+    "active": false
   },
   "workday:td-bank:R_1508760": {
     "id": "workday:td-bank:R_1508760",
