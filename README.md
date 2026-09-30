@@ -146,8 +146,7 @@ Want a company added? Open a PR against `companies.json`.
 | Wells Fargo | 2027 Commercial Banking Summer Internship – Early Careers (NY) | NEW YORK, NY | 2026-09-10 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2027-Summer-Internship--Early-Careers---Commercial-Banking--NY-_R-555736) |
 | Wells Fargo | 2027 Finance Summer Internship - Early Careers | CHARLOTTE, NC; IRVING, TX; MINNEAPOLIS, MN; United States of America | 2026-09-10 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Finance-Summer-Internship---Early-Careers_R-555860) |
 | Wells Fargo | 2027 Consumer Banking and Lending Summer Internship – Early Careers | CHARLOTTE, NC | 2026-09-10 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Consumer-Banking-and-Lending-Summer-Internship---Early-Careers_R-556017) |
-| Houlihan Lokey | Corporate Development Intern (Summer 2027) | Los Angeles, CA, USA; New York, NY, USA; United States of America | 2026-09-10 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Los-Angeles-CA-USA/Corporate-Development-Intern--Summer-2027-_R3354) |
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-09-30 12:08 PM PT. 98 active postings.
+Last updated: 2026-09-30 12:37 PM PT. 97 active postings.

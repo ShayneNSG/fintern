@@ -1900,7 +1900,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:houlihan-lokey:R3459": {
     "id": "workday:houlihan-lokey:R3459",
