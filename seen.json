@@ -395,6 +395,17 @@
     "posted_at": "2026-09-09",
     "active": false
   },
+  "workday:accenture:R00361148": {
+    "id": "workday:accenture:R00361148",
+    "company": "Accenture",
+    "title": "Strategy Summer Consultant - MBA Internship - NAELFY27",
+    "location": "",
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148",
+    "source": "workday",
+    "first_seen": "2026-10-01",
+    "posted_at": "2026-10-01",
+    "active": true
+  },
   "workday:apollo:R254978": {
     "id": "workday:apollo:R254978",
     "company": "Apollo",
@@ -613,6 +624,28 @@
     "source": "workday",
     "first_seen": "2026-09-28",
     "posted_at": "2026-09-28",
+    "active": true
+  },
+  "workday:baird:R20261102": {
+    "id": "workday:baird:R20261102",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Evansville, IN Summer 2027)",
+    "location": "IN-Evansville",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1",
+    "source": "workday",
+    "first_seen": "2026-10-01",
+    "posted_at": "2026-10-01",
+    "active": true
+  },
+  "workday:baird:R20261103": {
+    "id": "workday:baird:R20261103",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Bowling Green, KY Summer 2027)",
+    "location": "KY-Bowling Green",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1",
+    "source": "workday",
+    "first_seen": "2026-10-01",
+    "posted_at": "2026-10-01",
     "active": true
   },
   "workday:baird:R2026883": {

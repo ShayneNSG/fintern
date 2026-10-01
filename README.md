@@ -51,6 +51,9 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Baird | Internship – Private Wealth Management (Evansville, IN Summer 2027) | IN-Evansville | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1) |
+| Baird | Internship – Private Wealth Management (Bowling Green, KY Summer 2027) | KY-Bowling Green | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1) |
+| Accenture | Strategy Summer Consultant - MBA Internship - NAELFY27 | Not listed | 2026-10-01 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |
 | PJT Partners | 2027 Summer Analyst - Corporate Rotational Program | New York | 2026-09-30 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/New-York/XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549) |
 | TD Bank | 2027 Summer Analyst Program - Investment Banking, Healthcare (San Francisco) | San Francisco, California | 2026-09-29 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/San-Francisco-California/XMLNAME-2027-Summer-Analyst-Program---Investment-Banking--Healthcare--San-Francisco-_R_1513984) |
 | Piper Sandler | 2027 Summer Internship Program - Equity Sales & Trading | Greenwich, CT | 2026-09-28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702) |
@@ -145,4 +148,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-01 9:36 AM PT. 93 active postings.
+Last updated: 2026-10-01 10:08 AM PT. 96 active postings.
