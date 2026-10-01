@@ -404,7 +404,7 @@
     "source": "workday",
     "first_seen": "2026-10-01",
     "posted_at": "2026-10-01",
-    "active": true
+    "active": false
   },
   "workday:apollo:R254978": {
     "id": "workday:apollo:R254978",
