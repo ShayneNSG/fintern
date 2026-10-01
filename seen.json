@@ -659,6 +659,28 @@
     "posted_at": "2026-10-01",
     "active": true
   },
+  "workday:baird:R20261107": {
+    "id": "workday:baird:R20261107",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Phoenix, AZ Summer 2027)",
+    "location": "AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler; United States of America",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2",
+    "source": "workday",
+    "first_seen": "2026-10-01",
+    "posted_at": "2026-10-01",
+    "active": true
+  },
+  "workday:baird:R20261108": {
+    "id": "workday:baird:R20261108",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Tucson, AZ Summer 2027)",
+    "location": "AZ-Tucson",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1",
+    "source": "workday",
+    "first_seen": "2026-10-01",
+    "posted_at": "2026-10-01",
+    "active": true
+  },
   "workday:baird:R2026883": {
     "id": "workday:baird:R2026883",
     "company": "Baird",
@@ -811,7 +833,7 @@
     "source": "workday",
     "first_seen": "2026-09-22",
     "posted_at": "2026-09-22",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026995": {
     "id": "workday:baird:R2026995",
