@@ -65,6 +65,28 @@
     "posted_at": "2026-09-14T08:00:08-04:00",
     "active": true
   },
+  "greenhouse:xai:5255113007": {
+    "id": "greenhouse:xai:5255113007",
+    "company": "xAI",
+    "title": "Spring 2027 Business Operations Internship/Co-op",
+    "location": "Palo Alto, CA",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5255113007",
+    "source": "greenhouse",
+    "first_seen": "2026-10-02",
+    "posted_at": "2026-10-02T15:15:31-04:00",
+    "active": true
+  },
+  "greenhouse:xai:5255116007": {
+    "id": "greenhouse:xai:5255116007",
+    "company": "xAI",
+    "title": "Summer 2027 Business Operations Internship/Co-op",
+    "location": "Palo Alto, CA",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5255116007",
+    "source": "greenhouse",
+    "first_seen": "2026-10-02",
+    "posted_at": "2026-10-02T15:15:25-04:00",
+    "active": true
+  },
   "workday:accenture:13727121": {
     "id": "workday:accenture:13727121",
     "company": "Accenture",
