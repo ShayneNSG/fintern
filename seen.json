@@ -4232,7 +4232,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-10-03",
-    "active": true
+    "active": false
   },
   "workday:td-bank:R_1508050": {
     "id": "workday:td-bank:R_1508050",
@@ -4463,7 +4463,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-15",
-    "active": true
+    "active": false
   },
   "workday:td-bank:R_1508875": {
     "id": "workday:td-bank:R_1508875",
