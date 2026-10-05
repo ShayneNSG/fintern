@@ -3475,6 +3475,17 @@
     "posted_at": "2026-10-05",
     "active": true
   },
+  "workday:raymond-james:New York, New York - United States": {
+    "id": "workday:raymond-james:New York, New York - United States",
+    "company": "Raymond James",
+    "title": "2027 Investment Banking Summer Analyst Private Capital Advisory New York, NY",
+    "location": "",
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Private-Capital-Advisory-New-York--NY_R-0012143",
+    "source": "workday",
+    "first_seen": "2026-10-05",
+    "posted_at": "2026-09-16",
+    "active": true
+  },
   "workday:raymond-james:PA - Philadelphia - 1650 Market Street Floor 53": {
     "id": "workday:raymond-james:PA - Philadelphia - 1650 Market Street Floor 53",
     "company": "Raymond James",
@@ -3495,7 +3506,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-14",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000158719": {
     "id": "workday:rbc:R-0000158719",

@@ -52,6 +52,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Raymond James | 2027 Investment Banking Summer Analyst Financial Services Chicago, IL | Not listed | 2026-10-05 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Chicago-Illinois---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-Chicago--IL_R-0012141) |
+| Raymond James | 2027 Investment Banking Summer Analyst Private Capital Advisory New York, NY | Not listed | 2026-09-16 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Private-Capital-Advisory-New-York--NY_R-0012143) |
 | xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
 | Accenture | Strategy Summer Consultant - MBA Internship - NAELFY27 | Not listed | 2026-10-05 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |
@@ -100,7 +101,6 @@ Want a company added? Open a PR against `companies.json`.
 | Wells Fargo | Equity Research Associate, Small & Mid Cap Consumer Internet | NEW YORK, NY | 2026-10-02 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/Equity-Research-Associate--Small---Mid-Cap-Consumer-Internet_R-571211-1) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking (ICRE) | Charlotte, North Carolina; New York, New York; United States of America | 2026-10-02 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking--ICRE-_R_1509280) |
 | BMO | Private Wealth Administrative Assistant - Oakville, Winter 2027 (Co-op/Internship) - 4 months | Oakville, ON, CAN | 2026-09-29 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Oakville-ON-CAN/Private-Wealth-Administrative-Assistant---Oakville--Winter-2027--Co-op-Internship----4-months_R260024359-3) |
-| Raymond James | 2027 Summer Internship Program - Accounting Intern (St. Petersburg, FL) | Not listed | 2026-09-14 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-Summer-Internship-Program---Accounting-Intern--St-Petersburg--FL-_R-0012935) |
 | RBC | 2027 Capital Markets, COO Operations Summer Analyst | Chicago, Illinois, United States of America | 2026-09-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Chicago-Illinois-United-States-of-America/XMLNAME-2027-Capital-Markets--Operations-Summer-Analyst_R-0000187334) |
 | Baird | Internship – Private Wealth Management (Akron, OH Summer 2027) | OH-Akron | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1) |
 | BMO | Credit Analyst Internship - Wausau/Eau Claire, WI (Summer 2027) | Wausau, WI, USA | 2026-09-10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Wausau-WI-USA/Credit-Analyst-Internship---Wausau--WI--Summer-2027-_R260025898-1) |
@@ -129,4 +129,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-05 8:06 AM PT. 77 active postings.
+Last updated: 2026-10-05 8:36 AM PT. 77 active postings.
