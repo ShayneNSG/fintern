@@ -80,7 +80,7 @@
     "id": "greenhouse:xai:5255116007",
     "company": "xAI",
     "title": "Summer 2027 Business Operations Internship/Co-op",
-    "location": "Palo Alto, CA",
+    "location": "Palo Alto, CA; New York, NY",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5255116007",
     "source": "greenhouse",
     "first_seen": "2026-10-02",
@@ -778,7 +778,7 @@
     "source": "workday",
     "first_seen": "2026-09-14",
     "posted_at": "2026-09-14",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026954": {
     "id": "workday:baird:R2026954",
@@ -2252,7 +2252,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-10-05",
-    "active": false
+    "active": true
   },
   "workday:oliver-wyman:R_362073": {
     "id": "workday:oliver-wyman:R_362073",
@@ -2263,7 +2263,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-10-05",
-    "active": false
+    "active": true
   },
   "workday:oliver-wyman:R_362076": {
     "id": "workday:oliver-wyman:R_362076",
