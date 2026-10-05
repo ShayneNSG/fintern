@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Raymond James | 2027 Investment Banking Summer Analyst Financial Services Chicago, IL | Not listed | 2026-10-05 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Chicago-Illinois---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-Chicago--IL_R-0012141) |
 | xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
 | TD Bank | 2027 Summer Internship Program - Commercial Banking | New York, New York | 2026-10-02 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1514326) |
@@ -129,4 +130,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-04 9:36 PM PT. 77 active postings.
+Last updated: 2026-10-04 10:06 PM PT. 78 active postings.
