@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Oliver Wyman (Marsh McLennan) | Health Consulting Summer Intern - West Market - College Program 2027 | San Francisco - Embarcadero; Portland - SW Columbia; Los Angeles - West 5th; Salt Lake City - West South; Phoenix - E. Camelback; Seattle - Fifth Avenue; Irvine - Von Karman; United States of America | 2026-10-06 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/San-Francisco---Embarcadero/Health-Consulting-Summer-Intern---West-Market---College-Program-2027_R_362081) |
 | Raymond James | 2027 Investment Banking Summer Analyst Financial Services Chicago, IL | Not listed | 2026-10-05 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Chicago-Illinois---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-Chicago--IL_R-0012141) |
 | Baird | Internship – Private Wealth Management (Columbus, IN Summer 2027) | IN-Columbus | 2026-10-05 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Columbus/Internship---Private-Wealth-Management--Columbus--IN-Summer-2027-_R20261116) |
 | Raymond James | 2027 Investment Banking Summer Analyst Private Capital Advisory New York, NY | Not listed | 2026-09-16 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Private-Capital-Advisory-New-York--NY_R-0012143) |
@@ -133,4 +134,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-06 9:08 AM PT. 81 active postings.
+Last updated: 2026-10-06 9:37 AM PT. 82 active postings.
