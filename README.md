@@ -93,7 +93,7 @@ Want a company added? Open a PR against `companies.json`.
 | BMO | Commercial Banking Credit Analyst Internship - Burnaby, Summer 2027 (Co-op/Internship) - 4 months | Burnaby, BC, CAN | 2026-09-15 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Burnaby-BC-CAN/Commercial-Banking-Credit-Analyst-Internship---Burnaby--Summer-2027--Co-op-Internship----4-months_R260026721-1) |
 | BMO | Commercial Banking Credit Analyst Internship - Mississauga, Summer 2027 (Co-op/Internship) - 4 months | Mississauga, ON, CAN | 2026-09-15 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Mississauga-ON-CAN/Commercial-Banking-Credit-Analyst-Internship---Mississauga--Summer-2027--Co-op-Internship----4-months_R260026727-1) |
 | Robinhood | Crypto Accounting Intern (Summer 2027) | New York, NY | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
-| Robinhood | Investment Analyst Intern, Robinhood Ventures (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
+| Robinhood | Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Activism) | San Francisco; New York; United States of America | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Governance) | San Francisco | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528) |
 | TD Bank | 2027 Summer Internship Graduate Leadership Program- Retail Banking Strategy & AI | New York, New York; 5201 North Lois Avenue, Tampa, Florida; Charlotte, North Carolina; Mt Laurel - 6000 Atrium Way, Mount Laurel, New Jersey; United States of America | 2026-10-06 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Graduate-Leadership-Internship-Program---Retail-Distribution_R_1508518-1) |
@@ -133,4 +133,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-05 7:36 PM PT. 81 active postings.
+Last updated: 2026-10-05 8:06 PM PT. 81 active postings.
