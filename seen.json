@@ -3506,7 +3506,7 @@
     "source": "workday",
     "first_seen": "2026-10-05",
     "posted_at": "2026-09-16",
-    "active": true
+    "active": false
   },
   "workday:raymond-james:PA - Philadelphia - 1650 Market Street Floor 53": {
     "id": "workday:raymond-james:PA - Philadelphia - 1650 Market Street Floor 53",
