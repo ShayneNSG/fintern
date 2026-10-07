@@ -127,9 +127,8 @@ Want a company added? Open a PR against `companies.json`.
 | BMO | Credit Analyst Internship - Seattle, WA (Summer 2027) | Seattle, WA, USA | 2026-09-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Seattle-WA-USA/Credit-Analyst-Internship---Seattle--WA--Summer-2027-_R260025784-2) |
 | BMO | Credit Analyst Internship - Los Angeles/Newport Beach, CA (Summer 2027) | Los Angeles, CA, USA; Newport Beach, CA, USA; United States of America | 2026-09-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Los-Angeles-CA-USA/Credit-Analyst-Internship---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025803-1) |
 | RBC | Finance Intern, US Regulatory Reporting and Financial Control | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA | 2026-08-29 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Finance-Intern--US-Regulatory-Reporting-and-Financial-Control_R-0000158719-1) |
-| Baird | Internship - Accounting/Finance (Year-Round) | WI-Milwaukee | 2026-08-25 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Accounting-Finance--Year-Round-_R2026924-1) |
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-07 7:07 AM PT. 80 active postings.
+Last updated: 2026-10-07 7:36 AM PT. 79 active postings.

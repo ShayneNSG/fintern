@@ -756,7 +756,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-08-25",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026938": {
     "id": "workday:baird:R2026938",
