@@ -1187,6 +1187,17 @@
     "posted_at": null,
     "active": true
   },
+  "workday:blackstone:45867": {
+    "id": "workday:blackstone:45867",
+    "company": "Blackstone",
+    "title": "2027 Blackstone Global Fund Finance Summer Analyst",
+    "location": "Miami",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Global-Fund-Finance-Summer-Analyst_45867",
+    "source": "workday",
+    "first_seen": "2026-10-08",
+    "posted_at": null,
+    "active": true
+  },
   "workday:bmo:R260024330": {
     "id": "workday:bmo:R260024330",
     "company": "BMO",
@@ -1657,8 +1668,8 @@
     "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Newport-Beach-CA-USA/Wealth-Management-Internship--Summer-2027--Newport-Beach--CA--10-Weeks-_R260026240-1",
     "source": "workday",
     "first_seen": "2026-09-24",
-    "posted_at": "2026-09-25",
-    "active": false
+    "posted_at": "2026-10-08",
+    "active": true
   },
   "workday:bmo:R260026279": {
     "id": "workday:bmo:R260026279",

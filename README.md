@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Blackstone | 2027 Blackstone Global Fund Finance Summer Analyst | Miami | 2026-10-08 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Global-Fund-Finance-Summer-Analyst_45867) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Des Moines, IA | 2026-10-07 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Des-Moines-IA/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100734) |
 | Baird | Internship – Private Wealth Management (Butler, PA Summer 2027) | PA-Butler | 2026-10-07 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Butler/Internship---Private-Wealth-Management--Butler--PA-Summer-2027-_R20261132-1) |
 | Oliver Wyman (Marsh McLennan) | Health Consulting Summer Intern - West Market - College Program 2027 | San Francisco - Embarcadero; Portland - SW Columbia; Los Angeles - West 5th; Salt Lake City - West South; Phoenix - E. Camelback; Seattle - Fifth Avenue; Irvine - Von Karman; United States of America | 2026-10-06 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/San-Francisco---Embarcadero/Health-Consulting-Summer-Intern---West-Market---College-Program-2027_R_362081) |
@@ -69,6 +70,7 @@ Want a company added? Open a PR against `companies.json`.
 | TD Bank | 2027 Summer Analyst Program - Investment Banking, Healthcare (San Francisco) | San Francisco, California | 2026-09-29 | [Apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/San-Francisco-California/XMLNAME-2027-Summer-Analyst-Program---Investment-Banking--Healthcare--San-Francisco-_R_1513984) |
 | Piper Sandler | 2027 Summer Internship Program - Equity Sales & Trading | Greenwich, CT | 2026-09-28 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702) |
 | Baird | Internship – Private Wealth Management (Paducah, KY Summer 2027) | KY-Paducah | 2026-09-28 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Paducah/Internship---Private-Wealth-Management--Paducah--KY-Summer-2027-_R20261083-1) |
+| BMO | Wealth Management Internship, Summer 2027- Newport Beach, CA (10 Weeks) | Newport Beach, CA, USA | 2026-10-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Newport-Beach-CA-USA/Wealth-Management-Internship--Summer-2027--Newport-Beach--CA--10-Weeks-_R260026240-1) |
 | BMO | Private Wealth Administrative Assistant, Winter 2027 (Co-op/Internship) - 4 months | Waterloo, ON, CAN | 2026-09-24 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Waterloo-ON-CAN/Private-Wealth-Administrative-Assistant--Winter-2027--Co-op-Internship----4-months_R260027648-1) |
 | RBC | 2027 Global Markets Summer Analyst, Origination - Delaware | Wilmington, Delaware, United States of America | 2026-10-07 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Origination---Delaware_R-0000188791) |
 | RBC | 2027 Global Markets Summer Analyst, Securitization Financing Portfolio Managment- Delaware | Wilmington, Delaware, United States of America | 2026-10-07 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801) |
@@ -133,4 +135,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-08 7:37 AM PT. 81 active postings.
+Last updated: 2026-10-08 8:06 AM PT. 83 active postings.
