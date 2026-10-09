@@ -4814,8 +4814,8 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2027-Summer-Internship--Early-Careers---Commercial-Banking--NY-_R-555736",
     "source": "workday",
     "first_seen": "2026-09-10",
-    "posted_at": null,
-    "active": false
+    "posted_at": "2026-10-09",
+    "active": true
   },
   "workday:wells-fargo:R-555860": {
     "id": "workday:wells-fargo:R-555860",
