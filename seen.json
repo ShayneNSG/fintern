@@ -866,7 +866,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-04",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026984": {
     "id": "workday:baird:R2026984",
@@ -1217,6 +1217,17 @@
     "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Global-Fund-Finance-Summer-Analyst_45867",
     "source": "workday",
     "first_seen": "2026-10-08",
+    "posted_at": null,
+    "active": true
+  },
+  "workday:blackstone:45868": {
+    "id": "workday:blackstone:45868",
+    "company": "Blackstone",
+    "title": "2027 Blackstone Finance – Portfolio Management Summer Analyst",
+    "location": "Miami",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Finance---Portfolio-Management-Summer-Analyst_45868",
+    "source": "workday",
+    "first_seen": "2026-10-09",
     "posted_at": null,
     "active": true
   },

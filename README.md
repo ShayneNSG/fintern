@@ -52,6 +52,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | SoFi | Staff Credit Policy Analyst – Condo, Co-op & Project Review | United States | 2026-04-13 1:32 PM PT | [Apply](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) |
+| Blackstone | 2027 Blackstone Finance – Portfolio Management Summer Analyst | Miami | 2026-10-09 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Finance---Portfolio-Management-Summer-Analyst_45868) |
 | Baird | Internship – Private Wealth Management (Greensburg, PA Summer 2027) | PA-Greensburg | 2026-10-08 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Greensburg/Internship---Private-Wealth-Management--Greensburg--PA-Summer-2027-_R20261131-2) |
 | Blackstone | 2027 Blackstone Global Fund Finance Summer Analyst | Miami | 2026-10-08 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Global-Fund-Finance-Summer-Analyst_45867) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Des Moines, IA | 2026-10-07 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Des-Moines-IA/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100734) |
@@ -115,7 +116,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Denver, CO Summer 2027) | CO-Denver | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1) |
 | Baird | Internship – Private Wealth Management (La Crosse, WI Summer 2027) | WI-Onalaska | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1) |
 | Baird | Internship - Investment Banking Associate Summer 2027 (Charlotte, NC) | NC-Charlotte | 2026-09-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Charlotte/Internship---Investment-Banking-Associate-Summer-2027--Charlotte--NC-_R2026975-1) |
-| Baird | Internship – Private Wealth Management (Charlotte, NC Summer 2027) | NC-Charlotte | 2026-09-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Charlotte/Internship---Private-Wealth-Management--Charlotte--NC-Summer-2027-_R2026978-2) |
 | Baird | Internship - Investment Banking Associate (Summer 2027) | IL-Chicago | 2026-09-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Chicago/Internship---Investment-Banking-Associate--Summer-2027-_R2026938-1) |
 | BMO | Credit Analyst Internship - Indianapolis, IN (Summer 2027) | Indianapolis, IN, USA | 2026-09-03 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Indianapolis-IN-USA/Credit-Analyst-Internship---Indianapolis--IN--Summer-2027-_R260025878-2) |
 | BMO | Credit Analyst Internship - Minneapolis, MN (Summer 2027) | Minneapolis, MN, USA | 2026-09-03 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Minneapolis-MN-USA/Credit-Analyst-Internship---Minneapolis--MN--Summer-2027-_R260025880-2) |
@@ -134,4 +134,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-09 9:37 AM PT. 82 active postings.
+Last updated: 2026-10-09 10:06 AM PT. 82 active postings.
