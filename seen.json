@@ -2659,7 +2659,7 @@
     "source": "workday",
     "first_seen": "2026-09-28",
     "posted_at": "2026-09-29",
-    "active": true
+    "active": false
   },
   "workday:piper-sandler:R-100705": {
     "id": "workday:piper-sandler:R-100705",
