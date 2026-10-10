@@ -1449,7 +1449,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-02",
-    "active": true
+    "active": false
   },
   "workday:bmo:R260025630": {
     "id": "workday:bmo:R260025630",
@@ -1504,7 +1504,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-02",
-    "active": true
+    "active": false
   },
   "workday:bmo:R260025784": {
     "id": "workday:bmo:R260025784",
@@ -1559,7 +1559,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-03",
-    "active": true
+    "active": false
   },
   "workday:bmo:R260025880": {
     "id": "workday:bmo:R260025880",
@@ -1790,7 +1790,7 @@
     "source": "workday",
     "first_seen": "2026-09-24",
     "posted_at": "2026-09-25",
-    "active": true
+    "active": false
   },
   "workday:capital-one:R243855": {
     "id": "workday:capital-one:R243855",
