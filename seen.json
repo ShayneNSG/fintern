@@ -2692,7 +2692,7 @@
     "source": "workday",
     "first_seen": "2026-09-14",
     "posted_at": "2026-10-07",
-    "active": true
+    "active": false
   },
   "workday:piper-sandler:R-100708": {
     "id": "workday:piper-sandler:R-100708",
