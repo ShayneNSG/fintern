@@ -3605,7 +3605,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-08-29",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000173646": {
     "id": "workday:rbc:R-0000173646",
