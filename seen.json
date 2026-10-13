@@ -32,6 +32,17 @@
     "posted_at": "2026-09-08T18:42:35-04:00",
     "active": false
   },
+  "greenhouse:gusto:8257115": {
+    "id": "greenhouse:gusto:8257115",
+    "company": "Gusto",
+    "title": "Finance Intern (Summer 2027)",
+    "location": "New York, NY - Hybrid",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
+    "source": "greenhouse",
+    "first_seen": "2026-10-13",
+    "posted_at": "2026-10-13T13:09:25-04:00",
+    "active": true
+  },
   "greenhouse:robinhood:8198142": {
     "id": "greenhouse:robinhood:8198142",
     "company": "Robinhood",
@@ -2725,6 +2736,17 @@
     "source": "workday",
     "first_seen": "2026-10-12",
     "posted_at": "2026-10-12",
+    "active": true
+  },
+  "workday:piper-sandler:R-100741": {
+    "id": "workday:piper-sandler:R-100741",
+    "company": "Piper Sandler",
+    "title": "2027 Off-Cycle Investment Banking Internship - Services & Industrials",
+    "location": "Minneapolis, MN - HQ",
+    "url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Off-Cycle-Investment-Banking-Internship---Services---Industrials_R-100741",
+    "source": "workday",
+    "first_seen": "2026-10-13",
+    "posted_at": "2026-10-13",
     "active": true
   },
   "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549": {
