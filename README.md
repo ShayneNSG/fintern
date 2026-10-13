@@ -53,6 +53,8 @@ Want a company added? Open a PR against `companies.json`.
 |---|---|---|---|---|
 | Gusto | Finance Intern (Summer 2027) | New York, NY - Hybrid | 2026-10-13 10:09 AM PT | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257115) |
 | Piper Sandler | 2027 Off-Cycle Investment Banking Internship - Services & Industrials | Minneapolis, MN - HQ | 2026-10-13 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Off-Cycle-Investment-Banking-Internship---Services---Industrials_R-100741) |
+| Baird | Internship - Private Wealth Management (Waukesha, WI Summer 2027) | WI-Waukesha | 2026-10-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Waukesha/Internship---Private-Wealth-Management--Waukesha--WI-Summer-2027-_R20261159-1) |
+| Baird | Internship – Private Wealth Management (Mequon, WI Summer 2027) | WI-Mequon | 2026-10-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Mequon/Internship---Private-Wealth-Management--Mequon--WI-Summer-2027-_R20261160-1) |
 | Raymond James | 2027 Investment Banking Summer Analyst Consumer Charlotte, NC | Not listed | 2026-10-12 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/NC---Charlotte---650-S-Tryon-St-Ste-1525/XMLNAME-2027-Investment-Banking-Summer-Analyst-Consumer-Charlotte--NC_R-0012361) |
 | Piper Sandler | 2027 Investment Banking Summer Analyst - Financial Sponsors | New York, NY | 2026-10-12 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/New-York-NY/XMLNAME-2027-Investment-Banking-Summer-Analyst---Financial-Sponsors_R-100740) |
 | SoFi | Staff Credit Policy Analyst – Condo, Co-op & Project Review | United States | 2026-04-13 1:32 PM PT | [Apply](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) |
@@ -122,4 +124,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-13 3:36 PM PT. 70 active postings.
+Last updated: 2026-10-13 4:06 PM PT. 72 active postings.
