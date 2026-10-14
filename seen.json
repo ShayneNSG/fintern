@@ -2725,7 +2725,7 @@
     "source": "workday",
     "first_seen": "2026-09-14",
     "posted_at": "2026-10-14",
-    "active": true
+    "active": false
   },
   "workday:piper-sandler:R-100708": {
     "id": "workday:piper-sandler:R-100708",
@@ -2769,7 +2769,7 @@
     "source": "workday",
     "first_seen": "2026-10-13",
     "posted_at": "2026-10-14",
-    "active": true
+    "active": false
   },
   "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549": {
     "id": "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549",
