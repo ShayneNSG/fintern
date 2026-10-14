@@ -87,6 +87,7 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Edina, MN Summer 2027) | MN-Edina | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Edina/Internship---Private-Wealth-Management--Edina--MN-Summer-2027-_R20261040-2) |
 | Baird | Internship – Private Wealth Management (Minnetonka, MN Summer 2027) | MN-Minnetonka | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Minnetonka/Internship---Private-Wealth-Management--Minnetonka--MN-Summer-2027-_R20261041-1) |
 | Baird | Internship – Private Wealth Management (Lexington, KY Summer 2027) | KY-Lexington | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1) |
+| Piper Sandler | 2027 Summer Internship Program – Public Finance | Minneapolis, MN - HQ | 2026-10-14 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100705) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Saint-Georges-de-Beauce - 4 months | St-Georges, QC, CAN | 2026-10-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Magog - 4 months | Magog, QC, CAN | 2026-10-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Magog-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Magog---4-months_R260026751-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months | Victoriaville, QC, CAN | 2026-09-18 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1) |
@@ -118,4 +119,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-14 7:36 AM PT. 66 active postings.
+Last updated: 2026-10-14 8:06 AM PT. 67 active postings.
