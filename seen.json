@@ -52,7 +52,7 @@
     "source": "greenhouse",
     "first_seen": "2026-09-15",
     "posted_at": "2026-09-15T14:24:26-04:00",
-    "active": true
+    "active": false
   },
   "greenhouse:robinhood:8198153": {
     "id": "greenhouse:robinhood:8198153",
@@ -63,7 +63,7 @@
     "source": "greenhouse",
     "first_seen": "2026-09-14",
     "posted_at": "2026-09-14T08:00:08-04:00",
-    "active": true
+    "active": false
   },
   "greenhouse:robinhood:8198187": {
     "id": "greenhouse:robinhood:8198187",

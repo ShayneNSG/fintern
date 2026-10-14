@@ -88,7 +88,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Edina, MN Summer 2027) | MN-Edina | 2026-09-18 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Edina/Internship---Private-Wealth-Management--Edina--MN-Summer-2027-_R20261040-2) |
 | Baird | Internship – Private Wealth Management (Minnetonka, MN Summer 2027) | MN-Minnetonka | 2026-09-18 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Minnetonka/Internship---Private-Wealth-Management--Minnetonka--MN-Summer-2027-_R20261041-1) |
 | Baird | Internship – Private Wealth Management (Lexington, KY Summer 2027) | KY-Lexington | 2026-09-16 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Lexington/Internship---Private-Wealth-Management--Lexington--KY-Summer-2027-_R20261032-1) |
-| Robinhood | Finance and Strategy Intern (Summer 2027) | Menlo Park, CA | 2026-09-15 11:24 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Saint-Georges-de-Beauce - 4 months | St-Georges, QC, CAN | 2026-10-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Magog - 4 months | Magog, QC, CAN | 2026-10-06 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Magog-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Magog---4-months_R260026751-1) |
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Victoriaville - 4 months | Victoriaville, QC, CAN | 2026-09-19 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Victoriaville-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Victoriaville---4-months_R260026738-1) |
@@ -99,7 +98,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Bloomington, IN Summer 2027) | IN-Bloomington | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Bloomington/Internship---Private-Wealth-Management--Bloomington--IN-Summer-2027-_R20261025-1) |
 | BMO | Commercial Banking Credit Analyst Internship - Burnaby, Summer 2027 (Co-op/Internship) - 4 months | Burnaby, BC, CAN | 2026-09-15 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Burnaby-BC-CAN/Commercial-Banking-Credit-Analyst-Internship---Burnaby--Summer-2027--Co-op-Internship----4-months_R260026721-1) |
 | BMO | Commercial Banking Credit Analyst Internship - Mississauga, Summer 2027 (Co-op/Internship) - 4 months | Mississauga, ON, CAN | 2026-09-15 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Mississauga-ON-CAN/Commercial-Banking-Credit-Analyst-Internship---Mississauga--Summer-2027--Co-op-Internship----4-months_R260026727-1) |
-| Robinhood | Crypto Accounting Intern (Summer 2027) | New York, NY | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
 | Robinhood | Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Activism) | San Francisco; New York; United States of America | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Governance) | San Francisco | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528) |
@@ -121,4 +119,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-13 10:36 PM PT. 69 active postings.
+Last updated: 2026-10-13 11:06 PM PT. 67 active postings.
