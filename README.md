@@ -83,7 +83,6 @@ Want a company added? Open a PR against `companies.json`.
 | RBC | Summer 2027 US Wealth Management Internship | Minneapolis, Minnesota, United States of America | 2026-10-13 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1) |
 | Baird | Internship – Wealth Planning (Year-Round) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2) |
 | Baird | Internship – Private Wealth Management (Madison, WI Summer 2027) | WI-Madison West | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059) |
-| Blackstone | 2027 Strategic Partners Spend Management Team (SMT) Summer Analyst | Tennessee | 2026-09-22 | [Apply](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Tennessee/XMLNAME-2027-Strategic-Partners-Spend-Management-Team--SMT--Summer-Analyst_45615) |
 | Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
 | Baird | Internship – Private Wealth Management (Dayton, OH Summer 2027) | OH-Miamisburg | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Miamisburg/Internship---Private-Wealth-Management--Dayton--OH-Summer-2027-_R20261039) |
 | Baird | Internship – Private Wealth Management (Edina, MN Summer 2027) | MN-Edina | 2026-09-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/MN-Edina/Internship---Private-Wealth-Management--Edina--MN-Summer-2027-_R20261040-2) |
@@ -120,4 +119,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-15 7:37 AM PT. 68 active postings.
+Last updated: 2026-10-15 8:07 AM PT. 67 active postings.

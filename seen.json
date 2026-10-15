@@ -1240,7 +1240,7 @@
     "source": "workday",
     "first_seen": "2026-09-22",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:blackstone:45867": {
     "id": "workday:blackstone:45867",
