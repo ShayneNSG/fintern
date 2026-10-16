@@ -114,9 +114,8 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Denver, CO Summer 2027) | CO-Denver | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1) |
 | Baird | Internship - Investment Banking Associate Summer 2027 (Charlotte, NC) | NC-Charlotte | 2026-09-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Charlotte/Internship---Investment-Banking-Associate-Summer-2027--Charlotte--NC-_R2026975-1) |
 | Baird | Internship - Investment Banking Associate (Summer 2027) | IL-Chicago | 2026-09-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Chicago/Internship---Investment-Banking-Associate--Summer-2027-_R2026938-1) |
-| Baird | Internship – Private Wealth Management (Louisville, KY Summer 2027) | KY-Louisville | 2026-09-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Louisville/Internship---Private-Wealth-Management--Louisville--KY-Summer-2027-_R2026954-1) |
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-15 8:36 PM PT. 67 active postings.
+Last updated: 2026-10-15 9:06 PM PT. 66 active postings.
