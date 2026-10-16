@@ -3616,7 +3616,7 @@
     "source": "workday",
     "first_seen": "2026-10-05",
     "posted_at": "2026-10-05",
-    "active": true
+    "active": false
   },
   "workday:raymond-james:Mc Lean, Virginia - United States": {
     "id": "workday:raymond-james:Mc Lean, Virginia - United States",
