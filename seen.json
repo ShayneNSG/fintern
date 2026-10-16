@@ -4245,6 +4245,28 @@
     "posted_at": null,
     "active": false
   },
+  "workday:stout:r2224": {
+    "id": "workday:stout:r2224",
+    "company": "Stout",
+    "title": "Summer Analyst, ESOP - Investment Banking (2027)",
+    "location": "",
+    "url": "https://stout.wd5.myworkdayjobs.com/Stout-Careers-URL/job/Chicago-IL/Summer-Analyst--ESOP---Investment-Banking--2027-_r2224",
+    "source": "workday",
+    "first_seen": "2026-10-16",
+    "posted_at": "2026-10-16",
+    "active": true
+  },
+  "workday:stout:r2225": {
+    "id": "workday:stout:r2225",
+    "company": "Stout",
+    "title": "Summer Analyst, ESOP - Investment Banking (2028)",
+    "location": "",
+    "url": "https://stout.wd5.myworkdayjobs.com/Stout-Careers-URL/job/Chicago-IL/Summer-Analyst--ESOP---Investment-Banking--2028-_r2225",
+    "source": "workday",
+    "first_seen": "2026-10-16",
+    "posted_at": "2026-10-16",
+    "active": true
+  },
   "workday:stout:r322": {
     "id": "workday:stout:r322",
     "company": "Stout",

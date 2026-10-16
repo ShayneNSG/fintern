@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Stout | Summer Analyst, ESOP - Investment Banking (2027) | Not listed | 2026-10-16 | [Apply](https://stout.wd5.myworkdayjobs.com/Stout-Careers-URL/job/Chicago-IL/Summer-Analyst--ESOP---Investment-Banking--2027-_r2224) |
+| Stout | Summer Analyst, ESOP - Investment Banking (2028) | Not listed | 2026-10-16 | [Apply](https://stout.wd5.myworkdayjobs.com/Stout-Careers-URL/job/Chicago-IL/Summer-Analyst--ESOP---Investment-Banking--2028-_r2225) |
 | RBC | Summer 2027 Global Asset Management Distribution Internship - Boston, MA | Boston, Massachusetts, United States of America | 2026-10-14 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boston-Massachusetts-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Distribution_R-0000189977) |
 | Gusto | Finance Intern (Summer 2027) | New York, NY - Hybrid | 2026-10-13 10:09 AM PT | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257115) |
 | Baird | Internship - Private Wealth Management (Waukesha, WI Summer 2027) | WI-Waukesha | 2026-10-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Waukesha/Internship---Private-Wealth-Management--Waukesha--WI-Summer-2027-_R20261159-1) |
@@ -116,4 +118,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-16 12:36 PM PT. 64 active postings.
+Last updated: 2026-10-16 1:06 PM PT. 66 active postings.
