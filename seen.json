@@ -91,7 +91,7 @@
     "id": "greenhouse:xai:5255113007",
     "company": "xAI",
     "title": "Spring 2027 Business Operations Internship/Co-op",
-    "location": "Palo Alto, CA",
+    "location": "Palo Alto, CA; New York, NY",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5255113007",
     "source": "greenhouse",
     "first_seen": "2026-10-02",
@@ -2758,7 +2758,7 @@
     "source": "workday",
     "first_seen": "2026-10-12",
     "posted_at": "2026-10-12",
-    "active": true
+    "active": false
   },
   "workday:piper-sandler:R-100741": {
     "id": "workday:piper-sandler:R-100741",
@@ -3671,7 +3671,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-10-06",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000158719": {
     "id": "workday:rbc:R-0000158719",
