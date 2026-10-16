@@ -3627,7 +3627,7 @@
     "source": "workday",
     "first_seen": "2026-10-15",
     "posted_at": "2026-10-15",
-    "active": true
+    "active": false
   },
   "workday:raymond-james:NC - Charlotte - 650 S Tryon St Ste 1525": {
     "id": "workday:raymond-james:NC - Charlotte - 650 S Tryon St Ste 1525",
