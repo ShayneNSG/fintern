@@ -68,6 +68,7 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Columbus, IN Summer 2027) | IN-Columbus | 2026-10-06 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Columbus/Internship---Private-Wealth-Management--Columbus--IN-Summer-2027-_R20261116) |
 | xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA; New York, NY | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA; New York, NY | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
+| Accenture | Strategy Summer Consultant - MBA Internship - NAELFY27 | Not listed | 2026-10-05 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |
 | Baird | Internship – Private Wealth Management (Evansville, IN Summer 2027) | IN-Evansville | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1) |
 | Baird | Internship – Private Wealth Management (Bowling Green, KY Summer 2027) | KY-Bowling Green | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1) |
 | Baird | Internship – Private Wealth Management (Cedar Rapids, IA Summer 2027) | IA-Cedar Rapids | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Cedar-Rapids/Internship---Private-Wealth-Management--Cedar-Rapids--IA-Summer-2027-_R20261105-1) |
@@ -113,4 +114,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-17 12:32 AM PT. 61 active postings.
+Last updated: 2026-10-17 1:02 AM PT. 62 active postings.
