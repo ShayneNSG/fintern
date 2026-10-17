@@ -1768,7 +1768,7 @@
     "source": "workday",
     "first_seen": "2026-09-14",
     "posted_at": "2026-09-15",
-    "active": true
+    "active": false
   },
   "workday:bmo:R260026738": {
     "id": "workday:bmo:R260026738",
@@ -4760,7 +4760,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-10-03",
-    "active": true
+    "active": false
   },
   "workday:td-bank:R_1509284": {
     "id": "workday:td-bank:R_1509284",
