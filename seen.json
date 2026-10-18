@@ -4144,7 +4144,7 @@
     "source": "workday",
     "first_seen": "2026-09-22",
     "posted_at": "2026-10-14",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000187999": {
     "id": "workday:rbc:R-0000187999",
@@ -4155,7 +4155,7 @@
     "source": "workday",
     "first_seen": "2026-09-22",
     "posted_at": "2026-10-14",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000188791": {
     "id": "workday:rbc:R-0000188791",
