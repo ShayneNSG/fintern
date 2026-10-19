@@ -78,6 +78,7 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Paducah, KY Summer 2027) | KY-Paducah | 2026-09-28 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Paducah/Internship---Private-Wealth-Management--Paducah--KY-Summer-2027-_R20261083-1) |
 | RBC | 2027 Global Markets Summer Analyst, Origination - Delaware | Wilmington, Delaware, United States of America | 2026-10-07 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Origination---Delaware_R-0000188791) |
 | RBC | 2027 Global Markets Summer Analyst, Securitization Financing Portfolio Managment- Delaware | Wilmington, Delaware, United States of America | 2026-10-07 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801) |
+| RBC | Summer 2027 US Wealth Management Internship | Minneapolis, Minnesota, United States of America | 2026-10-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-US-Wealth-Management-Internship_R-0000187999-1) |
 | Baird | Internship – Wealth Planning (Year-Round) | WI-Milwaukee | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Wealth-Planning--Year-Round-_R20261027-2) |
 | Baird | Internship – Private Wealth Management (Madison, WI Summer 2027) | WI-Madison West | 2026-09-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Madison-West/Internship---Private-Wealth-Management--Madison--WI-Summer-202-_R20261059) |
 | Baird | Internship – Private Wealth Management (Owensboro, KY Summer 2027) | KY-Owensboro | 2026-09-21 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Owensboro/Internship---Private-Wealth-Management--Owensboro--KY-Summer-2027-_R20261051) |
@@ -109,4 +110,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-19 7:36 AM PT. 57 active postings.
+Last updated: 2026-10-19 8:06 AM PT. 58 active postings.
