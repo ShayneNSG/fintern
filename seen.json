@@ -910,7 +910,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-09",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026986": {
     "id": "workday:baird:R2026986",

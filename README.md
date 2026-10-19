@@ -103,11 +103,10 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Akron, OH Summer 2027) | OH-Akron | 2026-09-11 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/OH-Akron/Internship---Private-Wealth-Management--Akron--OH-Summer-2027-_R2026998-1) |
 | Baird | Internship – Private Wealth Management (La Crosse, WI Summer 2027) | WI-Onalaska | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1) |
 | Capital One | MBA, Investment Banking Summer Associate - Summer 2027 | McLean, VA | 2026-09-09 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA--Investment-Banking-Summer-Associate---Summer-2027_R246679-1) |
-| Baird | Internship – Private Wealth Management (Denver, CO Summer 2027) | CO-Denver | 2026-09-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Denver/Internship---Private-Wealth-Management--Denver--CO-Summer-2027-_R2026984-1) |
 | Baird | Internship - Investment Banking Associate Summer 2027 (Charlotte, NC) | NC-Charlotte | 2026-09-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/NC-Charlotte/Internship---Investment-Banking-Associate-Summer-2027--Charlotte--NC-_R2026975-1) |
 | Baird | Internship - Investment Banking Associate (Summer 2027) | IL-Chicago | 2026-09-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Chicago/Internship---Investment-Banking-Associate--Summer-2027-_R2026938-1) |
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-19 9:36 AM PT. 58 active postings.
+Last updated: 2026-10-19 10:06 AM PT. 57 active postings.
