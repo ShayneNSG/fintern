@@ -52,6 +52,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Raymond James | 2027 Investment Banking Summer Analyst Financial Services San Francisco, CA | Not listed | 2026-10-20 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/San-Francisco-California---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-San-Francisco--CA_R-0013502) |
+| PwC | Consultant Confirmé Conformité & Contrôle Interne - Entreprises d'Investissement F/H | Neuilly-sur-Seine | 2026-10-20 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Consultant-Confirm-Conformit---Contrle-Interne---Entreprises-d-Investissement-F-H_769040WD) |
 | Baird | Internship – Private Wealth Management (Durango, CO Summer 2027) | CO-Durango | 2026-10-19 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Durango/Internship---Private-Wealth-Management--Durango--CO-Summer-2027-_R20261183-1) |
 | Stout | Summer Analyst, ESOP - Investment Banking (2027) | Not listed | 2026-10-16 | [Apply](https://stout.wd5.myworkdayjobs.com/Stout-Careers-URL/job/Chicago-IL/Summer-Analyst--ESOP---Investment-Banking--2027-_r2224) |
 | Stout | Summer Analyst, ESOP - Investment Banking (2028) | Not listed | 2026-10-16 | [Apply](https://stout.wd5.myworkdayjobs.com/Stout-Careers-URL/job/Chicago-IL/Summer-Analyst--ESOP---Investment-Banking--2028-_r2225) |
@@ -111,4 +112,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-20 9:36 AM PT. 59 active postings.
+Last updated: 2026-10-20 10:06 AM PT. 60 active postings.

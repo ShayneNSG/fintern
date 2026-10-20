@@ -3618,6 +3618,17 @@
     "posted_at": "2026-09-10",
     "active": false
   },
+  "workday:pwc:769040WD": {
+    "id": "workday:pwc:769040WD",
+    "company": "PwC",
+    "title": "Consultant Confirmé Conformité & Contrôle Interne - Entreprises d'Investissement F/H",
+    "location": "Neuilly-sur-Seine",
+    "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Consultant-Confirm-Conformit---Contrle-Interne---Entreprises-d-Investissement-F-H_769040WD",
+    "source": "workday",
+    "first_seen": "2026-10-20",
+    "posted_at": "2026-10-20",
+    "active": true
+  },
   "workday:raymond-james:Chicago, Illinois - United States": {
     "id": "workday:raymond-james:Chicago, Illinois - United States",
     "company": "Raymond James",
