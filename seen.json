@@ -3684,6 +3684,17 @@
     "posted_at": "2026-10-06",
     "active": false
   },
+  "workday:raymond-james:San Francisco, California - United States": {
+    "id": "workday:raymond-james:San Francisco, California - United States",
+    "company": "Raymond James",
+    "title": "2027 Investment Banking Summer Analyst Financial Services San Francisco, CA",
+    "location": "",
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/San-Francisco-California---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-San-Francisco--CA_R-0013502",
+    "source": "workday",
+    "first_seen": "2026-10-20",
+    "posted_at": "2026-10-20",
+    "active": true
+  },
   "workday:rbc:R-0000158719": {
     "id": "workday:rbc:R-0000158719",
     "company": "RBC",
