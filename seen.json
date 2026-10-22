@@ -4300,6 +4300,28 @@
     "posted_at": null,
     "active": false
   },
+  "workday:santander:Req1628578": {
+    "id": "workday:santander:Req1628578",
+    "company": "Santander",
+    "title": "2027 Commercial Summer Analyst Program - New York",
+    "location": "Madison Ave Corp",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Commercial-Summer-Analyst-Program---New-York_Req1628578",
+    "source": "workday",
+    "first_seen": "2026-10-22",
+    "posted_at": "2026-10-22",
+    "active": true
+  },
+  "workday:santander:Req1628583": {
+    "id": "workday:santander:Req1628583",
+    "company": "Santander",
+    "title": "2027 Commercial Summer Analyst Program - Boston",
+    "location": "Boston",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/XMLNAME-2027-Commercial-Summer-Analyst-Program---Boston_Req1628583",
+    "source": "workday",
+    "first_seen": "2026-10-22",
+    "posted_at": "2026-10-22",
+    "active": true
+  },
   "workday:stout:r2224": {
     "id": "workday:stout:r2224",
     "company": "Stout",

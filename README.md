@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Santander | 2027 Commercial Summer Analyst Program - New York | Madison Ave Corp | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Commercial-Summer-Analyst-Program---New-York_Req1628578) |
+| Santander | 2027 Commercial Summer Analyst Program - Boston | Boston | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/XMLNAME-2027-Commercial-Summer-Analyst-Program---Boston_Req1628583) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Dallas | Dallas, TX, USA | 2026-10-21 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Dallas_R3667) |
 | Raymond James | 2027 Investment Banking Summer Analyst Financial Services San Francisco, CA | Not listed | 2026-10-20 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/San-Francisco-California---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-San-Francisco--CA_R-0013502) |
 | PwC | Consultant Confirmé Conformité & Contrôle Interne - Entreprises d'Investissement F/H | Neuilly-sur-Seine | 2026-10-20 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Consultant-Confirm-Conformit---Contrle-Interne---Entreprises-d-Investissement-F-H_769040WD) |
@@ -114,4 +116,4 @@ Want a company added? Open a PR against `companies.json`.
 | Coinbase | Strategic Finance Intern | Hybrid - New York, NY | 2026-09-08 3:52 PM PT | [Apply](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-22 7:36 AM PT. 62 active postings.
+Last updated: 2026-10-22 7:43 AM PT. 64 active postings.
