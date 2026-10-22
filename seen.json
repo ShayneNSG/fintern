@@ -19,7 +19,7 @@
     "source": "greenhouse",
     "first_seen": "2026-09-09",
     "posted_at": "2026-09-08T18:52:39-04:00",
-    "active": true
+    "active": false
   },
   "greenhouse:coinbase:8175569": {
     "id": "greenhouse:coinbase:8175569",
