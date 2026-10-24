@@ -57,9 +57,9 @@ Want a company added? Open a PR against `companies.json`.
 | Santander | 2027 Finance and Accounting Summer Analyst Program - New York | Madison Ave Corp | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Finance-and-Accounting-Summer-Analyst-Program---New-York_Req1628621) |
 | Santander | 2027 Finance and Accounting Summer Analyst Program - Miami | Miami | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Finance-and-Accounting-Summer-Analyst-Program---Miami_Req1628626) |
 | Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Dallas | Dallas, TX, USA | 2026-10-21 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Dallas_R3667) |
-| Disney | Finance Intern, Spring 2027 | Anaheim, CA, USA | 2026-10-21 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance-Intern--Spring-2027_10162487) |
 | Raymond James | 2027 Investment Banking Summer Analyst Financial Services San Francisco, CA | Not listed | 2026-10-20 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/San-Francisco-California---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Financial-Services-San-Francisco--CA_R-0013502) |
 | PwC | Consultant Confirmé Conformité & Contrôle Interne - Entreprises d'Investissement F/H | Neuilly-sur-Seine | 2026-10-20 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Consultant-Confirm-Conformit---Contrle-Interne---Entreprises-d-Investissement-F-H_769040WD) |
+| Disney | Finance Intern, Spring 2027 | Anaheim, CA, USA | 2026-10-20 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance-Intern--Spring-2027_10162487) |
 | Baird | Internship – Private Wealth Management (Durango, CO Summer 2027) | CO-Durango | 2026-10-19 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Durango/Internship---Private-Wealth-Management--Durango--CO-Summer-2027-_R20261183-1) |
 | RBC | Summer 2027 Global Asset Management Distribution Internship - Boston, MA | Boston, Massachusetts, United States of America | 2026-10-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boston-Massachusetts-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Distribution_R-0000189977) |
 | Gusto | Finance Intern (Summer 2027) | New York, NY - Hybrid | 2026-10-13 10:09 AM PT | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8257115) |
@@ -113,4 +113,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-24 1:05 AM PT. 61 active postings.
+Last updated: 2026-10-24 1:35 AM PT. 61 active postings.
