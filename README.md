@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Baird | Internship – Private Wealth Management (Sioux City, IA Summer 2027) | IA-Sioux City | 2026-10-26 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1) |
 | Santander | 2027 Commercial Summer Analyst Program - New York | Madison Ave Corp | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Commercial-Summer-Analyst-Program---New-York_Req1628578) |
 | Santander | 2027 Commercial Summer Analyst Program - Boston | Boston | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/XMLNAME-2027-Commercial-Summer-Analyst-Program---Boston_Req1628583) |
 | Santander | 2027 Finance and Accounting Summer Analyst Program - Boston | Boston | 2026-10-22 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/XMLNAME-2027-Finance-and-Accounting-Summer-Analyst-Program---Boston_Req1628609) |
@@ -115,4 +116,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-26 1:36 PM PT. 63 active postings.
+Last updated: 2026-10-26 2:06 PM PT. 64 active postings.
