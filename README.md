@@ -81,7 +81,6 @@ Want a company added? Open a PR against `companies.json`.
 | Accenture | Strategy Summer Consultant - MBA Internship - NAELFY27 | Not listed | 2026-10-05 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |
 | Baird | Internship – Private Wealth Management (Evansville, IN Summer 2027) | IN-Evansville | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1) |
 | Baird | Internship – Private Wealth Management (Bowling Green, KY Summer 2027) | KY-Bowling Green | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1) |
-| Baird | Internship – Private Wealth Management (Cedar Rapids, IA Summer 2027) | IA-Cedar Rapids | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Cedar-Rapids/Internship---Private-Wealth-Management--Cedar-Rapids--IA-Summer-2027-_R20261105-1) |
 | Baird | Internship – Private Wealth Management (Phoenix, AZ Summer 2027) | AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler; United States of America | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2) |
 | Baird | Internship – Private Wealth Management (Tucson, AZ Summer 2027) | AZ-Tucson | 2026-10-01 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1) |
 | PJT Partners | 2027 Summer Analyst - Corporate Rotational Program | New York | 2026-09-30 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/New-York/XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549) |
@@ -117,4 +116,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-26 3:06 PM PT. 65 active postings.
+Last updated: 2026-10-26 3:36 PM PT. 64 active postings.

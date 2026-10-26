@@ -701,7 +701,7 @@
     "source": "workday",
     "first_seen": "2026-10-01",
     "posted_at": "2026-10-01",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261107": {
     "id": "workday:baird:R20261107",
