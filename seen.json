@@ -41,7 +41,7 @@
     "source": "greenhouse",
     "first_seen": "2026-10-13",
     "posted_at": "2026-10-13T13:09:25-04:00",
-    "active": true
+    "active": false
   },
   "greenhouse:robinhood:8198142": {
     "id": "greenhouse:robinhood:8198142",
