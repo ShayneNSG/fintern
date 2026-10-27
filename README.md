@@ -92,7 +92,6 @@ Want a company added? Open a PR against `companies.json`.
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Leawood, KS | 2026-09-15 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Leawood-KS/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100708) |
 | Baird | Internship - Private Wealth Management (Milwaukee, WI Summer 2027) | WI-Milwaukee | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Private-Wealth-Management--Milwaukee--WI-Summer-2027-_R20261018-1) |
 | Baird | Internship – Private Wealth Management (Pittsburgh-South Hills, PA Summer 2027) | PA-Canonsburg | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1) |
-| Baird | Internship – Private Wealth Management (Bloomington, IN Summer 2027) | IN-Bloomington | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Bloomington/Internship---Private-Wealth-Management--Bloomington--IN-Summer-2027-_R20261025-1) |
 | Robinhood | Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Activism) | San Francisco; New York; United States of America | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Activism-_R0003529) |
 | PJT Partners | 2027 Summer Analyst - PJT Camberview (Governance) | San Francisco | 2026-09-14 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528) |
@@ -109,4 +108,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-27 12:06 PM PT. 57 active postings.
+Last updated: 2026-10-27 12:36 PM PT. 56 active postings.
