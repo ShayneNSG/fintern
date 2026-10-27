@@ -1295,7 +1295,7 @@
     "source": "workday",
     "first_seen": "2026-10-08",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:blackstone:45868": {
     "id": "workday:blackstone:45868",
