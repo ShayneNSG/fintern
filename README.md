@@ -109,4 +109,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-27 1:06 AM PT. 57 active postings.
+Last updated: 2026-10-27 1:36 AM PT. 57 active postings.
