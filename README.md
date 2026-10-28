@@ -52,6 +52,7 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | Wells Fargo | 2028 Investment Banking Summer Internship – Early Careers (Houston) | HOUSTON, TX | 2026-10-28 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/HOUSTON-TX/XMLNAME-2028-Investment-Banking-Summer-Internship---Early-Careers--Houston-_R-584479) |
+| Santander | 2027 Auto Corporate Strategy & Development Summer Analyst Program - Dallas | Dallas | 2026-10-28 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/XMLNAME-2027-Auto-Corporate-Strategy---Development-Summer-Analyst-Program---Dallas_Req1629541) |
 | RBC | Finance Intern, US Regulatory Reporting and Financial Control | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA | 2026-10-28 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Finance-Intern--US-Regulatory-Reporting-and-Financial-Control_R-0000190141-1) |
 | PwC | Stage Consultant Conformité & Contrôle Interne Asset Management F/H | Neuilly-sur-Seine | 2026-10-28 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Consultant-Stagiaire-Conformit---Contrle-Interne---Asset-Management-F-H_714523WD) |
 | Baird | Internship – Private Wealth Management (Wausau, WI Summer 2027) | WI-Wausau | 2026-10-27 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Wausau/Internship---Private-Wealth-Management--Wausau--WI-Summer-2027-_R20261221-2) |
@@ -116,4 +117,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-28 2:06 PM PT. 64 active postings.
+Last updated: 2026-10-28 2:36 PM PT. 65 active postings.
