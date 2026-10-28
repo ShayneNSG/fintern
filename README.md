@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| RBC | Finance Intern, US Regulatory Reporting and Financial Control | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA | 2026-10-28 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Finance-Intern--US-Regulatory-Reporting-and-Financial-Control_R-0000190141-1) |
 | Baird | Internship – Private Wealth Management (Wausau, WI Summer 2027) | WI-Wausau | 2026-10-27 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Wausau/Internship---Private-Wealth-Management--Wausau--WI-Summer-2027-_R20261221-2) |
 | Baird | Internship – Private Wealth Management (Sioux City, IA Summer 2027) | IA-Sioux City | 2026-10-26 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1) |
 | Baird | Internship – Private Wealth Management (Salt Lake City, UT Summer 2027) | UT-Salt Lake City | 2026-10-26 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/UT-Salt-Lake-City/Internship---Private-Wealth-Management--Salt-Lake-City--UT-Summer-2027-_R20261220) |
@@ -108,4 +109,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-28 12:36 AM PT. 56 active postings.
+Last updated: 2026-10-28 1:06 AM PT. 57 active postings.
