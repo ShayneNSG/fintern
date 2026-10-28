@@ -5333,5 +5333,16 @@
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-10",
     "active": false
+  },
+  "workday:wells-fargo:R-584479": {
+    "id": "workday:wells-fargo:R-584479",
+    "company": "Wells Fargo",
+    "title": "2028 Investment Banking Summer Internship – Early Careers (Houston)",
+    "location": "HOUSTON, TX",
+    "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/HOUSTON-TX/XMLNAME-2028-Investment-Banking-Summer-Internship---Early-Careers--Houston-_R-584479",
+    "source": "workday",
+    "first_seen": "2026-10-28",
+    "posted_at": "2026-10-28",
+    "active": true
   }
 }
