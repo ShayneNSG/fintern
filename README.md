@@ -65,7 +65,6 @@ Want a company added? Open a PR against `companies.json`.
 | RBC | Summer 2027 Global Asset Management Distribution Internship - Boston, MA | Boston, Massachusetts, United States of America | 2026-10-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Boston-Massachusetts-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Distribution_R-0000189977) |
 | Baird | Internship - Private Wealth Management (Waukesha, WI Summer 2027) | WI-Waukesha | 2026-10-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Waukesha/Internship---Private-Wealth-Management--Waukesha--WI-Summer-2027-_R20261159-1) |
 | Baird | Internship – Private Wealth Management (Mequon, WI Summer 2027) | WI-Mequon | 2026-10-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Mequon/Internship---Private-Wealth-Management--Mequon--WI-Summer-2027-_R20261160-1) |
-| Raymond James | 2027 Investment Banking Summer Analyst Consumer Charlotte, NC | Not listed | 2026-10-12 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/NC---Charlotte---650-S-Tryon-St-Ste-1525/XMLNAME-2027-Investment-Banking-Summer-Analyst-Consumer-Charlotte--NC_R-0012361) |
 | SoFi | Staff Credit Policy Analyst – Condo, Co-op & Project Review | United States | 2026-04-13 1:32 PM PT | [Apply](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) |
 | Baird | Internship – Private Wealth Management (Greensburg, PA Summer 2027) | PA-Greensburg | 2026-10-08 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Greensburg/Internship---Private-Wealth-Management--Greensburg--PA-Summer-2027-_R20261131-2) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Des Moines, IA | 2026-10-07 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Des-Moines-IA/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100734) |
@@ -112,4 +111,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-10-29 10:07 AM PT. 60 active postings.
+Last updated: 2026-10-29 10:36 AM PT. 59 active postings.

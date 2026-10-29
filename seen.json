@@ -3726,7 +3726,7 @@
     "source": "workday",
     "first_seen": "2026-10-12",
     "posted_at": "2026-10-12",
-    "active": true
+    "active": false
   },
   "workday:raymond-james:New York, New York - United States": {
     "id": "workday:raymond-james:New York, New York - United States",
