@@ -52,9 +52,9 @@ Want a company added? Open a PR against `companies.json`.
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
 | RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | Houston, Texas, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Houston-Texas-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191659) |
+| RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | San Francisco, California, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/San-Francisco-California-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191660) |
 | RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | New York, New York, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191661) |
 | RBC | 2028 Capital Markets, Real Estate Capital Partners Summer Analyst | Dallas, Texas, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Dallas-Texas-United-States-of-America/XMLNAME-2028-Capital-Markets--Real-Estate-Capital-Partners-Summer-Analyst_R-0000191700) |
-| RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | San Francisco, California, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/San-Francisco-California-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191660) |
 | Wells Fargo | 2028 Investment Banking Summer Internship – Early Careers (Houston) | HOUSTON, TX | 2026-10-29 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/HOUSTON-TX/XMLNAME-2028-Investment-Banking-Summer-Internship---Early-Careers--Houston-_R-584479) |
 | Santander | 2027 Auto Corporate Strategy & Development Summer Analyst Program - Dallas | Dallas | 2026-10-28 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/XMLNAME-2027-Auto-Corporate-Strategy---Development-Summer-Analyst-Program---Dallas_Req1629541) |
 | RBC | Finance Intern, US Regulatory Reporting and Financial Control | PERSIARAN IRC 2, IOI RESORT CITY IOI CITY TOWER ONE:PUTRAJAYA | 2026-10-28 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/PERSIARAN-IRC-2-IOI-RESORT-CITY-IOI-CITY-TOWER-ONEPUTRAJAYA/Finance-Intern--US-Regulatory-Reporting-and-Financial-Control_R-0000190141-1) |
@@ -111,4 +111,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-01 12:06 AM PT. 59 active postings.
+Last updated: 2026-11-01 12:36 AM PT. 59 active postings.
