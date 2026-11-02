@@ -1869,6 +1869,50 @@
     "posted_at": "2026-09-25",
     "active": false
   },
+  "workday:bmo:R260030094": {
+    "id": "workday:bmo:R260030094",
+    "company": "BMO",
+    "title": "Illinois Summer 2028 Internship - Investment Banking",
+    "location": "Chicago, IL, USA",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Illinois-Summer-2028-Internship---Investment-Banking_R260030094",
+    "source": "workday",
+    "first_seen": "2026-11-02",
+    "posted_at": "2026-11-02",
+    "active": true
+  },
+  "workday:bmo:R260030101": {
+    "id": "workday:bmo:R260030101",
+    "company": "BMO",
+    "title": "Indiana (Chicago) Summer 2028 Internship - Investment Banking",
+    "location": "Chicago, IL, USA",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Indiana--Chicago--Summer-2028-Internship---Investment-Banking_R260030101",
+    "source": "workday",
+    "first_seen": "2026-11-02",
+    "posted_at": "2026-11-02",
+    "active": true
+  },
+  "workday:bmo:R260030128": {
+    "id": "workday:bmo:R260030128",
+    "company": "BMO",
+    "title": "Indiana (New York) Summer 2028 Internship - Investment Banking",
+    "location": "New York, NY, USA",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/New-York-NY-USA/Indiana--New-York--Summer-2028-Internship---Investment-Banking_R260030128",
+    "source": "workday",
+    "first_seen": "2026-11-02",
+    "posted_at": "2026-11-02",
+    "active": true
+  },
+  "workday:bmo:R260030595": {
+    "id": "workday:bmo:R260030595",
+    "company": "BMO",
+    "title": "Iowa Summer 2028 Internship - Investment Banking",
+    "location": "Chicago, IL, USA; New York, NY, USA; United States of America",
+    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Iowa-Summer-2028-Internship---Investment-Banking_R260030595",
+    "source": "workday",
+    "first_seen": "2026-11-02",
+    "posted_at": "2026-11-02",
+    "active": true
+  },
   "workday:capital-one:R243855": {
     "id": "workday:capital-one:R243855",
     "company": "Capital One",
