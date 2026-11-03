@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Baird | Internship – Private Wealth Management (Fairfax, VA Summer 2027) | VA-Fairfax | 2026-11-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Fairfax/Internship---Private-Wealth-Management--Fairfax--VA-Summer-2027-_R20261248-1) |
+| Baird | Internship – Private Wealth Management (Alexandria, VA Summer 2027) | VA-Alexandria | 2026-11-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Alexandria/Internship---Private-Wealth-Management--Alexandria--VA-Summer-2027-_R20261249) |
 | BMO | Penn State Summer 2028 Internship - Investment Banking | New York, NY, USA | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/New-York-NY-USA/Penn-State-Summer-2028-Internship---Investment-Banking_R260030296) |
 | BMO | Williams College Summer 2028 Internship - Investment Banking | New York, NY, USA | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/New-York-NY-USA/Williams-College-Summer-2028-Internship---Investment-Banking_R260030298) |
 | RBC | 2028 Capital Markets, Global Markets Origination Summer Analyst | New York, New York, United States of America | 2026-11-02 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Markets-Origination-Summer-Analyst_R-0000191762-1) |
@@ -126,4 +128,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-03 6:07 AM PT. 74 active postings.
+Last updated: 2026-11-03 6:36 AM PT. 76 active postings.
