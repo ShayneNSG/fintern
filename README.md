@@ -99,7 +99,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Phoenix, AZ Summer 2027) | AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler; United States of America | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2) |
 | Baird | Internship – Private Wealth Management (Tucson, AZ Summer 2027) | AZ-Tucson | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1) |
 | PJT Partners | 2027 Summer Analyst - Corporate Rotational Program | New York | 2026-09-30 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/New-York/XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549) |
-| Piper Sandler | 2027 Summer Internship Program - Equity Sales & Trading | Greenwich, CT | 2026-11-04 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Greenwich-CT/XMLNAME-2027-Summer-Internship-Program---Equity-Sales---Trading_R-100702) |
 | Baird | Internship – Private Wealth Management (Paducah, KY Summer 2027) | KY-Paducah | 2026-09-29 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Paducah/Internship---Private-Wealth-Management--Paducah--KY-Summer-2027-_R20261083-1) |
 | RBC | 2027 Global Markets Summer Analyst, Origination - Delaware | Wilmington, Delaware, United States of America | 2026-10-08 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Origination---Delaware_R-0000188791) |
 | RBC | 2027 Global Markets Summer Analyst, Securitization Financing Portfolio Managment- Delaware | Wilmington, Delaware, United States of America | 2026-10-08 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Securitization-Financing-Portfolio-Managment--Delaware_R-0000188801) |
@@ -128,4 +127,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-03 8:36 PM PT. 76 active postings.
+Last updated: 2026-11-03 9:07 PM PT. 75 active postings.
