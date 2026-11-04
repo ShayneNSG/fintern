@@ -846,6 +846,17 @@
     "posted_at": "2026-11-03",
     "active": true
   },
+  "workday:baird:R20261257": {
+    "id": "workday:baird:R20261257",
+    "company": "Baird",
+    "title": "Internship - Investment Banking Analyst, Energy (Summer 2028)",
+    "location": "TX-Houston",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1",
+    "source": "workday",
+    "first_seen": "2026-11-04",
+    "posted_at": "2026-11-04",
+    "active": true
+  },
   "workday:baird:R2026883": {
     "id": "workday:baird:R2026883",
     "company": "Baird",
@@ -4507,7 +4518,7 @@
     "source": "workday",
     "first_seen": "2026-11-01",
     "posted_at": "2026-11-01",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000191661": {
     "id": "workday:rbc:R-0000191661",

@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Baird | Internship - Investment Banking Analyst, Energy (Summer 2028) | TX-Houston | 2026-11-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1) |
 | BMO | San Francisco - Summer 2028 Internship - Investment Banking - Financial Sponsors Group | San Francisco, CA, USA | 2026-11-04 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/San-Francisco-CA-USA/San-Francisco---Summer-2028-Internship---Investment-Banking---Financial-Sponsors-Group_R260030846) |
 | Baird | Internship – Private Wealth Management (Fairfax, VA Summer 2027) | VA-Fairfax | 2026-11-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Fairfax/Internship---Private-Wealth-Management--Fairfax--VA-Summer-2027-_R20261248-1) |
 | Baird | Internship – Private Wealth Management (Alexandria, VA Summer 2027) | VA-Alexandria | 2026-11-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Alexandria/Internship---Private-Wealth-Management--Alexandria--VA-Summer-2027-_R20261249) |
@@ -70,7 +71,6 @@ Want a company added? Open a PR against `companies.json`.
 | BMO | Wisconsin Summer 2028 Internship - Investment Banking | Chicago, IL, USA; New York, NY, USA; United States of America | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Wisconsin-Summer-2028-Internship---Investment-Banking_R260030607) |
 | BMO | UT @ Austin Summer 2028 Internship - Investment Banking | Chicago, IL, USA; New York, NY, USA; United States of America | 2026-11-02 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/UT---Austin-Summer-2028-Internship---Investment-Banking_R260030620) |
 | RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | Houston, Texas, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Houston-Texas-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191659) |
-| RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | San Francisco, California, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/San-Francisco-California-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191660) |
 | RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst | New York, New York, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst_R-0000191661) |
 | RBC | 2028 Capital Markets, Real Estate Capital Partners Summer Analyst | Dallas, Texas, United States of America | 2026-11-01 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Dallas-Texas-United-States-of-America/XMLNAME-2028-Capital-Markets--Real-Estate-Capital-Partners-Summer-Analyst_R-0000191700) |
 | Wells Fargo | 2028 Investment Banking Summer Internship – Early Careers (Houston) | HOUSTON, TX | 2026-10-29 | [Apply](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/HOUSTON-TX/XMLNAME-2028-Investment-Banking-Summer-Internship---Early-Careers--Houston-_R-584479) |
@@ -128,4 +128,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-04 8:36 AM PT. 76 active postings.
+Last updated: 2026-11-04 9:06 AM PT. 76 active postings.
