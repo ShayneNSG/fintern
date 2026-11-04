@@ -4529,7 +4529,7 @@
     "source": "workday",
     "first_seen": "2026-11-02",
     "posted_at": "2026-11-02",
-    "active": true
+    "active": false
   },
   "workday:rothschild:JR016376": {
     "id": "workday:rothschild:JR016376",
