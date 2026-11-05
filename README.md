@@ -96,8 +96,8 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Butler, PA Summer 2027) | PA-Butler | 2026-10-07 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Butler/Internship---Private-Wealth-Management--Butler--PA-Summer-2027-_R20261132-1) |
 | Oliver Wyman (Marsh McLennan) | Health Consulting Summer Intern - West Market - College Program 2027 | San Francisco - Embarcadero; Portland - SW Columbia; Los Angeles - West 5th; Salt Lake City - West South; Phoenix - E. Camelback; Seattle - Fifth Avenue; Irvine - Von Karman; United States of America | 2026-10-06 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/San-Francisco---Embarcadero/Health-Consulting-Summer-Intern---West-Market---College-Program-2027_R_362081) |
 | Baird | Internship – Private Wealth Management (Columbus, IN Summer 2027) | IN-Columbus | 2026-10-06 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Columbus/Internship---Private-Wealth-Management--Columbus--IN-Summer-2027-_R20261116) |
-| xAI | Spring 2027 Business Operations Internship/Co-op | Palo Alto, CA; New York, NY | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
-| xAI | Summer 2027 Business Operations Internship/Co-op | Palo Alto, CA; New York, NY | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
+| xAI | Spring 2027 Business Operations Internship/Co-op | New York, NY; Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
+| xAI | Summer 2027 Business Operations Internship/Co-op | New York, NY; Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
 | Accenture | Strategy Summer Consultant - MBA Internship - NAELFY27 | Not listed | 2026-10-06 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |
 | Baird | Internship – Private Wealth Management (Evansville, IN Summer 2027) | IN-Evansville | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1) |
 | Baird | Internship – Private Wealth Management (Bowling Green, KY Summer 2027) | KY-Bowling Green | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1) |
@@ -131,4 +131,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-05 10:36 AM PT. 79 active postings.
+Last updated: 2026-11-05 11:06 AM PT. 79 active postings.
