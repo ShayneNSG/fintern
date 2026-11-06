@@ -2648,7 +2648,7 @@
     "source": "workday",
     "first_seen": "2026-10-06",
     "posted_at": "2026-11-06",
-    "active": true
+    "active": false
   },
   "workday:oliver-wyman:R_362189": {
     "id": "workday:oliver-wyman:R_362189",
