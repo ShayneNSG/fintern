@@ -4727,7 +4727,7 @@
     "source": "workday",
     "first_seen": "2026-10-16",
     "posted_at": "2026-11-05",
-    "active": true
+    "active": false
   },
   "workday:stout:r322": {
     "id": "workday:stout:r322",
