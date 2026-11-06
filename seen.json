@@ -712,7 +712,7 @@
     "source": "workday",
     "first_seen": "2026-10-01",
     "posted_at": "2026-10-02",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261108": {
     "id": "workday:baird:R20261108",
@@ -723,7 +723,7 @@
     "source": "workday",
     "first_seen": "2026-10-01",
     "posted_at": "2026-10-02",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261116": {
     "id": "workday:baird:R20261116",
@@ -3076,6 +3076,17 @@
     "url": "https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528",
     "source": "workday",
     "first_seen": "2026-09-14",
+    "posted_at": null,
+    "active": true
+  },
+  "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170": {
+    "id": "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170",
+    "company": "PJT Partners",
+    "title": "2027 Summer Analyst - Strategic Advisory (San Francisco)",
+    "location": "San Francisco",
+    "url": "https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170",
+    "source": "workday",
+    "first_seen": "2026-11-06",
     "posted_at": null,
     "active": true
   },

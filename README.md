@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| PJT Partners | 2027 Summer Analyst - Strategic Advisory (San Francisco) | San Francisco | 2026-11-06 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170) |
 | RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst - San Francisco M&A | San Francisco, California, United States of America | 2026-11-04 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/San-Francisco-California-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst---San-Francisco-M-A_R-0000192008) |
 | Baird | Internship - Investment Banking Analyst, Energy (Summer 2028) | TX-Houston | 2026-11-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1) |
 | BMO | San Francisco - Summer 2028 Internship - Investment Banking - Financial Sponsors Group | San Francisco, CA, USA | 2026-11-04 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/San-Francisco-CA-USA/San-Francisco---Summer-2028-Internship---Investment-Banking---Financial-Sponsors-Group_R260030846) |
@@ -98,8 +99,6 @@ Want a company added? Open a PR against `companies.json`.
 | Accenture | Strategy Summer Consultant - MBA Internship - NAELFY27 | Not listed | 2026-10-06 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |
 | Baird | Internship – Private Wealth Management (Evansville, IN Summer 2027) | IN-Evansville | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Evansville/Internship---Private-Wealth-Management--Evansville--IN-Summer-2027-_R20261102-1) |
 | Baird | Internship – Private Wealth Management (Bowling Green, KY Summer 2027) | KY-Bowling Green | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Bowling-Green/Internship---Private-Wealth-Management--Bowling-Green--KY-Summer-2027-_R20261103-1) |
-| Baird | Internship – Private Wealth Management (Phoenix, AZ Summer 2027) | AZ-Phoenix; AZ-Peoria; AZ-Scottsdale; AZ-Chandler; United States of America | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Phoenix/Internship---Private-Wealth-Management--Phoenix--AZ-Summer-2027-_R20261107-2) |
-| Baird | Internship – Private Wealth Management (Tucson, AZ Summer 2027) | AZ-Tucson | 2026-10-02 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/AZ-Tucson/Internship---Private-Wealth-Management--Tucson--AZ-Summer-2027-_R20261108-1) |
 | PJT Partners | 2027 Summer Analyst - Corporate Rotational Program | New York | 2026-09-30 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/New-York/XMLNAME-2027-Summer-Analyst---Corporate-Rotational-Program_R0003549) |
 | Baird | Internship – Private Wealth Management (Paducah, KY Summer 2027) | KY-Paducah | 2026-09-29 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/KY-Paducah/Internship---Private-Wealth-Management--Paducah--KY-Summer-2027-_R20261083-1) |
 | RBC | 2027 Global Markets Summer Analyst, Origination - Delaware | Wilmington, Delaware, United States of America | 2026-10-07 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Wilmington-Delaware-United-States-of-America/XMLNAME-2027-Global-Markets-Summer-Analyst--Origination---Delaware_R-0000188791) |
@@ -128,4 +127,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-06 12:06 PM PT. 76 active postings.
+Last updated: 2026-11-06 12:36 PM PT. 75 active postings.
