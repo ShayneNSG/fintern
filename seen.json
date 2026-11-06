@@ -4507,7 +4507,7 @@
     "source": "workday",
     "first_seen": "2026-10-14",
     "posted_at": "2026-10-20",
-    "active": true
+    "active": false
   },
   "workday:rbc:R-0000190141": {
     "id": "workday:rbc:R-0000190141",
