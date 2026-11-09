@@ -2450,7 +2450,7 @@
     "source": "workday",
     "first_seen": "2026-10-21",
     "posted_at": "2026-10-21",
-    "active": true
+    "active": false
   },
   "workday:mizuho:R7278": {
     "id": "workday:mizuho:R7278",

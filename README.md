@@ -90,7 +90,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship – Private Wealth Management (Wausau, WI Summer 2027) | WI-Wausau | 2026-10-27 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Wausau/Internship---Private-Wealth-Management--Wausau--WI-Summer-2027-_R20261221-2) |
 | Baird | Internship – Private Wealth Management (Sioux City, IA Summer 2027) | IA-Sioux City | 2026-10-26 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1) |
 | Baird | Internship – Private Wealth Management (Salt Lake City, UT Summer 2027) | UT-Salt Lake City | 2026-10-26 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/UT-Salt-Lake-City/Internship---Private-Wealth-Management--Salt-Lake-City--UT-Summer-2027-_R20261220) |
-| Houlihan Lokey | Summer 2027 Financial Analyst (Class of 2028), Corporate Valuation Advisory Services - Dallas | Dallas, TX, USA | 2026-10-21 | [Apply](https://hl.wd1.myworkdayjobs.com/Campus/job/Dallas-TX-USA/Summer-2027-Financial-Analyst--Class-of-2028---Corporate-Valuation-Advisory-Services---Dallas_R3667) |
 | PwC | Consultant Confirmé Conformité & Contrôle Interne - Entreprises d'Investissement F/H | Neuilly-sur-Seine | 2026-10-20 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Neuilly-sur-Seine/Consultant-Confirm-Conformit---Contrle-Interne---Entreprises-d-Investissement-F-H_769040WD) |
 | Baird | Internship – Private Wealth Management (Durango, CO Summer 2027) | CO-Durango | 2026-10-19 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/CO-Durango/Internship---Private-Wealth-Management--Durango--CO-Summer-2027-_R20261183-1) |
 | Baird | Internship - Private Wealth Management (Waukesha, WI Summer 2027) | WI-Waukesha | 2026-10-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Waukesha/Internship---Private-Wealth-Management--Waukesha--WI-Summer-2027-_R20261159-1) |
@@ -133,4 +132,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-09 11:36 AM PT. 81 active postings.
+Last updated: 2026-11-09 12:06 PM PT. 80 active postings.
