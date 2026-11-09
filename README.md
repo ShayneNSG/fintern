@@ -51,6 +51,11 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Santander | 2027 Credit Portfolio & Administrative Agency Summer Intern | Miami | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Credit-Portfolio---Administrative-Agency-Summer-Intern_Req1633009) |
+| Santander | 2027 Pre & Post Trade Finance Operations Summer Intern | Miami | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Pre---Post-Trade-Finance-Operations-Summer-Intern_Req1632817) |
+| Santander | 2027 Pre & Post Trade Markets Operations: FX & Derivatives Business Support Summer Intern | Madison Ave Corp | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Pre---Post-Trade-Markets-Operations--FX---Derivatives-Business-Support-Summer-Intern_Req1633001) |
+| Santander | 2027 Pre & Post Trade Markets Operations: Fixed Income Middle Office Summer Intern | Madison Ave Corp | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Pre---Post-Trade-Markets-Operations--Fixed-Income-Middle-Office-Summer-Intern_Req1633041) |
+| Santander | 2027 Pre & Post Trade Markets Operations: Business Process Control & Oversight Summer Intern | Miami | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Pre---Post-Trade-Markets-Operations--Business-Process-Control---Oversight-Summer-Intern_Req1632996) |
 | PJT Partners | 2027 Summer Analyst - Strategic Advisory (San Francisco) | San Francisco | 2026-11-06 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170) |
 | RBC | 2028 Capital Markets, Global Investment Banking Summer Analyst - San Francisco M&A | San Francisco, California, United States of America | 2026-11-04 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/San-Francisco-California-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Investment-Banking-Summer-Analyst---San-Francisco-M-A_R-0000192008) |
 | Baird | Internship - Investment Banking Analyst, Energy (Summer 2028) | TX-Houston | 2026-11-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1) |
@@ -126,4 +131,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-09 10:06 AM PT. 74 active postings.
+Last updated: 2026-11-09 10:36 AM PT. 79 active postings.
