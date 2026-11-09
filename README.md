@@ -89,7 +89,6 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Private Wealth Management (Waukesha, WI Summer 2027) | WI-Waukesha | 2026-10-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Waukesha/Internship---Private-Wealth-Management--Waukesha--WI-Summer-2027-_R20261159-1) |
 | Baird | Internship – Private Wealth Management (Mequon, WI Summer 2027) | WI-Mequon | 2026-10-14 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Mequon/Internship---Private-Wealth-Management--Mequon--WI-Summer-2027-_R20261160-1) |
 | SoFi | Staff Credit Policy Analyst – Condo, Co-op & Project Review | United States | 2026-04-13 1:32 PM PT | [Apply](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) |
-| Baird | Internship – Private Wealth Management (Greensburg, PA Summer 2027) | PA-Greensburg | 2026-10-09 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Greensburg/Internship---Private-Wealth-Management--Greensburg--PA-Summer-2027-_R20261131-2) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Des Moines, IA | 2026-10-08 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Des-Moines-IA/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100734) |
 | Baird | Internship – Private Wealth Management (Butler, PA Summer 2027) | PA-Butler | 2026-10-08 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Butler/Internship---Private-Wealth-Management--Butler--PA-Summer-2027-_R20261132-1) |
 | Baird | Internship – Private Wealth Management (Columbus, IN Summer 2027) | IN-Columbus | 2026-10-06 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Columbus/Internship---Private-Wealth-Management--Columbus--IN-Summer-2027-_R20261116) |
@@ -126,4 +125,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-08 6:35 PM PT. 74 active postings.
+Last updated: 2026-11-08 7:06 PM PT. 73 active postings.
