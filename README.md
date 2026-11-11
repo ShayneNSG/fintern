@@ -51,9 +51,9 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Accenture | Corporate Development - Finance Summer Analyst - NAELFY27 | Not listed | 2026-11-11 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Corporate-Development---Finance-Summer-Analyst---NAELFY27_R00369309) |
 | RBC | 2028 Capital Markets, Global Markets Sales & Trading Summer Analyst | New York, New York, United States of America | 2026-11-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Markets-Sales---Trading-Analyst_R-0000191757-1) |
 | BMO | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | 2026-11-10 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397-1) |
-| Accenture | Corporate Development - Finance Summer Analyst - NAELFY27 | Not listed | 2026-11-10 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Corporate-Development---Finance-Summer-Analyst---NAELFY27_R00369309) |
 | Santander | 2027 Pre & Post Trade Finance Operations Summer Intern | Miami | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Pre---Post-Trade-Finance-Operations-Summer-Intern_Req1632817) |
 | Santander | 2027 Pre & Post Trade Markets Operations: Business Process Control & Oversight Summer Intern | Miami | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/XMLNAME-2027-Pre---Post-Trade-Markets-Operations--Business-Process-Control---Oversight-Summer-Intern_Req1632996) |
 | Santander | 2027 Pre & Post Trade Markets Operations: FX & Derivatives Business Support Summer Intern | Madison Ave Corp | 2026-11-09 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Pre---Post-Trade-Markets-Operations--FX---Derivatives-Business-Support-Summer-Intern_Req1633001) |
@@ -135,4 +135,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-11 12:06 PM PT. 83 active postings.
+Last updated: 2026-11-11 1:06 PM PT. 83 active postings.
