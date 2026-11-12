@@ -868,6 +868,28 @@
     "posted_at": "2026-11-04",
     "active": true
   },
+  "workday:baird:R20261290": {
+    "id": "workday:baird:R20261290",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Janesville, WI Summer 2027)",
+    "location": "WI-Janesville",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Janesville/Internship---Private-Wealth-Management--Janesville--WI-Summer-2027-_R20261290-1",
+    "source": "workday",
+    "first_seen": "2026-11-12",
+    "posted_at": "2026-11-12",
+    "active": true
+  },
+  "workday:baird:R20261291": {
+    "id": "workday:baird:R20261291",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Rockford, IL Summer 2027)",
+    "location": "IL-Rockford",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Rockford/Internship---Private-Wealth-Management--Rockford--IL-Summer-2027-_R20261291-1",
+    "source": "workday",
+    "first_seen": "2026-11-12",
+    "posted_at": "2026-11-12",
+    "active": true
+  },
   "workday:baird:R2026883": {
     "id": "workday:baird:R2026883",
     "company": "Baird",
@@ -3088,7 +3110,7 @@
     "source": "workday",
     "first_seen": "2026-09-14",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528": {
     "id": "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---PJT-Camberview--Governance-_R0003528",
@@ -3099,7 +3121,7 @@
     "source": "workday",
     "first_seen": "2026-09-14",
     "posted_at": null,
-    "active": true
+    "active": false
   },
   "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170": {
     "id": "workday:pjt-partners:XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170",
