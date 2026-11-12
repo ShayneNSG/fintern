@@ -3231,7 +3231,7 @@
     "source": "workday",
     "first_seen": "2026-10-28",
     "posted_at": "2026-10-28",
-    "active": true
+    "active": false
   },
   "workday:pwc:719378WD": {
     "id": "workday:pwc:719378WD",
