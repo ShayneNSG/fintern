@@ -51,6 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Robinhood | Corporate Finance Intern (Summer 2027) | New York, NY | 2026-11-13 1:14 PM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) |
 | Baird | Internship – Private Wealth Management (Janesville, WI Summer 2027) | WI-Janesville | 2026-11-12 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Janesville/Internship---Private-Wealth-Management--Janesville--WI-Summer-2027-_R20261290-1) |
 | Baird | Internship – Private Wealth Management (Rockford, IL Summer 2027) | IL-Rockford | 2026-11-12 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Rockford/Internship---Private-Wealth-Management--Rockford--IL-Summer-2027-_R20261291-1) |
 | Santander | 2027 Global Transaction Banking Summer Analyst | Madison Ave Corp | 2026-11-13 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Global-Transaction-Banking-Summer-Analyst_Req1537396) |
@@ -130,4 +131,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-13 1:06 PM PT. 78 active postings.
+Last updated: 2026-11-13 1:35 PM PT. 79 active postings.

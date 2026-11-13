@@ -76,6 +76,17 @@
     "posted_at": "2026-09-14T08:00:08-04:00",
     "active": true
   },
+  "greenhouse:robinhood:8357464": {
+    "id": "greenhouse:robinhood:8357464",
+    "company": "Robinhood",
+    "title": "Corporate Finance Intern (Summer 2027)",
+    "location": "New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
+    "source": "greenhouse",
+    "first_seen": "2026-11-13",
+    "posted_at": "2026-11-13T16:14:12-05:00",
+    "active": true
+  },
   "greenhouse:sofi:7698678003": {
     "id": "greenhouse:sofi:7698678003",
     "company": "SoFi",
