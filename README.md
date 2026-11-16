@@ -62,7 +62,6 @@ Want a company added? Open a PR against `companies.json`.
 | BMO | San Francisco - Summer 2028 Internship - Investment Banking - Financial Sponsors Group | San Francisco, CA, USA | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/San-Francisco-CA-USA/San-Francisco---Summer-2028-Internship---Investment-Banking---Financial-Sponsors-Group_R260030846) |
 | BMO | U.S. Banking Ignite Internship Program - Summer 2027 | Chicago, IL, USA | 2026-11-05 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/US-Banking-Ignite-Internship-Program---Summer-2027_R260030865-2) |
 | Baird | Internship - Investment Banking Analyst, Energy (Summer 2028) | TX-Houston | 2026-11-04 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1) |
-| PJT Partners | 2028 Summer Analyst - Strategic Advisory (Houston) | Houston | 2026-11-04 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/Houston/XMLNAME-2028-Summer-Analyst---Strategic-Advisory--Houston-_R0003592) |
 | Baird | Internship – Private Wealth Management (Fairfax, VA Summer 2027) | VA-Fairfax | 2026-11-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Fairfax/Internship---Private-Wealth-Management--Fairfax--VA-Summer-2027-_R20261248-1) |
 | Baird | Internship – Private Wealth Management (Alexandria, VA Summer 2027) | VA-Alexandria | 2026-11-03 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/VA-Alexandria/Internship---Private-Wealth-Management--Alexandria--VA-Summer-2027-_R20261249) |
 | BMO | Penn State Summer 2028 Internship - Investment Banking | New York, NY, USA | 2026-11-03 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/New-York-NY-USA/Penn-State-Summer-2028-Internship---Investment-Banking_R260030296) |
@@ -95,7 +94,6 @@ Want a company added? Open a PR against `companies.json`.
 | SoFi | Staff Credit Policy Analyst – Condo, Co-op & Project Review | United States | 2026-04-13 1:32 PM PT | [Apply](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) |
 | Piper Sandler | 2027 Summer Internship Program – Public Finance | Des Moines, IA | 2026-10-08 | [Apply](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Des-Moines-IA/XMLNAME-2027-Summer-Internship-Program---Public-Finance_R-100734) |
 | Baird | Internship – Private Wealth Management (Butler, PA Summer 2027) | PA-Butler | 2026-10-08 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Butler/Internship---Private-Wealth-Management--Butler--PA-Summer-2027-_R20261132-1) |
-| Raymond James | 2027 Investment Banking Summer Analyst Leveraged Finance New York, NY | Not listed | 2026-10-27 | [Apply](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/New-York-New-York---United-States/XMLNAME-2027-Investment-Banking-Summer-Analyst-Leveraged-Finance-New-York--NY_R-0013576) |
 | Baird | Internship – Private Wealth Management (Columbus, IN Summer 2027) | IN-Columbus | 2026-10-06 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IN-Columbus/Internship---Private-Wealth-Management--Columbus--IN-Summer-2027-_R20261116) |
 | xAI | Spring 2027 Business Operations Internship/Co-op | Austin, TX; New York, NY; Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255113007) |
 | xAI | Summer 2027 Business Operations Internship/Co-op | Austin, TX; New York, NY; Palo Alto, CA | 2026-10-02 12:15 PM PT | [Apply](https://job-boards.greenhouse.io/xai/jobs/5255116007) |
@@ -123,4 +121,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-16 11:06 AM PT. 71 active postings.
+Last updated: 2026-11-16 11:37 AM PT. 69 active postings.
