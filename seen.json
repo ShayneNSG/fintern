@@ -855,7 +855,7 @@
     "source": "workday",
     "first_seen": "2026-11-03",
     "posted_at": "2026-11-03",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261249": {
     "id": "workday:baird:R20261249",
@@ -866,7 +866,7 @@
     "source": "workday",
     "first_seen": "2026-11-03",
     "posted_at": "2026-11-03",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261257": {
     "id": "workday:baird:R20261257",
@@ -1020,7 +1020,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-04",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026978": {
     "id": "workday:baird:R2026978",
