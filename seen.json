@@ -3099,7 +3099,7 @@
     "source": "workday",
     "first_seen": "2026-10-07",
     "posted_at": "2026-10-08",
-    "active": true
+    "active": false
   },
   "workday:piper-sandler:R-100740": {
     "id": "workday:piper-sandler:R-100740",
