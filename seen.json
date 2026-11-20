@@ -96,7 +96,7 @@
     "source": "greenhouse",
     "first_seen": "2026-10-09",
     "posted_at": "2026-04-13T16:32:35-04:00",
-    "active": true
+    "active": false
   },
   "greenhouse:xai:5255113007": {
     "id": "greenhouse:xai:5255113007",
