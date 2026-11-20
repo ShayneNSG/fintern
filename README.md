@@ -51,13 +51,17 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Bain Capital | 2028 Credit Summer Analyst | Boston | 2026-11-20 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Credit-Summer-Analyst_REQ_108450) |
+| Bain Capital | 2028 Special Situations Summer Analyst | Boston | 2026-11-20 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Special-Situations-Summer-Analyst_REQ_108440) |
+| Bain Capital | 2028 Summer Analyst, Path into Private Equity | Boston | 2026-11-20 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Summer-Analyst--Path-into-Private-Equity_REQ_108451-1) |
+| Bain Capital | 2028 Real Estate Summer Analyst | Boston | 2026-11-20 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Real-Estate-Summer-Analyst_REQ_108454) |
 | Oliver Wyman (Marsh McLennan) | Financial Analyst Intern | Conshohocken - Washington | 2026-11-17 | [Apply](https://mmc.wd1.myworkdayjobs.com/MMC/job/Conshohocken---Washington/Financial-Analyst-Intern--UW-_R_373025) |
 | Baird | Internship – Private Wealth Management (Blue Bell, PA Summer 2027) | PA-Blue Bell | 2026-11-17 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Blue-Bell/Internship---Private-Wealth-Management--Blue-Bell--PA-Summer-2027-_R20261305-1) |
 | Robinhood | Corporate Finance Intern (Summer 2027) | New York, NY | 2026-11-13 1:14 PM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) |
 | Baird | Internship – Private Wealth Management (Janesville, WI Summer 2027) | WI-Janesville | 2026-11-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Janesville/Internship---Private-Wealth-Management--Janesville--WI-Summer-2027-_R20261290-1) |
 | Baird | Internship – Private Wealth Management (Rockford, IL Summer 2027) | IL-Rockford | 2026-11-13 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Rockford/Internship---Private-Wealth-Management--Rockford--IL-Summer-2027-_R20261291-1) |
-| Accenture | Corporate Development - Finance Summer Analyst - NAELFY27 | Not listed | 2026-11-12 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Corporate-Development---Finance-Summer-Analyst---NAELFY27_R00369309) |
 | BMO | Treasury & Payment Solutions Strategy Intern, Summer 2027 (10 weeks) | Chicago, IL, USA | 2026-11-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Treasury---Payment-Solutions-Strategy-Intern--Summer-2027--10-weeks-_R260031397-1) |
+| Accenture | Corporate Development - Finance Summer Analyst - NAELFY27 | Not listed | 2026-11-11 | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Corporate-Development---Finance-Summer-Analyst---NAELFY27_R00369309) |
 | RBC | 2028 Capital Markets, Global Markets Sales & Trading Summer Analyst | New York, New York, United States of America | 2026-11-10 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/New-York-New-York-United-States-of-America/XMLNAME-2028-Capital-Markets--Global-Markets-Sales---Trading-Analyst_R-0000191757-1) |
 | PJT Partners | 2027 Summer Analyst - Strategic Advisory (San Francisco) | San Francisco | 2026-11-06 | [Apply](https://pjtpartners.wd1.myworkdayjobs.com/Students/job/San-Francisco/XMLNAME-2027-Summer-Analyst---Strategic-Advisory--San-Francisco-_R0003170) |
 | Baird | Internship - Investment Banking Analyst, Energy (Summer 2028) | TX-Houston | 2026-11-05 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1) |
@@ -119,4 +123,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-20 7:07 AM PT. 67 active postings.
+Last updated: 2026-11-20 7:37 AM PT. 71 active postings.

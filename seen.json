@@ -469,7 +469,7 @@
     "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NY---New-York/Corporate-Development---Finance-Summer-Analyst---NAELFY27_R00369309",
     "source": "workday",
     "first_seen": "2026-11-10",
-    "posted_at": "2026-11-12",
+    "posted_at": "2026-11-11",
     "active": true
   },
   "workday:apollo:R254978": {
@@ -504,6 +504,50 @@
     "first_seen": "2026-09-10",
     "posted_at": null,
     "active": false
+  },
+  "workday:bain-capital:REQ_108440": {
+    "id": "workday:bain-capital:REQ_108440",
+    "company": "Bain Capital",
+    "title": "2028 Special Situations Summer Analyst",
+    "location": "Boston",
+    "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Special-Situations-Summer-Analyst_REQ_108440",
+    "source": "workday",
+    "first_seen": "2026-11-20",
+    "posted_at": "2026-11-20",
+    "active": true
+  },
+  "workday:bain-capital:REQ_108450": {
+    "id": "workday:bain-capital:REQ_108450",
+    "company": "Bain Capital",
+    "title": "2028 Credit Summer Analyst",
+    "location": "Boston",
+    "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Credit-Summer-Analyst_REQ_108450",
+    "source": "workday",
+    "first_seen": "2026-11-20",
+    "posted_at": "2026-11-20",
+    "active": true
+  },
+  "workday:bain-capital:REQ_108451": {
+    "id": "workday:bain-capital:REQ_108451",
+    "company": "Bain Capital",
+    "title": "2028 Summer Analyst, Path into Private Equity",
+    "location": "Boston",
+    "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Summer-Analyst--Path-into-Private-Equity_REQ_108451-1",
+    "source": "workday",
+    "first_seen": "2026-11-20",
+    "posted_at": "2026-11-20",
+    "active": true
+  },
+  "workday:bain-capital:REQ_108454": {
+    "id": "workday:bain-capital:REQ_108454",
+    "company": "Bain Capital",
+    "title": "2028 Real Estate Summer Analyst",
+    "location": "Boston",
+    "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Real-Estate-Summer-Analyst_REQ_108454",
+    "source": "workday",
+    "first_seen": "2026-11-20",
+    "posted_at": "2026-11-20",
+    "active": true
   },
   "workday:baird:R20261000": {
     "id": "workday:baird:R20261000",
