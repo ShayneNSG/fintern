@@ -470,7 +470,7 @@
     "source": "workday",
     "first_seen": "2026-11-10",
     "posted_at": "2026-11-11",
-    "active": true
+    "active": false
   },
   "workday:apollo:R254978": {
     "id": "workday:apollo:R254978",
@@ -513,7 +513,7 @@
     "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Special-Situations-Summer-Analyst_REQ_108440",
     "source": "workday",
     "first_seen": "2026-11-20",
-    "posted_at": "2026-11-20",
+    "posted_at": "2026-11-21",
     "active": true
   },
   "workday:bain-capital:REQ_108450": {
@@ -524,7 +524,7 @@
     "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Credit-Summer-Analyst_REQ_108450",
     "source": "workday",
     "first_seen": "2026-11-20",
-    "posted_at": "2026-11-20",
+    "posted_at": "2026-11-21",
     "active": true
   },
   "workday:bain-capital:REQ_108451": {
@@ -535,7 +535,7 @@
     "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Summer-Analyst--Path-into-Private-Equity_REQ_108451-1",
     "source": "workday",
     "first_seen": "2026-11-20",
-    "posted_at": "2026-11-20",
+    "posted_at": "2026-11-21",
     "active": true
   },
   "workday:bain-capital:REQ_108454": {
@@ -546,7 +546,7 @@
     "url": "https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Real-Estate-Summer-Analyst_REQ_108454",
     "source": "workday",
     "first_seen": "2026-11-20",
-    "posted_at": "2026-11-20",
+    "posted_at": "2026-11-21",
     "active": true
   },
   "workday:baird:R20261000": {
@@ -865,7 +865,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/IA-Sioux-City/Internship---Private-Wealth-Management--Sioux-City--IA-Summer-2027-_R20261218-1",
     "source": "workday",
     "first_seen": "2026-10-26",
-    "posted_at": "2026-10-26",
+    "posted_at": "2026-10-27",
     "active": true
   },
   "workday:baird:R20261220": {
@@ -876,7 +876,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/UT-Salt-Lake-City/Internship---Private-Wealth-Management--Salt-Lake-City--UT-Summer-2027-_R20261220",
     "source": "workday",
     "first_seen": "2026-10-26",
-    "posted_at": "2026-10-26",
+    "posted_at": "2026-10-27",
     "active": true
   },
   "workday:baird:R20261221": {
@@ -887,7 +887,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Wausau/Internship---Private-Wealth-Management--Wausau--WI-Summer-2027-_R20261221-2",
     "source": "workday",
     "first_seen": "2026-10-27",
-    "posted_at": "2026-10-27",
+    "posted_at": "2026-10-28",
     "active": true
   },
   "workday:baird:R20261248": {
@@ -920,7 +920,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Houston/Internship---Investment-Banking-Analyst--Energy--Summer-2028-_R20261257-1",
     "source": "workday",
     "first_seen": "2026-11-04",
-    "posted_at": "2026-11-04",
+    "posted_at": "2026-11-05",
     "active": true
   },
   "workday:baird:R20261290": {
@@ -931,7 +931,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Janesville/Internship---Private-Wealth-Management--Janesville--WI-Summer-2027-_R20261290-1",
     "source": "workday",
     "first_seen": "2026-11-12",
-    "posted_at": "2026-11-12",
+    "posted_at": "2026-11-13",
     "active": true
   },
   "workday:baird:R20261291": {
@@ -942,7 +942,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/IL-Rockford/Internship---Private-Wealth-Management--Rockford--IL-Summer-2027-_R20261291-1",
     "source": "workday",
     "first_seen": "2026-11-12",
-    "posted_at": "2026-11-12",
+    "posted_at": "2026-11-13",
     "active": true
   },
   "workday:baird:R20261305": {
@@ -953,7 +953,7 @@
     "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Blue-Bell/Internship---Private-Wealth-Management--Blue-Bell--PA-Summer-2027-_R20261305-1",
     "source": "workday",
     "first_seen": "2026-11-17",
-    "posted_at": "2026-11-16",
+    "posted_at": "2026-11-17",
     "active": true
   },
   "workday:baird:R2026883": {
@@ -5870,7 +5870,7 @@
     "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/HOUSTON-TX/XMLNAME-2028-Investment-Banking-Summer-Internship---Early-Careers--Houston-_R-584479",
     "source": "workday",
     "first_seen": "2026-10-28",
-    "posted_at": "2026-10-29",
+    "posted_at": "2026-10-30",
     "active": true
   }
 }
