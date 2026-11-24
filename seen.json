@@ -4949,6 +4949,39 @@
     "posted_at": "2026-11-10",
     "active": false
   },
+  "workday:santander:Req1636385": {
+    "id": "workday:santander:Req1636385",
+    "company": "Santander",
+    "title": "2028 Investment Banking Summer Analyst – New York",
+    "location": "Madison Ave Corp",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2028-Investment-Banking-Summer-Analyst---New-York_Req1636385",
+    "source": "workday",
+    "first_seen": "2026-11-24",
+    "posted_at": "2026-11-23",
+    "active": true
+  },
+  "workday:santander:Req1636509": {
+    "id": "workday:santander:Req1636509",
+    "company": "Santander",
+    "title": "2028 Investment Banking Summer Analyst - Los Angeles",
+    "location": "UCM - Los Angeles",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/UCM---Los-Angeles/XMLNAME-2028-Investment-Banking-Summer-Analyst---Los-Angeles_Req1636509",
+    "source": "workday",
+    "first_seen": "2026-11-24",
+    "posted_at": "2026-11-24",
+    "active": true
+  },
+  "workday:santander:Req1636519": {
+    "id": "workday:santander:Req1636519",
+    "company": "Santander",
+    "title": "2028 Investment Banking Summer Analyst Program – San Francisco",
+    "location": "UCM - San Francisco",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/UCM---San-Francisco/XMLNAME-2028-Investment-Banking-Summer-Analyst-Program---San-Francisco_Req1636519",
+    "source": "workday",
+    "first_seen": "2026-11-24",
+    "posted_at": "2026-11-24",
+    "active": true
+  },
   "workday:stout:r2224": {
     "id": "workday:stout:r2224",
     "company": "Stout",
