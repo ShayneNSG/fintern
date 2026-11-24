@@ -51,7 +51,7 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
-| Fox | Summer 2027 FOX Internship Program - Red Seat Ventures - New York | New York, New York, USA | 2026-11-19 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Internship-Program---Red-Seat-Ventures---New-York_R50034270) |
+| Fox | Summer 2027 FOX Internship Program - Red Seat Ventures - New York | New York, New York, USA | 2026-11-18 | [Apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2027-FOX-Internship-Program---Red-Seat-Ventures---New-York_R50034270) |
 | Bain Capital | 2028 Special Situations Summer Analyst | Boston | 2026-11-21 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Special-Situations-Summer-Analyst_REQ_108440) |
 | Bain Capital | 2028 Credit Summer Analyst | Boston | 2026-11-21 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Credit-Summer-Analyst_REQ_108450) |
 | Bain Capital | 2028 Summer Analyst, Path into Private Equity | Boston | 2026-11-21 | [Apply](https://baincapital.wd1.myworkdayjobs.com/External_Public/job/Boston/XMLNAME-2028-Summer-Analyst--Path-into-Private-Equity_REQ_108451-1) |
@@ -120,4 +120,4 @@ Want a company added? Open a PR against `companies.json`.
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-24 2:36 PM PT. 68 active postings.
+Last updated: 2026-11-24 3:06 PM PT. 68 active postings.
