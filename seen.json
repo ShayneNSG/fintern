@@ -956,6 +956,28 @@
     "posted_at": "2026-11-16",
     "active": true
   },
+  "workday:baird:R20261336": {
+    "id": "workday:baird:R20261336",
+    "company": "Baird",
+    "title": "Internship – Private Wealth Management (Abilene, TX Summer 2027)",
+    "location": "TX-Abilene",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Abilene/Internship---Private-Wealth-Management--Abilene--TX-Summer-2027-_R20261336-1",
+    "source": "workday",
+    "first_seen": "2026-11-25",
+    "posted_at": "2026-11-24",
+    "active": true
+  },
+  "workday:baird:R20261339": {
+    "id": "workday:baird:R20261339",
+    "company": "Baird",
+    "title": "Internship - PWM Investment Solutions (Year-Round))",
+    "location": "WI-Milwaukee",
+    "url": "https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---PWM-Investment-Solutions--Year-Round--_R20261339-1",
+    "source": "workday",
+    "first_seen": "2026-11-25",
+    "posted_at": "2026-11-25",
+    "active": true
+  },
   "workday:baird:R2026883": {
     "id": "workday:baird:R2026883",
     "company": "Baird",
@@ -1119,7 +1141,7 @@
     "source": "workday",
     "first_seen": "2026-09-10",
     "posted_at": "2026-09-10",
-    "active": true
+    "active": false
   },
   "workday:baird:R2026998": {
     "id": "workday:baird:R2026998",

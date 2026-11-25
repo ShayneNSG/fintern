@@ -51,6 +51,8 @@ Want a company added? Open a PR against `companies.json`.
 
 | Company | Role | Location | Posted | Apply |
 |---|---|---|---|---|
+| Baird | Internship - PWM Investment Solutions (Year-Round)) | WI-Milwaukee | 2026-11-25 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---PWM-Investment-Solutions--Year-Round--_R20261339-1) |
+| Baird | Internship – Private Wealth Management (Abilene, TX Summer 2027) | TX-Abilene | 2026-11-24 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/TX-Abilene/Internship---Private-Wealth-Management--Abilene--TX-Summer-2027-_R20261336-1) |
 | Santander | 2028 Investment Banking Summer Analyst - Los Angeles | UCM - Los Angeles | 2026-11-24 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/UCM---Los-Angeles/XMLNAME-2028-Investment-Banking-Summer-Analyst---Los-Angeles_Req1636509) |
 | Santander | 2028 Investment Banking Summer Analyst Program – San Francisco | UCM - San Francisco | 2026-11-24 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/UCM---San-Francisco/XMLNAME-2028-Investment-Banking-Summer-Analyst-Program---San-Francisco_Req1636519) |
 | Santander | 2028 Investment Banking Summer Analyst – New York | Madison Ave Corp | 2026-11-23 | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2028-Investment-Banking-Summer-Analyst---New-York_Req1636385) |
@@ -119,8 +121,7 @@ Want a company added? Open a PR against `companies.json`.
 | BMO | Personal Banking Associate, Winter 2027 (Co-op/Internship), Saint-Georges-de-Beauce - 4 months | St-Georges, QC, CAN | 2026-10-27 | [Apply](https://bmo.wd3.myworkdayjobs.com/Campus/job/St-Georges-QC-CAN/Personal-Banking-Associate--Winter-2027--Co-op-Internship---Saint-Georges-de-Beauce---4-months_R260026741-1) |
 | Baird | Internship – Private Wealth Management (Pittsburgh-South Hills, PA Summer 2027) | PA-Canonsburg | 2026-09-15 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/PA-Canonsburg/Internship---Private-Wealth-Management--Pittsburgh-South-Hills--PA-Summer-2027-_R20261019-1) |
 | Robinhood | Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) | Menlo Park, CA | 2026-09-14 5:00 AM PT | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
-| Baird | Internship – Private Wealth Management (La Crosse, WI Summer 2027) | WI-Onalaska | 2026-09-10 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Onalaska/Internship---Private-Wealth-Management--La-Crosse--WI-Summer-2027-_R2026995-1) |
 | Baird | Internship - Equity Asset Management Research Analyst, Growth Team (Summer 2027) | WI-Milwaukee | 2026-08-22 | [Apply](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/Internship---Equity-Asset-Management-Research-Analyst--Growth-Team--Summer-2027-_R2026914-1) |
 | Coinbase | Accounting Intern | Hybrid - New York, NY | 2026-09-08 3:28 PM PT | [Apply](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) |
 
-Last updated: 2026-11-25 2:06 PM PT. 71 active postings.
+Last updated: 2026-11-25 2:36 PM PT. 72 active postings.
