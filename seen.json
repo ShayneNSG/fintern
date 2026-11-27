@@ -668,7 +668,7 @@
     "source": "workday",
     "first_seen": "2026-09-15",
     "posted_at": "2026-09-16",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261039": {
     "id": "workday:baird:R20261039",
@@ -723,7 +723,7 @@
     "source": "workday",
     "first_seen": "2026-09-22",
     "posted_at": "2026-09-23",
-    "active": true
+    "active": false
   },
   "workday:baird:R20261083": {
     "id": "workday:baird:R20261083",
