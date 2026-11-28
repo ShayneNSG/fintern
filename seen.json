@@ -459,7 +459,7 @@
     "source": "workday",
     "first_seen": "2026-10-01",
     "posted_at": "2026-10-06",
-    "active": true
+    "active": false
   },
   "workday:accenture:R00369309": {
     "id": "workday:accenture:R00369309",
